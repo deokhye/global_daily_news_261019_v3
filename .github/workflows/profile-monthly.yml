@@ -20,7 +20,7 @@ concurrency:
 
 jobs:
   collect:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
@@ -43,16 +43,24 @@ jobs:
 
       - name: Commit results
         run: |
+          set -u
+          BR="${GITHUB_REF_NAME}"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ output/
           if git diff --staged --quiet; then echo "변경 없음"; exit 0; fi
-          git commit -m "data: country profile monthly $(TZ=Asia/Seoul date +%F)"
+          git commit -q -m "data: country profile monthly $(TZ=Asia/Seoul date +%F)"
           for i in 1 2 3; do
-            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "── push 시도 $i/3 (브랜치: $BR)"
+            # --autostash: 실행 중 생긴 다른 변경 파일(캐시 등)이 있어도 rebase가 멈추지 않게 한다
+            if git pull --rebase --autostash origin "$BR" 2>&1 && git push origin "HEAD:$BR" 2>&1; then
+              echo "push 완료"; exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
             sleep $((i * 5))
           done
-          echo "::error::결과 커밋 push 실패"; exit 1
+          echo "── 진단 정보"; git status --short | head -30; git log --oneline -3
+          echo "::error::결과 커밋 push 실패 — 위 'push 시도' 로그의 오류 메시지를 확인하세요"; exit 1
 
       - name: Refresh dashboard (update.yml)
         if: success()

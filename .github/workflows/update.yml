@@ -8,8 +8,9 @@ on:
       - "README.md"
   schedule:
     # GitHub 스케줄은 정각(:00)에 몰려 지연·누락이 잦아 분 단위를 비껴 둔다.
-    - cron: "7 21 * * *"    # 주 실행: KST 06:07
-    - cron: "37 22 * * *"   # 백업 실행: KST 07:37 (오늘 아카이브가 이미 있으면 수집 생략)
+    # 목표: KST 06:30 전 갱신 완료. 수집·배포는 보통 10~15분 걸린다.
+    - cron: "20 20 * * *"   # 주 실행: KST 05:20
+    - cron: "50 20 * * *"   # 백업 실행: KST 05:50 (주 실행이 지연·누락돼 오늘 아카이브가 없을 때만 수집)
   workflow_dispatch:
     inputs:
       force:
@@ -28,7 +29,7 @@ concurrency:
 
 jobs:
   update-and-build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 30
     steps:
       - name: Checkout repository
@@ -41,7 +42,7 @@ jobs:
         run: |
           TODAY=$(TZ=Asia/Seoul date +%F)
           echo "today=$TODAY" >> "$GITHUB_OUTPUT"
-          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "37 22 * * *" ] && [ -f "docs/archive/$TODAY.json" ]; then
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "50 20 * * *" ] && [ -f "docs/archive/$TODAY.json" ]; then
             echo "백업 실행: 오늘($TODAY) 아카이브가 이미 있어 수집을 생략합니다."
             echo "collect=false" >> "$GITHUB_OUTPUT"
           else
@@ -82,7 +83,7 @@ jobs:
           fi
           git commit -m "chore: auto-update daily brief data [${{ steps.decide.outputs.today }}]"
           for i in 1 2 3; do
-            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0
+            git pull --rebase --autostash -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0
             echo "push 실패, 재시도 ($i/3)"; sleep $((i * 5))
           done
           echo "::warning::데이터 커밋 push 실패 — 사이트 배포는 계속 진행합니다."
@@ -97,7 +98,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     needs: update-and-build
     if: always() && needs.update-and-build.result != 'cancelled'
     steps:

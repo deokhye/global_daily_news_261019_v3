@@ -1,0 +1,66 @@
+name: Dev Check (커밋·배포 없이 점검)
+
+# main 이외 브랜치에 push 하거나, main으로 Pull request를 열면 자동 실행.
+# 수집·사이트 생성을 실제로 돌려 보지만 저장소 커밋과 GitHub Pages 배포는 하지 않는다.
+on:
+  push:
+    branches-ignore:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: dev-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Unit tests
+        run: pytest -q
+
+      - name: Run Collector
+        timeout-minutes: 20
+        run: python src/collector.py 2>&1 | tee collector.log
+
+      - name: Build Site
+        run: python src/build_site.py
+
+      - name: Check summary
+        if: always()
+        run: |
+          {
+            echo "## Dev Check 결과"
+            echo '```'
+            grep -E "\[품질\]|번역 완료|번역 중단|뉴스 시간 예산|Google News 오류|전체 .*개국 수집 완료" collector.log || echo "(collector 로그 없음)"
+            echo '```'
+            echo "사이트 미리보기: 아래 Artifacts 의 **site-preview** 를 내려받아 index.html 을 여세요."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload site preview
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview
+          path: |
+            docs/index.html
+            data/countries_data.json
+            collector.log
+          retention-days: 7
