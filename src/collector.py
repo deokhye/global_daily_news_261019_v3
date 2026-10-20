@@ -739,6 +739,42 @@ def _published_date(entry) -> str:
         return ""
 
 
+def strip_source_suffix(title: str, source: str = ""):
+    """Google News 제목 끝의 ' - 언론사' 를 제거. 언론사명이 두 번 붙거나(… - 머니투데이 - 머니투데이)
+    표기가 조금 다른 경우도 정리한다. 반환: (정리된 제목, 언론사)."""
+    title = (title or "").strip()
+    source = (source or "").strip()
+    for _ in range(3):
+        if source and title.endswith(f" - {source}"):
+            title = title[: -len(f" - {source}")].rstrip()
+            continue
+        if " - " in title:
+            head, tail = title.rsplit(" - ", 1)
+            norm = lambda x: re.sub(r"[\W_]+", "", x.lower())
+            if not source and len(tail) <= 30:
+                title, source = head.rstrip(), tail.strip()
+                continue
+            if source and tail and (norm(tail) in norm(source) or norm(source) in norm(tail)):
+                title = head.rstrip()
+                continue
+        break
+    return title, source
+
+
+# 연예·가십 기사 제외 (모든 뉴스 분류 공통). 제목에 걸리면 수집하지 않는다.
+GOSSIP_RE = re.compile(
+    r"연예|아이돌|걸그룹|보이그룹|가수|(?<![가-힣])배우(?![다고며는기])|드라마|예능|열애|결혼식|이혼|컴백|앨범|뮤직비디오|"
+    r"데뷔|소속사|방송인|유튜버|인플루언서|셀럽|스캔들|팬미팅|콘서트|오디션|"
+    r"(?i:\bcelebrit|\bsinger\b|\bactor\b|\bactress\b|\bk-?pop\b|\bidol\b|girl group|boy band|\balbum\b|"
+    r"\bconcert\b|reality (show|tv)|\bdating\b|\bdivorce|\bwedding\b|box office|\brapper\b|\binfluencer|"
+    r"\bred carpet|\bpaparazzi|\bgossip|\bLove Is Blind\b|\bBachelor\b|\bKardashian)"
+)
+
+
+def is_gossip(title: str) -> bool:
+    return bool(GOSSIP_RE.search(title or ""))
+
+
 def _parse_entry(entry) -> dict:
     title_raw = clean_text(getattr(entry, "title", "") or "")
     link = (getattr(entry, "link", "") or "").strip()
@@ -755,10 +791,7 @@ def _parse_entry(entry) -> dict:
 
     title = title_raw
     # Google News 제목은 "기사 제목 - 언론사" 형식. 언론사 접미사만 제거한다.
-    if source and title.endswith(f" - {source}"):
-        title = title[: -len(f" - {source}")]
-    elif not source and " - " in title:
-        title, source = title.rsplit(" - ", 1)
+    title, source = strip_source_suffix(title, source)
 
     summary = clean_text(getattr(entry, "summary", "") or "")
     # Google News RSS 요약은 대부분 "제목 + 언론사" 반복 → 의미 없으면 버린다.
@@ -920,6 +953,8 @@ def sanitize_item(item: dict) -> dict:
     for k in ("title", "summary", "desc", "source", "original_title"):
         if isinstance(it.get(k), str):
             it[k] = clean_text(it[k])
+    if it.get("title") and it.get("source"):
+        it["title"], _ = strip_source_suffix(it["title"], it["source"])
     heads = [_norm_title(it.get("title"))[:20], _norm_title(it.get("original_title"))[:20]]
     heads = [h for h in heads if len(h) >= 6]
     for k in ("summary", "desc"):
@@ -943,6 +978,8 @@ def _cached_list(cached_list, check=None) -> list:
         if not isinstance(x, dict) or x.get("is_fallback") or x.get("title") == FALLBACK_TEXT:
             continue
         it = sanitize_item(x)
+        if is_gossip(it.get("original_title") or it.get("title", "")) or is_gossip(it.get("title", "")):
+            continue
         if check:
             lang = it.get("lang", "ko")
             title = (it.get("original_title") or it.get("title", "")) if lang == "en" else it.get("title", "")
@@ -958,6 +995,8 @@ def _pick(candidates: list, lang: str, limit: int, seen: set, check=None, alread
         if len(picked) >= limit:
             break
         if check and not check(it.get("title", ""), lang):
+            continue
+        if is_gossip(it.get("title", "")):
             continue
         if _is_seen(it, seen):
             continue
