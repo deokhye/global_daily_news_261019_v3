@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T14:41:55.703892+09:00",
-  "generated_at_display": "2026-10-20 14:41 KST",
-  "as_of_display": "2026-10-20 14:41 KST 수집",
+  "generated_at": "2026-10-20T14:43:31.652950+09:00",
+  "generated_at_display": "2026-10-20 14:43 KST",
+  "as_of_display": "2026-10-20 14:43 KST 수집",
   "regions": [
     {
       "key": "ALL",
@@ -330,17 +330,6 @@
               "law": false
             },
             {
-              "title": "이재용 막아선 삼성전자 동행노조 \"돌아온 것은 침묵과 부상\"",
-              "desc": "",
-              "source": "연합인포맥스",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4ZWFWVGNRNm5PU051dTgwaGVLd2FVZWpnd3lOU1Q1bFA1RTg4NkNNbnJvODU0T0Z5RGFZVlhJd3QxeEdVNmR4WXEzXzk5LWNYcnVoRmZKN2ZYMkdhNXNhLTd6UXRPa0FhTDltbDhZV3Q?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-16",
-              "law": false
-            },
-            {
               "title": "임단협 난항...HD현대중 7시간 파업 19~23일로 확대",
               "desc": "",
               "source": "KBC광주방송",
@@ -352,15 +341,26 @@
               "law": false
             },
             {
-              "title": "법원, 삼성바이오 쟁의행위 제한 공정 확대… 노조 파업에 제동",
+              "title": "이재용 막아선 삼성전자 동행노조 \"돌아온 것은 침묵과 부상\"",
               "desc": "",
-              "source": "법률신문",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zbVR4NFM4dU1uZzcxQmJGM2k1bzViVmc5Ui1sbDJiNnZZU0RabnpHSFdyU0xOWGx1TXFSRmtBcVcyRU9WVWtHblRKTFcyM0Y1VlV2ajRWTkxqTWhOMThEMjA4Mkg0UWw4TFQ0LU9oMnBxZ9IBckFVX3lxTE1zbVR4NFM4dU1uZzcxQmJGM2k1bzViVmc5Ui1sbDJiNnZZU0RabnpHSFdyU0xOWGx1TXFSRmtBcVcyRU9WVWtHblRKTFcyM0Y1VlV2ajRWTkxqTWhOMThEMjA4Mkg0UWw4TFQ0LU9oMnBxZw?oc=5",
+              "source": "연합인포맥스",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4ZWFWVGNRNm5PU051dTgwaGVLd2FVZWpnd3lOU1Q1bFA1RTg4NkNNbnJvODU0T0Z5RGFZVlhJd3QxeEdVNmR4WXEzXzk5LWNYcnVoRmZKN2ZYMkdhNXNhLTd6UXRPa0FhTDltbDhZV3Q?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
               "published": "2026-10-16",
-              "law": true
+              "law": false
+            },
+            {
+              "title": "[여적]사상 첫 ‘5인 미만 노조’",
+              "desc": "",
+              "source": "경향신문",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lY2xQRWxOX3RkVjRIcFZ6TjBoc2lQYk9lRHZQbmQyTFpETEhZeXdYd25lY3BGMlBaZmdBUGhpeDIxekpjMWZCNjZYS2tiX3BhWE5ZX2JIYjFKd9IBX0FVX3lxTE5SRmx0ZGR4ZFBJV3JrMjBlbjhiazY2VXBEVUptS0djVXBLZ1hyUGNvLUtjYS1HZEpKb0hESExQVjIzZjhsSVlGMW1PZnZiSmc2Q2JKSk5VMmJ0c1pjZWE4?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-14",
+              "law": false
             }
           ]
         }
@@ -1101,8 +1101,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 199.2,
-        "change_pct": -0.05,
+        "current_rate": 198.9,
+        "change_pct": -0.21,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1129,7 +1129,7 @@
           210.3,
           204.7,
           201.5,
-          199.2
+          198.9
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CNYKRW=X",
@@ -1541,14 +1541,14 @@
             "original_title": "Hungarian journalists feel the pressure lifting after Orbán’s defeat"
           },
           {
-            "title": "헝가리가 유로화로 향하는 길: 지속 가능한 도입 전략을 위한 5가지 테스트",
-            "source": "Bruegel",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMHRQRUg5UzJIbjRDN2tLRzQwVVp2U1A3VkVkWnp6QzJXQjN3S19KZ1RRYXdZUXZQeXREV0EzbHZjbC1HNmRITjhCdzluTms3WlVkUDRmVGZXZC16UGVHVjNZT1hIOWdMa215d3hBR0k4WDZOeE5seEhqQ3NOck5LSVlMRkYzVHB5MXcyNExkdzE1ZkRMTF9IVG5rMEU?oc=5",
+            "title": "티사 당은 헝가리 선거에서 승리하고, 오르반은 권력을 잃습니다 — 가디언",
+            "source": "UA.NEWS",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPREFsU1FuM0Z2VnQxNjhTcWViYzlPbHRkWE9PSzdkZ212UTd1STE1NlJyWXc2ak9KZFlZaVZHNE1aUE5hYTBUYkVfU0pyeEoyMVlaOUtyTFdLaG9iVjA1Q1NlMkFwdTlWZklIRW1ZaG9DZEtaMmNWX1RYaVNNa3JCckY3OGMtTC1GU2VfLVdpckd0RXktdmowUWo1eEhVZ2o4NmxObGlZQjhiaUE?oc=5",
             "summary": "",
-            "published": "2026-10-19",
+            "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "Hungary’s path to the euro: five tests for a sustainable adoption strategy"
+            "original_title": "Tisza party wins elections in Hungary, Orbán loses power — The Guardian"
           }
         ],
         "soc": [
@@ -1861,16 +1861,6 @@
             "original_title": "‘A Ticking Time Bomb’: An Economic Crisis Looms in Indonesia"
           },
           {
-            "title": "인도네시아 은행은 MSCI 위협이 시장 패주를 부채질한 후 증가하는 금리 인상 압력에 직면해 있습니다.",
-            "source": "CNBC",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDFJVzhTMnl1NldGcFVSMllFbFlxM3AzSExqdmZaSGEwbGxJeGdUTTdPVVpDdVZHMmR3bm1UMlc5c1dqc3JVc2pJMmg5OEJhanUtRHRSaTR5aUwtME9UR1lTbUdCWjlkMGRkS1oycF84R0VVR3VHZFJlVGhyMzVGSm9B0gGHAUFVX3lxTE9mRnllMUtkeXg0OXl2UEN0b2JUeUNNRTF2X3FrQmE2dHQ3cFU3VUhndlRHVmRwUUNOLXZQMTBkR1pJOHJ2OHJwdnAwWDU1YlRCV3E1ZmNJMTd6ek9oUG54UW1tRGJpenB1U29hQXFUcXZUX2xBQ0hxT3ZWaEpZc1k0Z21CeTlLUQ?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout"
-          },
-          {
             "title": "설명: 인도네시아 주식에 대한 MSCI의 소송과 650억 달러의 손실",
             "source": "Reuters",
             "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0hicmI2MG4yeTRybTVNaHJFSWhnS2VxY0FUUVl0YUtCVmE5NHRjdEZ1cmhYTU9iNFlScnlFb2pKT1Fra2lnLWdHTzFyUW9aZy1tM0xoVkRjckI2Nk1jUFlwbjQ0SVlMdURDUmluQmNaQTdEVDlrbDlvSUN1WVlhd1lsZ2FVVXhzTjB6Q05VYXlzZGpPajFwWjlCYjdBREtCS2VoZUQ5M0pVb2p5cDVN?oc=5",
@@ -1889,6 +1879,16 @@
             "lang": "en",
             "translated": true,
             "original_title": "Indonesia’s market is dysfunctional, not uninvestable"
+          },
+          {
+            "title": "모니터에 따르면 인도네시아 산불은 약 2백만 헥타르를 태웠습니다.",
+            "source": "AFP.com",
+            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCTDUxUEE2WHNpYWxjM2s2UlhHeDltQnFaV2pfTExPSm1UZnlBX1R2bFRhbUdBT1dMeGVRVTB4ZlBkZ1RseG9MWHU5MA?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Monitor says Indonesia fires have burned nearly two million hectares"
           }
         ],
         "soc": [
@@ -1936,16 +1936,6 @@
           "original_title": "‘A Ticking Time Bomb’: An Economic Crisis Looms in Indonesia"
         },
         {
-          "title": "인도네시아 은행은 MSCI 위협이 시장 패주를 부채질한 후 증가하는 금리 인상 압력에 직면해 있습니다.",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDFJVzhTMnl1NldGcFVSMllFbFlxM3AzSExqdmZaSGEwbGxJeGdUTTdPVVpDdVZHMmR3bm1UMlc5c1dqc3JVc2pJMmg5OEJhanUtRHRSaTR5aUwtME9UR1lTbUdCWjlkMGRkS1oycF84R0VVR3VHZFJlVGhyMzVGSm9B0gGHAUFVX3lxTE9mRnllMUtkeXg0OXl2UEN0b2JUeUNNRTF2X3FrQmE2dHQ3cFU3VUhndlRHVmRwUUNOLXZQMTBkR1pJOHJ2OHJwdnAwWDU1YlRCV3E1ZmNJMTd6ek9oUG54UW1tRGJpenB1U29hQXFUcXZUX2xBQ0hxT3ZWaEpZc1k0Z21CeTlLUQ?oc=5",
-          "summary": "",
-          "published": "2026-10-20",
-          "lang": "en",
-          "translated": true,
-          "original_title": "Bank Indonesia faces mounting pressure to hike after MSCI threat fuels market rout"
-        },
-        {
           "title": "설명: 인도네시아 주식에 대한 MSCI의 소송과 650억 달러의 손실",
           "source": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0hicmI2MG4yeTRybTVNaHJFSWhnS2VxY0FUUVl0YUtCVmE5NHRjdEZ1cmhYTU9iNFlScnlFb2pKT1Fra2lnLWdHTzFyUW9aZy1tM0xoVkRjckI2Nk1jUFlwbjQ0SVlMdURDUmluQmNaQTdEVDlrbDlvSUN1WVlhd1lsZ2FVVXhzTjB6Q05VYXlzZGpPajFwWjlCYjdBREtCS2VoZUQ5M0pVb2p5cDVN?oc=5",
@@ -1954,6 +1944,16 @@
           "lang": "en",
           "translated": true,
           "original_title": "Explainer: MSCI's case against Indonesian stocks and the $65 billion fallout"
+        },
+        {
+          "title": "인도네시아 시장은 기능 장애가 있으며 투자가 불가능한 시장은 아닙니다.",
+          "source": "Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWtydXZNWWItVzFWZGthX1pZd0NRTUEtWGp1SDVzbDJCMmpodE1teUtCS2kta3BOYzAxT29CSVJjWWdIUXdQNnMwcjFfSGx6ZmtxRHNJODQ4dFBGd0pqVERzdmRDSDd5YS0zSGhWTmpJeGs2dEE3dThPOG81eFJEa0pLOU8?oc=5",
+          "summary": "",
+          "published": "2026-10-19",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Indonesia’s market is dysfunctional, not uninvestable"
         }
       ],
       "official_sources": [
@@ -2906,14 +2906,14 @@
         ],
         "soc": [
           {
-            "title": "평양 러시아 교육부 대표단",
+            "title": "N. 한국-러시아 교육 간담회",
             "source": "Yonhap News Agency",
-            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94Sm1FWG0wN0E5M3lJV3ZNaHU3bVprRk8tSXRxbGJnOVM0eGkxWjFwVG96dGtta0VRcElrYmlocWZJVi1lbWdTUGllY19GWGZWOFhSRFJQZUNLdThsbU9FSWxmQVBYWUZMUVBLVkNRMVVNVUZaa2pZ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaT1UwX1VrRGp0LWlMa1Z6b1dmR3pISy10bDF1eFJNcjBMNm1FQXhWWXJVQkM3OXp0SkJ1RzB5ZzBMMFlycUhXV09Idkc0eU1ndUw5RmRGZGthM2cxQkNqTV8tZ0tlQUJ0S3ZVTW5KX1dkeWpLazVZ?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "Russia education ministry delegation in Pyongyang"
+            "original_title": "N. Korea-Russia education talks"
           },
           {
             "title": "Zelenskyy는 러시아가 전력망에 다시 타격을 가할 때 우크라이나가 파트너로부터 조기 경고를받지 못했다고 말했습니다.",
@@ -2926,14 +2926,14 @@
             "original_title": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again"
           },
           {
-            "title": "타티아나 골리코바(Tatyana Golikova)가 제27차 러시아-중국 인도주의 협력 위원회 회의를 주재하고 있습니다.",
-            "source": "Правительство России",
-            "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kNkgzTFV1MUR5MzZDSXVlelN5WmF6ZUhfTTNpS2p1cUk2ZHp4SFJlTHN4cFdHMXpXbFlpb2FIS0dqM0Z0b0ZITmQ2Zw?oc=5",
+            "title": "러시아 폐렴 사망, 국제 보건 규정의 한계 노출",
+            "source": "POLITICO.eu",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDNlZ1Vta001V3Y1WnFid21mWjBhYjdWSmw3b0R5RTNoU0ZBWjVJYWFiZUlCZVUzNndheGpqZEdmVHlzcHYyRzRweldIcUVaZW1BRkVveVNOQzhYOUZDbTZHM3FRbnpGQkh2TGtvbXd5bDBFNmpaOUdlaFlUdUQ2S19ZeEJFbmZ2a0YwZ09Rbzk3Y21hSzlCNUpDNXh3LUcxNTlJ?oc=5",
             "summary": "",
-            "published": "2026-10-20",
+            "published": "2026-10-19",
             "lang": "en",
             "translated": true,
-            "original_title": "Tatyana Golikova chairs the 27th meeting of Russia-China Commission on Humanitarian Cooperation"
+            "original_title": "Russian pneumonia death exposes limits of international health rules"
           }
         ]
       },
@@ -3550,14 +3550,14 @@
             "original_title": "Malaysia's prime minister orders further consultation on separation of attorney general and prosecutor roles"
           },
           {
-            "title": "말레이시아, ‘기업 마피아‘ 조사 특별위원회 구성 예정",
+            "title": "말레이시아는 ‘기업 마피아' 를 조사하기 위해 특별 기관을 구성할 것입니다",
             "source": "Bloomberg.com",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGpnLTlsNUppU0xvTlBEcDRSaW5ZdVBOLWh2OXhlc2pBTHBWcWdaMk9laC1WdnpXWGZlbXFhVldoR21HRy1OVkdULWJvdUt0S21GN0tzN1Bxc1dXZnNVREFVSnhmWE5YdTVlMFpyUVQzWldHZHFiMUcza3E0bmNhNHdJMHJ2WmpLREhsRXQwZm4zX20yUm5yUnd3S21meDRFUDl1NDNsdGVsd3ZNd1hRVnhR?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "Malaysia Will Form Special Committee to Probe ‘Corporate Mafia’"
+            "original_title": "Malaysia Will Form Special Body to Probe ‘Corporate Mafia’"
           },
           {
             "title": "말레이시아: 민간 의료 보험 포기가 급증하자 정부는 저렴한 건강 보험 계획을 준비합니다.",
@@ -3625,14 +3625,14 @@
           "original_title": "Malaysia's prime minister orders further consultation on separation of attorney general and prosecutor roles"
         },
         {
-          "title": "말레이시아, ‘기업 마피아‘ 조사 특별위원회 구성 예정",
+          "title": "말레이시아는 ‘기업 마피아' 를 조사하기 위해 특별 기관을 구성할 것입니다",
           "source": "Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGpnLTlsNUppU0xvTlBEcDRSaW5ZdVBOLWh2OXhlc2pBTHBWcWdaMk9laC1WdnpXWGZlbXFhVldoR21HRy1OVkdULWJvdUt0S21GN0tzN1Bxc1dXZnNVREFVSnhmWE5YdTVlMFpyUVQzWldHZHFiMUcza3E0bmNhNHdJMHJ2WmpLREhsRXQwZm4zX20yUm5yUnd3S21meDRFUDl1NDNsdGVsd3ZNd1hRVnhR?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
           "translated": true,
-          "original_title": "Malaysia Will Form Special Committee to Probe ‘Corporate Mafia’"
+          "original_title": "Malaysia Will Form Special Body to Probe ‘Corporate Mafia’"
         },
         {
           "title": "말레이시아: 민간 의료 보험 포기가 급증하자 정부는 저렴한 건강 보험 계획을 준비합니다.",
@@ -3722,17 +3722,6 @@
               "law": false
             },
             {
-              "title": "KAI, 말레이시아서 초등학교 시설 개선 봉사활동…양국 협력 강화",
-              "desc": "",
-              "source": "뉴스핌",
-              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tSjNnWWFMSm1nMUdwb3o2ZWdpQkFZRlI2ajBXb0xvZlFmWVVfdGxNcDB2ZVFTUU5vN3VVQ2dZVkdBOGFmUWRnZUh4eXhDN056SGpJbDRJNUxkWmIw?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-16",
-              "law": false
-            },
-            {
               "title": "말레이시아가 2022년에 아시아 최고의 코치를 고용하기 위해 매달 15억 VND를 지출한다는 것이 사실인가요?",
               "desc": "",
               "source": "Vietnam.vn",
@@ -3741,6 +3730,17 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-18",
+              "law": false
+            },
+            {
+              "title": "KAI, 말레이시아서 초등학교 시설 개선 봉사활동…양국 협력 강화",
+              "desc": "",
+              "source": "뉴스핌",
+              "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tSjNnWWFMSm1nMUdwb3o2ZWdpQkFZRlI2ajBXb0xvZlFmWVVfdGxNcDB2ZVFTUU5vN3VVQ2dZVkdBOGFmUWRnZUh4eXhDN056SGpJbDRJNUxkWmIw?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-16",
               "law": false
             },
             {
@@ -3799,8 +3799,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 72.12,
-        "change_pct": -0.26,
+        "current_rate": 72.15,
+        "change_pct": -0.23,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -3827,7 +3827,7 @@
           81.9,
           80.86,
           74.85,
-          72.12
+          72.15
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/MXNKRW=X",
@@ -5009,7 +5009,7 @@
               "title": "현대차 크레타, 브라질서 '쾌속 질주' 3분기 누적 베스트셀링 SUV '1위'",
               "desc": "",
               "source": "더구루",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtUE9jTWJhcHI4bnI0aC1iNk04MGp0dkJDNlhWMWNPeS1CV2hQeF9YUzl6T3Z0aVpvX3d0d0k0N3hqMERpVjBYTnFLWWNBLU5USUhqeVZEV0xQU2N4ek1GQg?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdFp6dzIwd01CeGtWZ2QwdzZ5aUJGbTBlNlQwSEZxNHFVM3J3U3J5cUxFVkZLVXduNldOQ09TMi1HSWd2QkxVODBrTzU4Y2kxZ1lhV0VIX2VELWVYaG9QSnhBcw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
@@ -5792,7 +5792,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 134.2,
-        "change_pct": -0.24,
+        "change_pct": -0.23,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -5853,8 +5853,8 @@
           },
           {
             "title": "스웨덴 중앙당 대표, 정부 구성 모색",
-            "source": "Idaho Statesman",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU1EtbXR1endwZmNacjlHci15YTN3NmlRTDg1aUNtMWdSdjBXajE4V185b1c2a291R3VIUlFJa05PU0RtUmFvWjBjMXRFRGtaeDMtenJkalBKTENUNF9yTUVNOS03cHVzZnBXNnB5UTNVWDFOZnRQOWM2aE5kTmxWYS1R?oc=5",
+            "source": "Rock Hill Herald",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIalJuWXYtNkh6Z1pfb3hxVXFibkU0czdVWndHaFlScGZIVnFGQW0zeWwwU2FnR0ZzVUtwSmYxSUlFTGRvNml2UzFxcEJNRDY3aHBmMkR3eUVDdlYwcVA5UnZ0U1lrMGNqaDBpS0dLWV9PckZtU0hvLTFmYUJzWU0?oc=5",
             "summary": "",
             "published": "2026-10-19",
             "lang": "en",
@@ -5928,8 +5928,8 @@
         },
         {
           "title": "스웨덴 중앙당 대표, 정부 구성 모색",
-          "source": "Idaho Statesman",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU1EtbXR1endwZmNacjlHci15YTN3NmlRTDg1aUNtMWdSdjBXajE4V185b1c2a291R3VIUlFJa05PU0RtUmFvWjBjMXRFRGtaeDMtenJkalBKTENUNF9yTUVNOS03cHVzZnBXNnB5UTNVWDFOZnRQOWM2aE5kTmxWYS1R?oc=5",
+          "source": "Rock Hill Herald",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIalJuWXYtNkh6Z1pfb3hxVXFibkU0czdVWndHaFlScGZIVnFGQW0zeWwwU2FnR0ZzVUtwSmYxSUlFTGRvNml2UzFxcEJNRDY3aHBmMkR3eUVDdlYwcVA5UnZ0U1lrMGNqaDBpS0dLWV9PckZtU0hvLTFmYUJzWU0?oc=5",
           "summary": "",
           "published": "2026-10-19",
           "lang": "en",
@@ -6776,7 +6776,7 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 361.6,
+        "current_rate": 361.7,
         "change_pct": -0.42,
         "history_labels": [
           "2025년 11월",
@@ -6804,7 +6804,7 @@
           386.9,
           375.1,
           367.8,
-          361.6
+          361.7
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/AEDKRW=X",
@@ -9096,8 +9096,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 61.33,
-        "change_pct": -0.37,
+        "current_rate": 61.35,
+        "change_pct": -0.34,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -9124,7 +9124,7 @@
           67.69,
           66.17,
           62.77,
-          61.33
+          61.35
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CZKKRW=X",
@@ -9742,7 +9742,7 @@
         "unit_base": 100,
         "decimals": 1,
         "current_rate": 294.0,
-        "change_pct": -3.46,
+        "change_pct": -3.48,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -10100,17 +10100,6 @@
       "news": {
         "safe": [
           {
-            "title": "'슬픔에 하나로 뭉치다': 캐나다 총리가 군 기지 폭발로 사망하고 부상당한 이들을 위한 묵념의 시간을 주도",
-            "source": "ABC News - Breaking News, Latest News and Videos",
-            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEZZV2h4VWI3S1VtLThtNmpFZ01JcHJwTGZ2LTFFbWhKUFdWaGpma0Zfak1jZEdsVzJjdkxOc2doX1lUdjI0Y0lvMEF6Qi0yd01LLW9QdkhUNXlyeU9KcGhhQW90S0FXWGFiek9pbmU3eFl2aUJ2MWhiaXlIaWVKX2UyREYxcm5SNHBVSG9scEZkTzlST25BQlF1VURtendrM05LdjVGaTNVX0M3TzgtdTNVOHN3RDd0RlHSAb8BQVVfeXFMUEthSVV2blJaTFRBVnhNMWg2cFM2bXRVZkFpajdMUlFqSTNzYjJNQWw2djRpZXRFZEg2ajdjMVlXUm9yRlcyUHJ3ZEw0QjliZVVrOXNCNTQ5SmUwNUJxeF8wbXducVJRbERGV01QdldhXzM2UkxOWkdBcURpUUFmVldzMXhPQy1RYTd2ZnJYX2hRRGtEOFZlSUdRWEp0SnZrZnpuSGNtRm53ekZYNXZkS3Fqa3BEOFhIN3dMWE81ajg?oc=5",
-            "summary": "",
-            "published": "2026-10-19",
-            "lang": "en",
-            "translated": true,
-            "original_title": "'United in grief': Canadian Prime Minister leads moment of silence for those killed, injured in military base explosion",
-            "safety_tag": "테러·치안"
-          },
-          {
             "title": "캐나다 오일샌드 지역에서 산불 발생 - 에너지 뉴스, 주요 헤드라인, 논평, 특집 및 이벤트",
             "source": "EnergyNow.com",
             "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnAxZDQyZDNDMlh4aTdCaUFFbnlNb0xEbkVoV09HVFZMaV9zM3hjWDEyM3dXYlNfZHk4WERpSnhMenN2eEpnNVZWMEpzbWtYZ2dIUTBIcEE1SDE2NjVkcjhUenJFS2tfU0NBaXlOMXVqdjFfR3RGZ1o3aXpjN0luQmtuY1g?oc=5",
@@ -10122,14 +10111,25 @@
             "safety_tag": "자연재해"
           },
           {
-            "title": "2년 만에 홍역 발생, 캐나다에서 수천명 감염: PHAC",
-            "source": "Yahoo Lifestyle Canada",
-            "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wWnUxX0kxdHVnSVJuUG5yVEU5LWJuc1BLdXg3ekNvd0pSTkttdzREeU5ua1ZZOFd5aDI4U0ltRXJUajlQUTVSX3NXejJGV3p2OWNMZ3pBVHVSSWRheVZUNm5hVmhIMmRvVi1yWW1RTWtmSXM5YnJTdldWSQ?oc=5",
+            "title": "'슬픔에 하나로 뭉치다': 캐나다 총리가 군 기지 폭발로 사망하고 부상당한 이들을 위한 묵념의 시간을 주도",
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEZZV2h4VWI3S1VtLThtNmpFZ01JcHJwTGZ2LTFFbWhKUFdWaGpma0Zfak1jZEdsVzJjdkxOc2doX1lUdjI0Y0lvMEF6Qi0yd01LLW9QdkhUNXlyeU9KcGhhQW90S0FXWGFiek9pbmU3eFl2aUJ2MWhiaXlIaWVKX2UyREYxcm5SNHBVSG9scEZkTzlST25BQlF1VURtendrM05LdjVGaTNVX0M3TzgtdTNVOHN3RDd0RlHSAb8BQVVfeXFMUEthSVV2blJaTFRBVnhNMWg2cFM2bXRVZkFpajdMUlFqSTNzYjJNQWw2djRpZXRFZEg2ajdjMVlXUm9yRlcyUHJ3ZEw0QjliZVVrOXNCNTQ5SmUwNUJxeF8wbXducVJRbERGV01QdldhXzM2UkxOWkdBcURpUUFmVldzMXhPQy1RYTd2ZnJYX2hRRGtEOFZlSUdRWEp0SnZrZnpuSGNtRm53ekZYNXZkS3Fqa3BEOFhIN3dMWE81ajg?oc=5",
             "summary": "",
-            "published": "2026-10-20",
+            "published": "2026-10-19",
             "lang": "en",
             "translated": true,
-            "original_title": "Measles outbreak over after 2 years, thousands infected in Canada: PHAC",
+            "original_title": "'United in grief': Canadian Prime Minister leads moment of silence for those killed, injured in military base explosion",
+            "safety_tag": "테러·치안"
+          },
+          {
+            "title": "캐나다: 매니토바 당국, 홍역 발병 선언",
+            "source": "Outbreak News Today",
+            "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yTXdleU1SbkRpNkF2RTExMWc4ckJwZ2ZHSzN1Z252RFZTTEhSRXZzOHJIWm1BdWlRRTJQQUxXdXRMVUYtMHQxbE1xUW56MVNXYW5uOEp4ZU1Ib1JzN29LUFNmTXNPMldGRWxMTmk3NHJGbXY2YVlzOU5tRlZSVDA?oc=5",
+            "summary": "",
+            "published": "2026-10-19",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Canada: Manitoba officials declare measles outbreak over",
             "safety_tag": "환경·보건"
           }
         ],
@@ -10826,16 +10826,6 @@
             "original_title": "Consulate of the Republic of Croatia Opens in Bishkek"
           },
           {
-            "title": "크로아티아 8월 순전력 생산량 13% 증가",
-            "source": "SeeNews",
-            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1F0bzlkZW9wR0M1M1ZtUkEtZ1ZyZ0FkWXJXVlNqdHdJRm80VXNaMXVqY3VsenBzTFBTQjh2aGFmRm5JUENBSkxjM0Z2MXJ4bjBxWjAxUUpYMTVvaWVCWEF0YV9YMmxKem5acUstNWVXX0liSGgtcy02YVZWVWR5UTVFMmJJZi0xZEQzVEdn?oc=5",
-            "summary": "",
-            "published": "2026-10-19",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Croatia's net electricity output up 13% in Aug"
-          },
-          {
             "title": "혁신 순위에서 점점 뒤쳐지는 크로아티아",
             "source": "Total Croatia",
             "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGY2VTZjM2NTNmlOSkVQNm9EdVBuSUdHV2oxV2N5OV9wVGJXX0NKcktqYXVHbmRzVjBWT3F4VVZNZVBCaC1CN3FfandmWWloM2pNaFRTYzIyNXlpVnVJVjFwN0FtaXBpMXg4WEZYaWVMS1JrcTJKUUUyQzdpeXRwRnFDQi1Mc1Vhd0YzSDZ3RnRBTXh4M3M2V2VraldQalpuTjZr?oc=5",
@@ -10844,6 +10834,16 @@
             "lang": "en",
             "translated": true,
             "original_title": "Croatia Lagging Further and Further Behind on Innovation Ranking"
+          },
+          {
+            "title": "크로아티아 8월 순전력 생산량 13% 증가",
+            "source": "SeeNews",
+            "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1F0bzlkZW9wR0M1M1ZtUkEtZ1ZyZ0FkWXJXVlNqdHdJRm80VXNaMXVqY3VsenBzTFBTQjh2aGFmRm5JUENBSkxjM0Z2MXJ4bjBxWjAxUUpYMTVvaWVCWEF0YV9YMmxKem5acUstNWVXX0liSGgtcy02YVZWVWR5UTVFMmJJZi0xZEQzVEdn?oc=5",
+            "summary": "",
+            "published": "2026-10-19",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Croatia's net electricity output up 13% in Aug"
           }
         ],
         "soc": [
@@ -10901,14 +10901,14 @@
           "original_title": "Consulate of the Republic of Croatia Opens in Bishkek"
         },
         {
-          "title": "크로아티아 8월 순전력 생산량 13% 증가",
-          "source": "SeeNews",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1F0bzlkZW9wR0M1M1ZtUkEtZ1ZyZ0FkWXJXVlNqdHdJRm80VXNaMXVqY3VsenBzTFBTQjh2aGFmRm5JUENBSkxjM0Z2MXJ4bjBxWjAxUUpYMTVvaWVCWEF0YV9YMmxKem5acUstNWVXX0liSGgtcy02YVZWVWR5UTVFMmJJZi0xZEQzVEdn?oc=5",
+          "title": "혁신 순위에서 점점 뒤쳐지는 크로아티아",
+          "source": "Total Croatia",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGY2VTZjM2NTNmlOSkVQNm9EdVBuSUdHV2oxV2N5OV9wVGJXX0NKcktqYXVHbmRzVjBWT3F4VVZNZVBCaC1CN3FfandmWWloM2pNaFRTYzIyNXlpVnVJVjFwN0FtaXBpMXg4WEZYaWVMS1JrcTJKUUUyQzdpeXRwRnFDQi1Mc1Vhd0YzSDZ3RnRBTXh4M3M2V2VraldQalpuTjZr?oc=5",
           "summary": "",
-          "published": "2026-10-19",
+          "published": "2026-10-20",
           "lang": "en",
           "translated": true,
-          "original_title": "Croatia's net electricity output up 13% in Aug"
+          "original_title": "Croatia Lagging Further and Further Behind on Innovation Ranking"
         }
       ],
       "official_sources": [
@@ -11195,16 +11195,6 @@
             "original_title": "From piercings to purification: Thailand’s 2026 vegetarian festival – in pictures"
           },
           {
-            "title": "태국 남부 여행의 새로운 정의",
-            "source": "WWD",
-            "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcUJNalRSS2pLSEg1TXF3S2k0VFUwRi1VS2tRb3BpLS1SUkw3cUZTZVNpc1IzOEJISFBMaGp0bGNheHphWUxSMC1iOE1ZWldLV3RVd25hQ2FJZlhhZWZFVFZnakRYeTVhQUZhQmdSekZSRENPelF4N0p5NjZ0Q1BURFZvWUR6OWIwY0RNcVA5cXFnVEo0TGJZaTk0Z2ZhZUlfQlJHdGxhOTg5VW9D?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Redefining Travel in Southern Thailand"
-          },
-          {
             "title": "'우리는 다른 사람들이 우리를 지원하기를 기다릴 필요가 없습니다': 미얀마 난민들은 태국의 취업 프로그램에서 희망을 찾습니다.",
             "source": "DW.com",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbnlJQnhlTVJEcHhKellrWGR2Yk9hQmdPUlBiMFJ2UG84UDZMS19oakh2dlp6Ry1qdHNqc2Z5cTVId2xxUEY2SlEzR3JVWUxfZmtLLUttTTZXNlduemt3OHVtckRPYTF4Rm9JOEFFbHluX1VEX09hUDJfNkExRElPa1o0MURVNkVWSnVCV2h30gGOAUFVX3lxTE5lUXBMTVRaQnJ3bXdEZjNRRHc4enRmeVNYYkQwdHdWUVFhSkpzZ21QLUY0MnNPSUhybTd2VktDdzVVWmh1MVl1cnpyT2ZicHQ4Y3JLZld5dzRpY05jcWw1WkhJVkQyV1h6dXM4OGhjbUxTdUotX3pqWUUxRUxHWWpuc0Vnam8zZ0FtenN0dHc?oc=5",
@@ -11213,6 +11203,16 @@
             "lang": "en",
             "translated": true,
             "original_title": "'We don't have to wait for others to support us': Myanmar refugees find hope in Thailand's work program"
+          },
+          {
+            "title": "태국 관광부 장관, 중국 대사관 안전 권고에 대응",
+            "source": "Nation Thailand",
+            "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yQ016MFY2R0JuNjVZcVlVX0gyUjZvcXl6OHJLVGN4cGM5VmlvSEhFdGtiNHNwOU5QM2lQMmlwYjk4alFlN2VGNW5heUFQcDRzQnprZGoxWTJGa0JYWnNYOUlR?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Thai tourism minister responds to Chinese embassy safety advisory"
           }
         ]
       },
@@ -11302,14 +11302,14 @@
               "published": "2026-10-16"
             },
             {
-              "title": "태국 총리, 기시다와 회동…“현지 EV 생산 확대·일본 업체 협력 중시”",
+              "title": "BYD, 태국 방콕서 넷플릭스 협업 특별 시승 행사 개최",
               "desc": "",
-              "source": "메디컬투데이",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56MW1hVFZGRThNUXdwcE41S0F4azdMc2VLV0hILWlSdWdoWmxkLWNEWnY4clBhUVh5QVlaZlF4clBUQnlJNm1OSUhIWDZFZEFYWnBpVjhuMTBKd3RlQ18yTDMxTWJud3p1bG5sWg?oc=5",
+              "source": "고카넷",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vYWtILS0tNUR0LUFpWm1uX1dvNlJjN0ZyY3ZTUzFEVC10SHkwY3FBd1VORVhpQklTdHJwWll4XzQxZ2l4WHNOcDNuckhsUjA5WFhNVFpOMDhmSU9iZ3p2cXhIa1c?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-13"
+              "published": "2026-10-16"
             }
           ]
         },
@@ -11352,14 +11352,14 @@
               "law": false
             },
             {
-              "title": "태국은 노동력 감축을 위해 조기 퇴직 프로그램을 시행할 계획입니다.",
+              "title": "영문 버튼이 낯선 분을 위한 태국 카지노 파타야 조작 번역",
               "desc": "",
-              "source": "Vietnam.vn",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXEwZmR1ZmRMUWhlcHljVld6UFE5WmZ5eVdKb25VWlBXaXZKbTYtN3FiQ2stelB4MVFreV9TakpxQ0NQR0JEdXVYWWc0b2NzVXlyRjZLSm5iZW5JOVFIdzNHb2tLcHJtaFBZVkVLaVQ5azlYRmstNDR3ZWhJS1BEb1hBYy1ZRmd5SDhfeUZqUlJoWkpMREJpaXVLOUZzQQ?oc=5",
+              "source": "Calgary Roughnecks",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1E3NFQ3cHdSS0ZjdGVuNlFVa2VQamdnVDZpT1RnQkxodUNuVUdsd0VRSlYxZF95U3d0eXZHWDVlNGVnajM1MW9EcEw5XzhVUFFTVF96VC1LcUpPRk5yZVZJd25xdFd4Y1k1RzRMR19fT3RfajQ3N2diNmRlSXppRXNKbnNiSTVjb2s2Rw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-11",
+              "published": "2026-10-19",
               "law": false
             }
           ]
@@ -11487,6 +11487,16 @@
             "original_title": "Turkey Says $20 Billion Iraq-Europe Trade Route Could Generate $55 Billion Over Decade"
           },
           {
+            "title": "에너지 장관은 터키는 미국-러시아 공급 거래에서 일부 디젤을 얻을 것이라고 말했다.",
+            "source": "Reuters",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5",
+            "summary": "",
+            "published": "2026-10-18",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Turkey will get some diesel from US-Russia supply deal, energy minister says"
+          },
+          {
             "title": "터키 무역의 식초",
             "source": "The Observatory of Economic Complexity",
             "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxU3Bvei1WdEhlSVl5Rk81NnQtN0tyZ0YzUFpSZXkxMXRCMmFUX3haN1BnU24xV00xWVA3OFh3VDNfVUhvcXE3VkZ2RDBMNzd3U0ZqaXdzYWV3MjkxUXV3bnJtVldla2s?oc=5",
@@ -11505,16 +11515,6 @@
             "lang": "en",
             "translated": true,
             "original_title": "Turkey to receive Russian diesel under Trump deal, energy minister says: report"
-          },
-          {
-            "title": "터키 보고서 2026",
-            "source": "fDi Intelligence",
-            "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVEVUS01KRXRSMXVzMkxJQ25OWklUdFFuNFozZEFPSDB5MEQ0eHc5bzBPckRRZ21ZRE9yZmFFWW5VU05KSzFpbl82OF9aZ0hRLTFHZndOQURHQXhKb0YxVG9SV3JrU0I4X0VWbGp2cWZUeE84ZHJPc25tM0RsSHZwaUln?oc=5",
-            "summary": "",
-            "published": "2026-10-19",
-            "lang": "en",
-            "translated": true,
-            "original_title": "The Turkey Report 2026"
           }
         ],
         "soc": [
@@ -11562,6 +11562,16 @@
           "original_title": "Turkey Says $20 Billion Iraq-Europe Trade Route Could Generate $55 Billion Over Decade"
         },
         {
+          "title": "에너지 장관은 터키는 미국-러시아 공급 거래에서 일부 디젤을 얻을 것이라고 말했다.",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYjdhZ0V0TGxFRVBoQWVSMVBlOXFvdm1rcFlmWm45dVdYS3FJdm5ZdExGM2xRd3hhb1hvWUJYdnVlRG50bm1CbjJubjRnM2JtVFp3UkdiU0QxcVJEbnZyNC1HSDhOYUM1THhiTm9heG9tTV9FTHpwMW1BOEhxN0Q0WjlocVJMZV9TSUlIN0RMZDdkQmpPQUhUQk40bkNDdzdMSVhEa3U5eUZKd2R1OVBqajZYTDI5cDhTT3FaUk5uZw?oc=5",
+          "summary": "",
+          "published": "2026-10-18",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Turkey will get some diesel from US-Russia supply deal, energy minister says"
+        },
+        {
           "title": "터키 무역의 식초",
           "source": "The Observatory of Economic Complexity",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxU3Bvei1WdEhlSVl5Rk81NnQtN0tyZ0YzUFpSZXkxMXRCMmFUX3haN1BnU24xV00xWVA3OFh3VDNfVUhvcXE3VkZ2RDBMNzd3U0ZqaXdzYWV3MjkxUXV3bnJtVldla2s?oc=5",
@@ -11570,16 +11580,6 @@
           "lang": "en",
           "translated": true,
           "original_title": "Vinegar in Turkey Trade"
-        },
-        {
-          "title": "터키, 트럼프 계약에 따라 러시아 디젤 공급받을 것",
-          "source": "Turkish Minute",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQXBoZmhZcTlaanJwSHFKNUY1WkhOeXhBeFZuRzdlc2xQM3JQZTU3dWhvblR0NVVrdXlkOGsxZ3BEaGItT1BOMDhkOEE0SEhRUkU5QjJURWR2eWlZRG5ZZHh1cF9Ka0Z6cVAtTWlFLWczQUhSNTExVlp3M1dCRWNJSkxtbWNRazVxUkxCX3BsZnJYT2xNQTBKaEZsb0NsZTRNS1VmUXVMUjFHUU9JdnMzQzB6SUxrTmxrdy1B0gHAAUFVX3lxTE1HWUhPN2tuWFNVWVJpaWJobF9DRDF0Wk1vQ29fcDM3U2g0QzZVTDBvZnV1djZRakhsVmx5S0VSYVBfWmdCNzZNaFRiX2pRdXVCN3BrcW9jd3E2TEZMek85LWdNVTFTakdvOVBJaHNoNDhjRjJGOFZ6YUxCZjBFaDhXbGlMSU0wUGVFM29FbUU2Z3FOTXN0ZkZiWVlxTHQyWm1WV25hZWhZdkZyYzZDdDhpdFItZVFnV3NZNUNOdU5fOA?oc=5",
-          "summary": "",
-          "published": "2026-10-19",
-          "lang": "en",
-          "translated": true,
-          "original_title": "Turkey to receive Russian diesel under Trump deal, energy minister says: report"
         }
       ],
       "official_sources": [
@@ -12076,7 +12076,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 341.5,
-        "change_pct": -0.32,
+        "change_pct": -0.31,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
