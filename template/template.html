@@ -54,7 +54,9 @@
   .chip[aria-pressed="true"] { border-color: var(--text); background: var(--text); color: #fff; font-weight: 700; }
   .chip[aria-pressed="true"] .tier { background: rgba(255,255,255,.2); color: #FFEDD5; }
 
-  main { padding-top: 24px; padding-bottom: 72px; display: flex; flex-direction: column; gap: 18px; }
+  /* .wrap(class)의 padding 단축 속성보다 우선하도록 id 선택자로 지정 */
+  #main { padding-top: 24px; padding-bottom: 48px; }
+  main { display: flex; flex-direction: column; gap: 18px; }
   .card { background: var(--card); border: 1px solid var(--line); border-radius: 20px; padding: 24px; min-width: 0; }
   .card h2 { margin: 0; font-size: 18px; font-weight: 900; display: flex; align-items: center; gap: 8px; }
   .card-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px; margin-bottom: 4px; }
@@ -259,9 +261,12 @@
   }
   function regionLabel(key) { var r = REGIONS.find(function (x) { return x.key === key; }); return r ? r.label : key; }
   function byCode(code) { return COUNTRIES.find(function (c) { return c.code === code; }); }
+  // 연예·가십 기사 숨김 (수집 단계에서도 거르지만, 이미 수집된 과거 데이터에도 적용)
+  var GOSSIP = /연예|아이돌|걸그룹|보이그룹|가수|드라마|예능|열애|결혼식|이혼|컴백|앨범|뮤직비디오|데뷔|소속사|방송인|유튜버|인플루언서|셀럽|스캔들|팬미팅|콘서트|오디션|(^|[^가-힣])배우(?![다고며는기])|celebrit|\bsinger\b|\bactor\b|\bactress\b|k-?pop|\bidol\b|girl group|boy band|\balbum\b|\bconcert\b|reality (show|tv)|\bdating\b|divorce|\bwedding\b|box office|\brapper\b|influencer|red carpet|gossip|love is blind|kardashian/i;
   function realItems(list) {
     return (Array.isArray(list) ? list : []).filter(function (i) {
-      return i && i.title && !i.is_fallback && i.title !== FALLBACK_TITLE;
+      return i && i.title && !i.is_fallback && i.title !== FALLBACK_TITLE &&
+        !GOSSIP.test(i.title) && !GOSSIP.test(i.original_title || '');
     });
   }
   function trend(c, cat) {
