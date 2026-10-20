@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T16:05:16.882436+09:00",
-  "generated_at_display": "2026-10-20 16:05 KST",
-  "as_of_display": "2026-10-20 16:05 KST 수집",
+  "generated_at": "2026-10-20T16:11:21.176841+09:00",
+  "generated_at_display": "2026-10-20 16:11 KST",
+  "as_of_display": "2026-10-20 16:11 KST 수집",
   "regions": [
     {
       "key": "ALL",
@@ -79,7 +79,7 @@
           "Hankook Engineering Lab (Daejeon)",
           "Hankook Technoring (Taean)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -168,9 +168,9 @@
             "original_title": ""
           },
           {
-            "title": "10월 금통위 '금리 동결' 무게…증시 반등 불씨 될까",
-            "source": "글로벌이코노믹",
-            "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWi10MzRMaG9MV0kwOXpEdjJoWDZDbHlleVZBNE5HdkR0bHZmZEE4V2xMS1I5Zm56b1dsc0g0bnVHWDc2UGhMVTBnQjc2WVdxMWxrMVFhdnZTX3Y4U2t2MjFrXzZCTWhHR1NhLVh3WjdCRldQNF9TVmlDOXdOblFFdEh4UVpjOEl0?oc=5",
+            "title": "李 대통령 “부동산 공급 전격전… 각종 인허가·착공 단축”",
+            "source": "매일건설신문",
+            "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE8xOUVKQUM2VEFmSmw5OTZndllvSzVwTVExRUxROGRwMWl2SkdNQWVFSDc4dlJCeF9JRUw5c3RZTUhiaTA?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "ko",
@@ -396,7 +396,7 @@
           "Tennessee Plant (Clarksville)",
           "American Technical Center (Uniontown)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -410,8 +410,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1326.7,
-        "change_pct": -0.5,
+        "current_rate": 1326.5,
+        "change_pct": -0.52,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -438,7 +438,7 @@
           1420.6,
           1377.1,
           1350.5,
-          1326.7
+          1326.5
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
@@ -483,6 +483,16 @@
         ],
         "pol": [
           {
+            "title": "트럼프 \"멕시코와 미국이 무역협상에 가까워졌다\"",
+            "source": "U.S. News & World Report",
+            "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1mSGJKdFFYTkhNMnBCaDQ2WS1oNUNsSHhVVThuWW9vcVF0dllUUG4wckVCaGJOMy1LV0ZPdk5BQ1JXSnJSTERPZ1g1bkkwUTZmVFZNU0JGTTBHRm93ZlNHMDFCdldlV2pRTEtKcVlTWndhdk9YSnpzNV92UlBKNTlzNlRmZVdUU0VJem9pUVpHM25oOWhIVjR3dXRwYjN0V2VaZzFCSWs?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Trump Says Mexico and US Are Close to Trade Deal"
+          },
+          {
             "title": "미국 하원의원 2명이 호리이(HORII) 외무장관을 의례적으로 방문했다.",
             "source": "Ministry of Foreign Affairs of Japan",
             "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWUWJQSFBRQmhJeUhqQnpSYkJ3QTVkUlZtM0FpQTc3eUZ0UFI2NHRhNEVuc1pHY2lxWHB1cXRHeDF0bWlnNkpSZEM5dEowRk5QbGQ0cmtFdFBiREoxcHdmWDhSbkltSkkzTVJkNWVFRXA?oc=5",
@@ -511,16 +521,6 @@
             "lang": "en",
             "translated": true,
             "original_title": "Fact Check Team: How Israel’s election could shape its relationship with the US and Iran"
-          },
-          {
-            "title": "탈라리코는 선거를 앞두고 미국 상원의원 경선에서 팩스턴보다 약간 우위를 점하고 있다.",
-            "source": "Houston Public Media",
-            "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcEVmRWxZSFQ3VWZUSExjTnhWb291Rjh6TnFVZ1lKQTJMMW1DYkhKSG1ncldqNVQ3SHBkMFhINm43UnpoVkMwXzJneXJLRTczX0lOdHIyMmdtY0NJYlJsLTdmUWJEZ3pJbGlxX21oVFpiR2laYnVmdXdfem5Hdy1VWkFraURHMVBEb0FtZUM5VU1JcUMxZTJwQ3RCSHRvTzR1MFdQUVZoUE16Qk8yOWE5NFU2SG5LVEVMN0FqZWJRSDIycTJMaTJ1bmNrX3BQd1NjRFJQTUc2NEp5cU9zNkQxZkxjaExKb3FfNTNuNVh6NWt4WXEzeFB3ZUxSekJlZWRUZGR1c3hBOUtrV0HSAZMCQVVfeXFMTTI4VE4zNmloZV9CMWVpOUdRLUR0cmRCUlluY2tLdEZ4VF9JNmxzbm1Ha0FtLXFpTm1nNU9YdTBOVDA2Z0pCU1NmQzJQcG1hOE5vTkhQZkZSVXBLR1hMOXdWdkJ1LXlRZkRlRml1MHBDM2Jab2xETUpYemU4UG9uQkoybGFvVXdhUXpMUS1rWFB2ZDVEWFREZ2NxTkxMVVBzMmUyS0hjYkwxdnFibXRTZ3hMSHdzekxSdEtzM2RsU0xkYWJuYkFkTFgyUDRVaVFGOTUzd0NzdXBBVW4xemZFWTlXZHZuRGU3OHhRaXVpYWZPblBEUXNQdU9JbGdzbTBGTVdGaVNKVXAwcHpxSHQ4S1lNRkU?oc=5",
-            "summary": "",
-            "published": "2026-10-19",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Talarico holds slight edge over Paxton in U.S. Senate race on cusp of election, poll shows"
           }
         ],
         "soc": [
@@ -558,6 +558,16 @@
       },
       "headlines": [
         {
+          "title": "트럼프 \"멕시코와 미국이 무역협상에 가까워졌다\"",
+          "source": "U.S. News & World Report",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcC1mSGJKdFFYTkhNMnBCaDQ2WS1oNUNsSHhVVThuWW9vcVF0dllUUG4wckVCaGJOMy1LV0ZPdk5BQ1JXSnJSTERPZ1g1bkkwUTZmVFZNU0JGTTBHRm93ZlNHMDFCdldlV2pRTEtKcVlTWndhdk9YSnpzNV92UlBKNTlzNlRmZVdUU0VJem9pUVpHM25oOWhIVjR3dXRwYjN0V2VaZzFCSWs?oc=5",
+          "summary": "",
+          "published": "2026-10-20",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Trump Says Mexico and US Are Close to Trade Deal"
+        },
+        {
           "title": "미국 하원의원 2명이 호리이(HORII) 외무장관을 의례적으로 방문했다.",
           "source": "Ministry of Foreign Affairs of Japan",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWUWJQSFBRQmhJeUhqQnpSYkJ3QTVkUlZtM0FpQTc3eUZ0UFI2NHRhNEVuc1pHY2lxWHB1cXRHeDF0bWlnNkpSZEM5dEowRk5QbGQ0cmtFdFBiREoxcHdmWDhSbkltSkkzTVJkNWVFRXA?oc=5",
@@ -576,16 +586,6 @@
           "lang": "en",
           "translated": true,
           "original_title": "Opinion | The U.S. badly needs new tariff laws"
-        },
-        {
-          "title": "팩트 체크 팀: 이스라엘의 선거가 미국 및 이란과의 관계를 형성할 수 있는 방법",
-          "source": "KATU",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU2xpRHFaczFlUDdwdUlOTGM5eF9zdnV4eU1lTkdpRC00QlZnTzVMRERWNDVEQlJEVTBFeDBNSktidzZ6cnJaTU5tMHB6QWdlMklJZjBmYk5DcVMzb3NlVkxLVlFCNU5ZaXJlNDM0dHlZZ1pRQ0V0bnFCSENralhLNklGWUpRa0RHV0pqNFFPU3pmNTVBQnVjUFNUd0FlQmYxNjR6SWNaZ1RWdFFWOExYWVJXZWRZNHM1aDlCNFNFQjBVOUxDaEFGNFVIdTVTN29iMk5Cd2VqMkl4NUVwQVF0TGhDNE4xNG1Fd2lJekNxVGc?oc=5",
-          "summary": "",
-          "published": "2026-10-20",
-          "lang": "en",
-          "translated": true,
-          "original_title": "Fact Check Team: How Israel’s election could shape its relationship with the US and Iran"
         }
       ],
       "official_sources": [
@@ -736,7 +736,7 @@
           "Europe Technical Center (Hannover)",
           "Hankook Reifen Deutschland GmbH (Neu-Isenburg)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -750,8 +750,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1490.1,
-        "change_pct": -0.54,
+        "current_rate": 1488.6,
+        "change_pct": -0.64,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -778,7 +778,7 @@
           1636.7,
           1580.0,
           1531.4,
-          1490.1
+          1488.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
@@ -833,16 +833,6 @@
             "original_title": "The Far Right Breaks Through in Germany"
           },
           {
-            "title": "독일은 산업용 AI에서 세계를 이끌고자 합니다: NVIDIA가 돕는 방법",
-            "source": "NVIDIA Blog",
-            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh0dS1IVTRGYkoyUVNoWmlMUEZncElQVFVYMU9MeV9iMF9IRzJ3NFV1Wk5oRDlsdVNlUzQ1U3p0MEVmZFBBSkx5VnBKQ0tDZGdVTkUtaFZoc3JLamV6Qms0MXEzbW5yM1J0cjdDRnI5SWhKejFMcmhMNlNXaUg1MVZVQTlZXzQyUXJaS2Q4TkJMR29XbnI1bjNVZHBfOWMyUUE?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help"
-          },
-          {
             "title": "독일 경제",
             "source": "TelegraphHerald.com",
             "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWJWZFZNSDNnX0xQWjhFOVFFNVQ1NzluckFkOGhxNmtycHlBWlRXSTZBa3hvUXBIU2FFbTVGZDBWcnRFaHBkSDg5cFVnRkVGaENsb2tMdER5Sk1xVEZnS1VfYUl0VF9UN21hb1otcnh4ckkyaDlOSTY3cnFXbzNRQWlZZF9XZmx4YVpoSm5KWWFWaUxvaGc?oc=5",
@@ -851,6 +841,16 @@
             "lang": "en",
             "translated": true,
             "original_title": "Germany Economy"
+          },
+          {
+            "title": "독일은 산업용 AI에서 세계를 이끌고자 합니다: NVIDIA가 돕는 방법",
+            "source": "NVIDIA Blog",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh0dS1IVTRGYkoyUVNoWmlMUEZncElQVFVYMU9MeV9iMF9IRzJ3NFV1Wk5oRDlsdVNlUzQ1U3p0MEVmZFBBSkx5VnBKQ0tDZGdVTkUtaFZoc3JLamV6Qms0MXEzbW5yM1J0cjdDRnI5SWhKejFMcmhMNlNXaUg1MVZVQTlZXzQyUXJaS2Q4TkJMR29XbnI1bjNVZHBfOWMyUUE?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help"
           },
           {
             "title": "독일 메르츠, 엔비디아 인수 앞두고 AI 투자 촉구",
@@ -908,16 +908,6 @@
           "original_title": "The Far Right Breaks Through in Germany"
         },
         {
-          "title": "독일은 산업용 AI에서 세계를 이끌고자 합니다: NVIDIA가 돕는 방법",
-          "source": "NVIDIA Blog",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh0dS1IVTRGYkoyUVNoWmlMUEZncElQVFVYMU9MeV9iMF9IRzJ3NFV1Wk5oRDlsdVNlUzQ1U3p0MEVmZFBBSkx5VnBKQ0tDZGdVTkUtaFZoc3JLamV6Qms0MXEzbW5yM1J0cjdDRnI5SWhKejFMcmhMNlNXaUg1MVZVQTlZXzQyUXJaS2Q4TkJMR29XbnI1bjNVZHBfOWMyUUE?oc=5",
-          "summary": "",
-          "published": "2026-10-20",
-          "lang": "en",
-          "translated": true,
-          "original_title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help"
-        },
-        {
           "title": "독일 경제",
           "source": "TelegraphHerald.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWJWZFZNSDNnX0xQWjhFOVFFNVQ1NzluckFkOGhxNmtycHlBWlRXSTZBa3hvUXBIU2FFbTVGZDBWcnRFaHBkSDg5cFVnRkVGaENsb2tMdER5Sk1xVEZnS1VfYUl0VF9UN21hb1otcnh4ckkyaDlOSTY3cnFXbzNRQWlZZF9XZmx4YVpoSm5KWWFWaUxvaGc?oc=5",
@@ -926,6 +916,16 @@
           "lang": "en",
           "translated": true,
           "original_title": "Germany Economy"
+        },
+        {
+          "title": "독일은 산업용 AI에서 세계를 이끌고자 합니다: NVIDIA가 돕는 방법",
+          "source": "NVIDIA Blog",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaHh0dS1IVTRGYkoyUVNoWmlMUEZncElQVFVYMU9MeV9iMF9IRzJ3NFV1Wk5oRDlsdVNlUzQ1U3p0MEVmZFBBSkx5VnBKQ0tDZGdVTkUtaFZoc3JLamV6Qms0MXEzbW5yM1J0cjdDRnI5SWhKejFMcmhMNlNXaUg1MVZVQTlZXzQyUXJaS2Q4TkJMR29XbnI1bjNVZHBfOWMyUUE?oc=5",
+          "summary": "",
+          "published": "2026-10-20",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help"
         }
       ],
       "official_sources": [
@@ -992,14 +992,14 @@
               "published": "2026-10-13"
             },
             {
-              "title": "“폭스바겐마저 이 지경”…中 저가차에 밀려 독일 공장 4곳 폐쇄 위기",
+              "title": "중국 자동차 “어쩌나···프랑스·독일, ‘유럽산’ 빗장",
               "desc": "",
-              "source": "마켓인",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qcE1MaEhzRlQwTVA3a0o5LW9UTzl6RmRmcS1RXzVja2FYZHg0VmtOekZKUWdDSmNMUnN0eER1Q081Mi1iY1ZXUFI0U1V5UHdvV3F3RldxUFBrUWlZcnE3SWltcUxOenRsLXpFNURfTXNDbFk?oc=5",
+              "source": "시사주간",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbmZzUGgwVHRpMERZcjZfSVRya0UtcFBqOGxSMzZ6Rl8xWWlNcDh4NW8yaDBrcm91ZV96UHdJZWhweG4zRjR2bHdTOUFqT0U0djNIRWRiR2RPNzdQY3JpQ2xCb193TTVaNFZsaw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-12"
+              "published": "2026-10-19"
             }
           ]
         },
@@ -1031,6 +1031,17 @@
               "law": false
             },
             {
+              "title": "도이체방크 CEO, 독일 경제 개혁 가속화 및 노동법 유연화 촉구",
+              "desc": "",
+              "source": "Investing.com 한국어",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92d1hBamVpcnR0bWlwU2ZYY3huNDZxS3FvYjdueGdVSmd6TkVTSFVuX2ZfMlNWcHpHOERNX3ZaUjlndUJxX2hRTHg5SVBkSkJlRkh0S1c2b3d5Y0dib1FQNW9WYm9RV1JSeHc?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-11",
+              "law": true
+            },
+            {
               "title": "스페인, 독일, 벨기에, 포르투갈 ...: 프랑스와 함께 유럽 곳곳에서 벌어지고 있는 저항들",
               "desc": "",
               "source": "노동자 연대",
@@ -1039,17 +1050,6 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-13",
-              "law": false
-            },
-            {
-              "title": "독일 연정 내분…사민당 대표 \"파트너 정당 공격에 사임\"",
-              "desc": "",
-              "source": "연합뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BcHR6bFdWcW44T0UyS3FzUUx6aXpMR0dGRDdub1ZwSmZBVUtnNjBHNnFwSHVSZXNIcjl6Z3lMRThTYzZzdktadk93bGc2d3VQaHRPaVVnN3gyNFHSAWBBVV95cUxOcTVpYklLREpvNmRTd1dDY01zaEhldTBmcER2ay1KRk9qank5V3hmck50QmNlX0x3cDVNZy14SlJpU0h1NmhQX0NUM1FfNHNQN1Z3Ykx6MkI0SXVXOU1oZ3A?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-12",
               "law": false
             }
           ]
@@ -1098,7 +1098,7 @@
           "China Technical Center (Jiaxing)",
           "11개 영업지사 (전국)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -1112,8 +1112,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 198.7,
-        "change_pct": -0.31,
+        "current_rate": 198.6,
+        "change_pct": -0.33,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1140,7 +1140,7 @@
           210.3,
           204.7,
           201.5,
-          198.7
+          198.6
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CNYKRW=X",
@@ -1185,13 +1185,13 @@
         ],
         "pol": [
           {
-            "title": "The Changing Nature of China’s Influence on Commodity Markets",
+            "title": "중국이 상품시장에 미치는 영향의 변화",
             "source": "CME Group",
             "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOb1ZjUW5BNTNlVld0Zi1fNnFEaDF6VmdrQVM2bXhNeXJldHBacUFueTltOWRrSHlBLXhiRUd4TGxzYzU2TVlCNTJudnpSS2xxeGxaOGUydndjNHd0X2FET1p5ZXJpUnhQeENqVzNmc2RlMy1yX094TXYxa3g2RFNDMUhmVWZCSkJUczh1UUxjZWdCRjRycVE2bjlNMW5vU0w5RUtYbmRsOElGM2puSDYxLVVmaVdubmczbjIyY0ZQVnowRzhJR3pTMGIybktkT2tWNkhTNzhlNDZfY3ZJLW1md2xweElKSTA2bm5rbkNHNzRqZFFTdkhsQzU1YXd1VFF1VWFxeVBKb0lOWlpp?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "The Changing Nature of China’s Influence on Commodity Markets"
           },
           {
@@ -1247,26 +1247,26 @@
             "original_title": "Beijing's population expected to become super-aged by 2035"
           },
           {
-            "title": "중국의 수도는 2035년까지 초고령화가 될 것이지만, 아프리카의 젊은 인구는 경제적 잠재력을 낭비할 수 있는 도전에 직면해 있습니다.",
+            "title": "2035년까지 중국의 수도는 초고령화될 것이지만, 아프리카의 젊은 인구는 경제적 잠재력을 낭비할 수 있는 도전에 직면해 있습니다.",
             "source": "Business Insider Africa",
-            "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVlFkS1lqcmR4Q3NoQjRhd2pBQXMxMm1yNjFKZkhwZndHZXJFYW9lSnE5aXdRQWtlUFYtMXkxMHFuNDZ0YWZGSXFWQUZfSlpCSUpvNjctWmtRa1BQWnJROVc5M0pwTDN0cHl0VTAtcWh4LVktSGY3SFk2VTBZZ0Naamh2eURpYUstcWFXUDJURE5qcGRGMzUzNi1VeS1nS3pycTlxZnctR2s2TFZNZ2VJS2paNUxEODlYT1k2V2g4RHh2MDZ2LUNobWw4eDVxRG04Zi1rSQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdlA0YnhVelAtZ3o3Ql93OU9kNGpqVXB6cDA1czgtZW9DZFlVY05LeFJDVHVkS09mWTNyYWNqQm9ITjNUR3pCSWNzdE5pUXBYQkE0UzNnbnNXLVJ5cVJTTjBXXy1hcFFRRXdyWHY2bTRDV2I1WU5WbkhZWFExTTVPMldCMm1mbmNHSEJCTnVya09fRldaLWdUYUQ0a1RFSk01RjV1NDBqN3JxYmdQRTJBcFh5R3AwRi1HYTEwdGFMeGpORFdGLWlKVzFSdW4waWNpdWFFUHV3?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "China’s capital will become super-aged by 2035, but Africa’s youthful population faces a challenge that could waste its economic potential"
+            "original_title": "China’s capital city will become super-aged by 2035, but Africa’s youthful population faces a challenge that could waste its economic potential"
           }
         ]
       },
       "headlines": [
         {
-          "title": "The Changing Nature of China’s Influence on Commodity Markets",
+          "title": "중국이 상품시장에 미치는 영향의 변화",
           "source": "CME Group",
           "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOb1ZjUW5BNTNlVld0Zi1fNnFEaDF6VmdrQVM2bXhNeXJldHBacUFueTltOWRrSHlBLXhiRUd4TGxzYzU2TVlCNTJudnpSS2xxeGxaOGUydndjNHd0X2FET1p5ZXJpUnhQeENqVzNmc2RlMy1yX094TXYxa3g2RFNDMUhmVWZCSkJUczh1UUxjZWdCRjRycVE2bjlNMW5vU0w5RUtYbmRsOElGM2puSDYxLVVmaVdubmczbjIyY0ZQVnowRzhJR3pTMGIybktkT2tWNkhTNzhlNDZfY3ZJLW1md2xweElKSTA2bm5rbkNHNzRqZFFTdkhsQzU1YXd1VFF1VWFxeVBKb0lOWlpp?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
-          "translated": false,
+          "translated": true,
           "original_title": "The Changing Nature of China’s Influence on Commodity Markets"
         },
         {
@@ -1314,14 +1314,14 @@
           "tag_class": "bg-rose-100 text-rose-700",
           "items": [
             {
-              "title": "재고 쌓인 중국차… 美·유럽 대신 한국에 ‘초저가 밀어내기’ 예고",
+              "title": "판매·기술·자본까지···한국 자동차 파고드는 중국",
               "desc": "",
-              "source": "조선일보",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96NjNwUl9PaFZRbmlTT0hpa091VDFWUl9JS3ZyZkV6VEZNMnc5ZEJXYVZqZU5Wb1ZoVkdhUDc0Y1l6Q2xXQllQTDllbWtUNFVwRlRfSUxkcmJkaWxqSmExdjdJenFyLU1YR1Zzclg2V21QVVE3UllxSTJyVENycUE?oc=5",
+              "source": "시사저널e",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sYjNoNDVObm4xeWF1OFBzRThZUlNFWkdVWmZSTW9iVmhBVkU2a0xOQmh3a1QxZzZHYjFYTXVfdmtlUzRQSkdMTnFfU3RBODB2VVRrOTloc3c4ajI0Mk1rOE5ybTlJTC1lTkI3YzhITFA1d9IBdkFVX3lxTE9wRU9EcEM2ZnVmSkJpZ2ZkeW1HRGJIRmFZRlUxZkhBQzZ3ckY3dHAtZlIzcXROdXluZzVwWHd3aEp2WFpKY0MyMlp5bVVLUnNRWi1pUnZEYXkyNXNFWWhvQklJdmZoMV83Z3VHS1B2b1ZMQlNzaVE?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-12"
+              "published": "2026-10-08"
             },
             {
               "title": "중국 자동차 100여 개 브랜드 생존 위기…유럽시장 성적이 운명 가른다",
@@ -1344,14 +1344,14 @@
               "published": "2026-10-19"
             },
             {
-              "title": "유럽 최대 오토쇼 점령한 중국車…시장 점유율도 가파른 상승세",
+              "title": "중국 자동차 완성차 업체 20개사 파리 모터쇼 참가, 유럽 시장 공략 점유율 확대",
               "desc": "",
-              "source": "더구루",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5OU15STlTbTdmTzdiX1RwZENoWl9WUVdHV0tnNGFPY2tsbUZHZmRkdlRjQWNyTGdzSWR6ay1qRDBacWs5YkdfNldubVFEMzBKbWZuWHVoN2dKYnpHU2c?oc=5",
+              "source": "다나와 자동차",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mZm1tNGdSNGlsdzhBY2NyZmRnN1VzRnlfTk9FMFFpZEFYc2Y5MTlYYjFPY2U5cjNnMDEtQ2JlcDR2LXctWlZWeVZIMk1uVG5maXp4b3BvY21rd3dsSHZaNlpTbGZYRE1oV1lLZkRuOGxHVXFQb0h5TDkwaw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-18"
+              "published": "2026-10-13"
             }
           ]
         },
@@ -1435,7 +1435,7 @@
           "Hungary Plant (Rácalmás)",
           "Hankook Tire Budapest Kereskedelmi Kft. (Budapest)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -1449,8 +1449,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 412.4,
-        "change_pct": -0.33,
+        "current_rate": 410.9,
+        "change_pct": -0.38,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1477,11 +1477,11 @@
           452.0,
           437.5,
           417.9,
-          412.4
+          410.9
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/HUFKRW=X",
-        "asof": "2026-10-19",
+        "asof": "2026-10-20",
         "stale": false
       },
       "news": {
@@ -1720,17 +1720,6 @@
               "law": false
             },
             {
-              "title": "[단독]에코프로, 1조5천억원 투자한 헝가리 공장 어쩌나…가동 4개월만에 영업중단",
-              "desc": "",
-              "source": "매일신문",
-              "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93NGNPaU04amQxdmFDUHllNFpyT1NpaFNyM1RpZUFBN1d4NW9RTXA3UWZMaFEtMFpBbjAxcUdlTk10QldBbGNEQV9fU0h4SU95U2h6QzBDak1NZnJ5dDROMFdB?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-08",
-              "law": false
-            },
-            {
               "title": "에코프로, 헝가리 '환경규제'로 멈춘 공장…\"보완해 재가동 준비\"",
               "desc": "",
               "source": "FETV",
@@ -1739,6 +1728,17 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-08",
+              "law": false
+            },
+            {
+              "title": "우크라이나도 헝가리의 뒤를 이어 EU 가입을 향한 길을 걷고 있다.",
+              "desc": "",
+              "source": "Vietnam.vn",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUVF2bTVEeUo3MXZZWkFTWlVib2VsakNxdWN5eVgzS2lvRHl3VGh0NXR4LXVZNjAyRFY0YzhiQkVvZ3BUY0htY3VjRG9OZVAyOGpWQlRDN2lKZWI3elV1QTlnamFXOTUtemtiT2k1c3pWY3ZkdXI5ZHp5al9HUHdpbElRall3emE3eDVYc3lB?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-14",
               "law": false
             }
           ]
@@ -1775,7 +1775,7 @@
           "Indonesia Plant (Cikarang)",
           "PT. Hankook Tire Sales Indonesia (Jakarta)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -2109,7 +2109,7 @@
         "sites": [
           "Hankook Tire Netherlands B.V. (Hoofddorp)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -2123,8 +2123,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1490.1,
-        "change_pct": -0.54,
+        "current_rate": 1488.6,
+        "change_pct": -0.64,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -2151,7 +2151,7 @@
           1636.7,
           1580.0,
           1531.4,
-          1490.1
+          1488.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
@@ -2172,6 +2172,17 @@
             "safety_tag": "사회불안"
           },
           {
+            "title": "라이선스 가능 사진: AZ Alkmaar-Hapoe를 앞세운 네덜란드의 친팔레스타인 시위",
+            "source": "Reuters Connect",
+            "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWWg4aXl0TW9tangwT0JucE9VWXRMVnBFVGlMYnpFRGpqWUpTT1JOYlQ5QjR4Y2JoVS13R1I0Smw3VTZjaGVrLVk0TFd6LTlZM1pVU1BQM3pTcHp6aE1xaDlFY2xLRlBLRXY1ZzNwVktYYnNDLXNQdVdIZzU1Q0lLTnBfdzhqd05NUXFpNlh1MXZjMVF6czJoZTVCQUlvTGZBYW5qM09xc3MweXU0cHFJRTVzWEc4T1h4N1JlM01GZWg4V2tQeVNZcWhnckQ1N1U2RG9GRVF1RzV1TVdWc1JZZHRILXNtdU9fTFZSSmZJYzNxeU5POXZfMUs4STdMYlM5Vkp1ZXZVYV81RGRwbWJSMzZtTW5INDZodldGUml1QzFWb0lmdUdIbEJrb2NQUkQ1ZDJHMklGN21JZjZYRGMyTk1Nd2tONy1Pem9EeGp6TUtXdFVtSmxqY1dSZzBKWllEOVE?oc=5",
+            "summary": "",
+            "published": "2026-10-16",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Licensable picture: Pro-Palestinian protest in Netherlands ahead of AZ Alkmaar-Hapoe",
+            "safety_tag": "사회불안"
+          },
+          {
             "title": "제레미 잉글랜드 상원의원, 미시시피 해안의 네덜란드 홍수 통제 솔루션 모색",
             "source": "WLOX",
             "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaTczRWhwM3MxUnFjWFcwcmh0N0VkNEtjOVQxWFBMcHR2UDhqTU15RUItOVdWU1VVS3BsdnpZeERDaXdMbVBPbVFJMml2d0tnYy12c2RvdmNNS0NLNmFybU1ITkVrS1BZTWwtNkJjaFhUdmloT2h1dk9NVVQ0T0YzTUJPWmI0UGozYlFsSHNaTEZaQnpOWklBbDU1dGY1QmVVZmV2enMwVTdWazlqa3lVWGFMbi1xbHfSAcsBQVVfeXFMTVJ5Y1FaWmNVNG5sbVpUZm5DTUF3S2k5QjUwLV9IQW9fRkI5dGVXZVlRQ2RyNmFCdDNtVHotY2tJRmMzR1dkbGhWT2Znc2l2b05PMzVtTUhfTHN5a2dUNEx6QnkxdE9ILVc3VWxkMFh4WWhkUUludEF1QjZRamltMHdsX1FHdW1iaTJUYlZhVkU5WXRfMHFaV0FNcVJOV0VFN3U2aFlQTzFzSHB4R3lOOVlpM01vWkNRRV8zc2pRdFBrd1Utb25jVnI1MHc?oc=5",
@@ -2181,17 +2192,6 @@
             "translated": true,
             "original_title": "Sen. Jeremy England explores Netherlands flood-control solutions for coastal Mississippi",
             "safety_tag": "자연재해"
-          },
-          {
-            "title": "네덜란드 가자 시위",
-            "source": "Herald and News",
-            "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObjc5SHQyOWlJbE5scjBwN0tDX09zczFjTmk4T0xTR1RXV0JSZ2YwQzFWNGFONVlyam9Cd2pmeWFjSUI2WkstNlF2WlNEa2Yzd3lhNjg2NE94Wk5pdmRfV3BCcWpVQkJGOEJyVHFFaWxpcUJhaG5Lamh3dkM4LUQ4bUVGX0F0cWVhQjRfb2RwV24yckU1UW00NzU5ZXFHVW5XRnFja2VpcmpuS3NoUEk1ZmhNM25NRWxRNWRkZFRMYk1HZw?oc=5",
-            "summary": "",
-            "published": "2026-10-08",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Netherlands Gaza Protest",
-            "safety_tag": "사회불안"
           }
         ],
         "pol": [
@@ -2451,7 +2451,7 @@
         "sites": [
           "Hankook Tire Taiwan Co., Ltd. (Taipei)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -2465,8 +2465,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 40.68,
-        "change_pct": -1.15,
+        "current_rate": 40.65,
+        "change_pct": -1.24,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -2493,7 +2493,7 @@
           43.83,
           43.52,
           42.4,
-          40.68
+          40.65
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/TWDKRW=X",
@@ -2788,7 +2788,7 @@
         "sites": [
           "Hankook Tire Rus LLC (Moscow)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -2803,7 +2803,7 @@
         "unit_base": 1,
         "decimals": 2,
         "current_rate": 16.03,
-        "change_pct": -1.8,
+        "change_pct": -1.84,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -2917,16 +2917,6 @@
         ],
         "soc": [
           {
-            "title": "Russia's public health watchdog denies a second infection in suspected pneumonic plague case",
-            "source": "ABC News - Breaking News, Latest News and Videos",
-            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWnVla3VEMms2OGo4VDJGRUZhX1lpeU16a0RLWEp5anlQOE50VTVKYzYwR1gzYnc1RkJUV2N5Z0txSjRSQ3ozR1A5TVhVUkVwZVJscEdNcVdONFFtSU1ZcnRUaGpIUGdJNEtPcHloWUdmVGtFOTh2T1Byc1RDUDMwWGFsZ2dkWUJub3QyQk9ENm5UemlfaVNzRl9sSDUxakIwSjBseDVCa0NtYm9YVTJ2Y014VXFBWk52X1Q4aEx30gHDAUFVX3lxTFBadGNTU1JyMjF3X290NlJPRl9LNlRkc3U3cVhUYUQ0WmlLRVNPV0s0YkhJYWVaYjQwbjNNQnFKbl9OeE82Q01aYWVZQTZReFg2SlZyM294V0lYLTJfN2RDakd5Zm9FWnRfSDlsNlYwd19hOVBXY1lYZDhTTldoRUdqbk1keG0yQ2JtUzItMWlsY0ZiZ0FqcFRkMnNjRGdJOTA1U2pPTmtsdno0Q0dMMXVPZU9sNk5tRlI3RlA1aV9Wbk5sWQ?oc=5",
-            "summary": "",
-            "published": "2026-10-19",
-            "lang": "en",
-            "translated": false,
-            "original_title": "Russia's public health watchdog denies a second infection in suspected pneumonic plague case"
-          },
-          {
             "title": "N. 한국-러시아 교육 간담회",
             "source": "Yonhap News Agency",
             "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaT1UwX1VrRGp0LWlMa1Z6b1dmR3pISy10bDF1eFJNcjBMNm1FQXhWWXJVQkM3OXp0SkJ1RzB5ZzBMMFlycUhXV09Idkc0eU1ndUw5RmRGZGthM2cxQkNqTV8tZ0tlQUJ0S3ZVTW5KX1dkeWpLazVZ?oc=5",
@@ -2945,6 +2935,16 @@
             "lang": "en",
             "translated": true,
             "original_title": "N. Korea, Russia discuss ways to expand exchanges in education"
+          },
+          {
+            "title": "Zelenskyy는 러시아가 전력망에 다시 타격을 가할 때 우크라이나가 파트너로부터 조기 경고를받지 못했다고 말했습니다.",
+            "source": "East Bay Times",
+            "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZFZ0UjRsemQ1cVN5ZEtILTlvTzg0cG9GQ0paRFN4SW5iRGZQdHlaS3NhNVU4NHNKZnZsQUl2a1hxTzRrVkx0cU51Vl9PMVJQQ1p1VjVPZmVCdGczLXB5Mm5zR2tGRUxVR2dyNWhsZXlSWnJvVjExU1l4Q2VGemNmU0JfRU9KZ3lyc3c?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Zelenskyy says Ukraine got no early warning from partners as Russia hits the power grid again"
           }
         ]
       },
@@ -3122,7 +3122,7 @@
         "sites": [
           "Hankook Tire Romania S.R.L. (Bucharest)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -3136,8 +3136,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 279.8,
-        "change_pct": -0.51,
+        "current_rate": 279.7,
+        "change_pct": -0.54,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -3164,7 +3164,7 @@
           312.4,
           303.8,
           290.5,
-          279.8
+          279.7
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/RONKRW=X",
@@ -3219,13 +3219,13 @@
             "original_title": "Romania to form a government after six months of crisis"
           },
           {
-            "title": "Romania’s bears trapped in the rewild divide",
+            "title": "리와일드 디바이드에 갇힌 루마니아의 곰들",
             "source": "The Parliament Magazine",
             "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDFsNE52WkcxVm1zQkFLQTZEa1g3N0hkS0NEUUEwcXNLOTNBRkZYSWFlVEJjX2tXUkxHWG5XQ1BuVU5CZ0c0Wkw4VDZ4YU9JUXFwN1ZnbkwxVEstdXh3VWpNWlZ2VTY4a0tPbGdhWGpEZWk2eEpmRkVvaDhUNm9VemI2WjM5VDhwUEJuOVpZQjV2V2hqeTE1bQ?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "Romania’s bears trapped in the rewild divide"
           },
           {
@@ -3271,14 +3271,14 @@
             "original_title": "Romania's Erbașu group buys medical imaging firm Vici Evolution"
           },
           {
-            "title": "루마니아, NATO가 고위급 흑해 회담을 준비하는 동안 공격 드론을 격추",
-            "source": "Stars and Stripes",
-            "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGtYek5EbmMzOUFYNXhacEFDbmtmMFNoMXd4Wjc4S1hubnJSLWxzcmpuRnp1X29laGpfMDh6cXJTSHE0TlQ4YlFqVGJVdXhrcjVhcWc5V2ZyNG1MQXNVbXlwTkY1cXFzRXp5cGUtaXlmTURrMFhocjNhTlpyd1dWbmkxcmVnNXFCUml3cmZ0aTd5OUdjRDk4?oc=5",
+            "title": "루마니아 감독 보그단 무레샤누 (Bogdan Mureșanu) 의 애니메이션 단편 The Magician makes Oscars longlist",
+            "source": "Romania Insider",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDBnOERCY0dZVDFnTEdoODJmRm5sNUNCdHhfQTRnNnpZUmpCOWZaOGptTDhCNk1fOW9leklDSFJ1RDNaWGFlNi1EMDV5OHlJaVJMQmxXVFZMQ2FST05fNVNsOGNFQ016aUY3NUJrNkJKRnVFYl8tM0xPcVdUT2ppMko5QlZhQU9hRlBVdXNENllvTzI3TXAzMmhMOXRaZGhMc05r?oc=5",
             "summary": "",
-            "published": "2026-10-19",
+            "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "Romania shoots down attack drones as NATO prepares for high-level Black Sea talks"
+            "original_title": "Romanian director Bogdan Mureșanu’s animated short The Magician makes Oscars longlist"
           }
         ]
       },
@@ -3294,13 +3294,13 @@
           "original_title": "Romania to form a government after six months of crisis"
         },
         {
-          "title": "Romania’s bears trapped in the rewild divide",
+          "title": "리와일드 디바이드에 갇힌 루마니아의 곰들",
           "source": "The Parliament Magazine",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDFsNE52WkcxVm1zQkFLQTZEa1g3N0hkS0NEUUEwcXNLOTNBRkZYSWFlVEJjX2tXUkxHWG5XQ1BuVU5CZ0c0Wkw4VDZ4YU9JUXFwN1ZnbkwxVEstdXh3VWpNWlZ2VTY4a0tPbGdhWGpEZWk2eEpmRkVvaDhUNm9VemI2WjM5VDhwUEJuOVpZQjV2V2hqeTE1bQ?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
-          "translated": false,
+          "translated": true,
           "original_title": "Romania’s bears trapped in the rewild divide"
         },
         {
@@ -3464,7 +3464,7 @@
         "sites": [
           "Hankook Tire Malaysia Sdn. Bhd. (Kuala Lumpur)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -3478,8 +3478,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 325.2,
-        "change_pct": -0.4,
+        "current_rate": 324.9,
+        "change_pct": -0.48,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -3506,7 +3506,7 @@
           348.6,
           342.1,
           330.9,
-          325.2
+          324.9
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/MYRKRW=X",
@@ -3551,13 +3551,13 @@
         ],
         "pol": [
           {
-            "title": "Malaysia de-registers main opposition bloc as elections loom",
+            "title": "말레이시아는 주요 야당 블록을 선거 직전으로 등록 취소합니다",
             "source": "Reuters",
             "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXJhdklRSEUwTWdWSkF3UjlTWC0wZks1NWJnVk00QjlfaGw0b0U4WjhRZXpvdERDTVVYWjVKTEE1eEh1enV2VTF1aUI5UzE2ZHVTUVJCU091Q1hoSWdOVGFuSW9YaGZtTUdkYXluNXQ1TzQyZ015T3pQMmNjMmh3SXpQeVA3S1RoSjhxdWp5UThzLTF3SVZfZUVqLWx2NGl5am5kWHdMSnFEcl82aHF6dWhB?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "Malaysia de-registers main opposition bloc as elections loom"
           },
           {
@@ -3626,13 +3626,13 @@
       },
       "headlines": [
         {
-          "title": "Malaysia de-registers main opposition bloc as elections loom",
+          "title": "말레이시아는 주요 야당 블록을 선거 직전으로 등록 취소합니다",
           "source": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXJhdklRSEUwTWdWSkF3UjlTWC0wZks1NWJnVk00QjlfaGw0b0U4WjhRZXpvdERDTVVYWjVKTEE1eEh1enV2VTF1aUI5UzE2ZHVTUVJCU091Q1hoSWdOVGFuSW9YaGZtTUdkYXluNXQ1TzQyZ015T3pQMmNjMmh3SXpQeVA3S1RoSjhxdWp5UThzLTF3SVZfZUVqLWx2NGl5am5kWHdMSnFEcl82aHF6dWhB?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
-          "translated": false,
+          "translated": true,
           "original_title": "Malaysia de-registers main opposition bloc as elections loom"
         },
         {
@@ -3722,6 +3722,17 @@
           "tag_class": "bg-indigo-100 text-indigo-700",
           "items": [
             {
+              "title": "토토 한국 말레이시아 : 실제 경험자들의 조언",
+              "desc": "",
+              "source": "Calgary Roughnecks",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTEpGRV9uV1NMeWg1WlRHa2hndTRRbzJ4aVhjaXJuQnhma2puX3Jac05udU9rMUNnR2JWU01kNk1SMTJuU0JDLURYUEstdzB4UV9Qc1VVcEtHdnlVUjktZUlybTh4eVFEbEZ2UWR1SFZTdWUyaFcxV19SZWlnSVNtcXNVekw2ZWlNYlozblAzVDRUUEpHYkZCN2RGenJxMUV5V1NWeXRYVW9SZk1VZnJmUnlxUFFrV09CTGJucTducWZtUQ?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-20",
+              "law": false
+            },
+            {
               "title": "KAI, 말레이시아서 초등학교 시설 개선 봉사활동…양국 협력 강화",
               "desc": "",
               "source": "뉴스핌",
@@ -3737,17 +3748,6 @@
               "desc": "",
               "source": "Vietnam.vn",
               "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONThNcDIwbjN0ajlxY0ViTElsRWg0Y1Z3OXNnMDRTZzBxX3NNejE5SkFueWxMeVVfQzR2OEppeVFlNHlMV2pfdFRsT0h2UmNoV0NwbzkyMHNjSFVCLUNYNDRtSkd3dUZTV1hNeXp5YmxlNjRTM2VQNC1FRVpKMkNHMHltZFpWbVlyNC1ZMTZuVHZLZlREZHNiUk9SeFhTUzVWaEI2SUFoejBxUQ?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-18",
-              "law": false
-            },
-            {
-              "title": "선택한 설정을 되돌리는 한국 말레이시아 축구 토토 옵션 안내",
-              "desc": "",
-              "source": "Calgary Roughnecks",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWV2ZGItRDNfRTVldXNKRG02c3N3X0pCckxmc2dZRDZRckN0aVJGTU9oNlRtb1RqRDhrMm9mUlJ2UjFGVzhEOGcwNUdOeHdQVXJ0X0tLNml5Qk52UmF2SktBRVl4NndTdFEwdUJBR08xcmNEc3djSTJZc256MDJYaHluaVc1NHg2bGJXWldLNA?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
@@ -3796,7 +3796,7 @@
         "sites": [
           "Hankook Tire de México S.A. de C.V. (Mexico City)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -3810,8 +3810,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 72.18,
-        "change_pct": -0.18,
+        "current_rate": 72.15,
+        "change_pct": -0.23,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -3838,7 +3838,7 @@
           81.9,
           80.86,
           74.85,
-          72.18
+          72.15
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/MXNKRW=X",
@@ -4086,17 +4086,6 @@
               "law": false
             },
             {
-              "title": "멕시코와 ASEAN은 왜 새로운 생산기지가 되고 있는가?",
-              "desc": "",
-              "source": "한국세정신문",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ib3hpc2syYWJwSkpQeVYzSm1OME1XbTZlYVc4VF9veEpwYjA4QkdVa0pFQ09GUVVKWE9CaXNDaDUtZHhsaFJ5eC1BQy1QLXc1QXVKZnZ6SjBoUUZnTnd5U2xkM2U?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-19",
-              "law": false
-            },
-            {
               "title": "포스코 멕시코 공장 감원·근무조 축소…\"관세 불확실성 직격탄\"",
               "desc": "",
               "source": "리드경제",
@@ -4105,6 +4094,17 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-16",
+              "law": false
+            },
+            {
+              "title": "멕시코 의료진 임금 인상 요구에 거리로…공공의료 개선 촉구",
+              "desc": "",
+              "source": "국제뉴스",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yZXZQb2hHbkxraDRwNGwyZzg1ZlVuOFVzd2FxUlNSWWJDR2tNMzV2cDhmUlgtZTNBclRXTTlObldWTU11RUxmcGN6TExNcmNjZTEwaXhUdzZ4VUFFbVF6cTQ0T3lKWk00aWQzakJn?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-15",
               "law": false
             }
           ]
@@ -4138,7 +4138,7 @@
         "sites": [
           "Hankook Tire Morocco SAS (Casablanca)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -4152,8 +4152,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 135.6,
-        "change_pct": -4.15,
+        "current_rate": 135.5,
+        "change_pct": -4.18,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4180,7 +4180,7 @@
           151.4,
           153.1,
           143.9,
-          135.6
+          135.5
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/MADKRW=X",
@@ -4470,7 +4470,7 @@
         "sites": [
           "Hankook Tire Vietnam Co., Ltd. (Ho Chi Minh City)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -4484,8 +4484,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 3,
-        "current_rate": 5.124,
-        "change_pct": -0.51,
+        "current_rate": 5.123,
+        "change_pct": -0.53,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4512,7 +4512,7 @@
           5.406,
           5.282,
           5.2,
-          5.124
+          5.123
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/VNDKRW=X",
@@ -4681,24 +4681,24 @@
           "tag_class": "bg-rose-100 text-rose-700",
           "items": [
             {
-              "title": "베트남 빈패스트, 9월 전기차 판매량 ‘2만3,000여 대’…25개월 연속 시장 1위",
+              "title": "베트남, 9월 기준 ‘신차판매’ 50만 대 육박 전년동기比 26.8%↑…사상 최고치 경신 기대",
               "desc": "",
               "source": "인사이드비나",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54SkJRNnJkWVRHYzBWNnNQbnpRNW92UkxETFR6TVZadGp0eDRvbE9QN0JNN1BnUEhyd1dob0JlVXNJaU5TZjgzRDdiLXhqNzJ3T2lCZ2d2LTFXS3dKX3hCMXl6c2tsSU9zZjdDVg?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YT21KWkFSVGxRU21lYjFiVDdVd0NSaDN5eFVFdlhmM1c0dlV2eHRuNHhQWTVMLWZQWlFWY3VjbTZhTDhQa1k3MkhVRVl1MlBXMU9KenVRX09WWkU5OGc5dTBBRXpIZEktSHBaOQ?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-12"
+              "published": "2026-10-14"
             },
             {
-              "title": "[자동차] 베트남 전동화차 점유율 39.1%…전기차 시장 빠르게 성장",
+              "title": "[자동차] 빈패스트, 9개월 만에 2025년 연간 판매량 돌파…베트남 전기차 시장 주도",
               "desc": "",
               "source": "굿모닝베트남미디어",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNa2dqSXVoVm5RZ0RmMGRZUHRLeDZBWEZ6Z2RDZ281NFpGb1h5Q3NUMnNlYzhSSzR5YzNVc1lvdDBjeTFScXdNd3ZRN05OcVpqdWJIWUJyeU5sSzFhdkZHeG9PRW9SQWlBTEJXYW1NQ0w?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10ZnBiSk9FREczTDVKUDF5RXRkODhvVVVla21qTmxmZkFTaUloRkFRMUVJVWh0NjdEUEw4aVVzVGlPVnpvWGVsZTZPNkZQSkRGekVvNGpmbkZVUzBnUWxDRlRHZUNac3hJUkhhckVOYjU?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-19"
+              "published": "2026-10-10"
             },
             {
               "title": "현대차, 베트남 9월 판매 전월比 32.3%↑ '가속페달'…투싼·크레타 '쌍끌이'",
@@ -4802,7 +4802,7 @@
         "sites": [
           "Hankook Tire do Brasil (São Paulo)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -4816,8 +4816,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 262.9,
-        "change_pct": -0.19,
+        "current_rate": 262.8,
+        "change_pct": -0.21,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4844,7 +4844,7 @@
           279.8,
           265.3,
           259.6,
-          262.9
+          262.8
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/BRLKRW=X",
@@ -4899,13 +4899,13 @@
             "original_title": "New Zealand adds Brazil, Canada talks as India pact starts"
           },
           {
-            "title": "Why Brazil’s election could sway the U.S. soybean market",
+            "title": "브라질의 선거가 미국 대두 시장을 뒤흔들 수 있는 이유",
             "source": "Farm Progress",
             "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFNtMXU5RVZZZ1NkSnp5cWZpdU5xT2F3T3NMZEtqVm1nTXV0dHREUnVidmpSNEJyd0gxdHBDNEV2X0lnN1VCUS1HOUFsTUxBb1U3bmZWRDk2NWZqM1V0NVEyM1lnUmV1LWxDVHB4LXNuRWVxTEJmWmhoU3U1TFA3NG9UX2hmLU9oNnFXbnZPMjlJcXFIZXVj?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "Why Brazil’s election could sway the U.S. soybean market"
           },
           {
@@ -4974,13 +4974,13 @@
           "original_title": "New Zealand adds Brazil, Canada talks as India pact starts"
         },
         {
-          "title": "Why Brazil’s election could sway the U.S. soybean market",
+          "title": "브라질의 선거가 미국 대두 시장을 뒤흔들 수 있는 이유",
           "source": "Farm Progress",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTFNtMXU5RVZZZ1NkSnp5cWZpdU5xT2F3T3NMZEtqVm1nTXV0dHREUnVidmpSNEJyd0gxdHBDNEV2X0lnN1VCUS1HOUFsTUxBb1U3bmZWRDk2NWZqM1V0NVEyM1lnUmV1LWxDVHB4LXNuRWVxTEJmWmhoU3U1TFA3NG9UX2hmLU9oNnFXbnZPMjlJcXFIZXVj?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
-          "translated": false,
+          "translated": true,
           "original_title": "Why Brazil’s election could sway the U.S. soybean market"
         },
         {
@@ -5076,14 +5076,14 @@
               "law": false
             },
             {
-              "title": "룰라는 브라질 대통령직을 잃을 위기에 처했다",
+              "title": "브라질: 앞으로 4년 더?",
               "desc": "",
               "source": "참세상",
-              "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE54dHRIcVJ1Z0xIOUNPSUE5SmpwX216N0tmbFJnMndrWERLbGhvejBSblBxOVBYQ19aWEFFR1hqejNYUQ?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5iMTFiemJheGQzQTlHQlhobkZsd01tS2dhWFlRSmc1TUdQRVB5bTkxWC1nUEM2VGJocmJ3M25tWFFjQQ?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-07",
+              "published": "2026-10-06",
               "law": false
             },
             {
@@ -5136,14 +5136,14 @@
         "sites": [
           "Hankook Tire Co., Ltd. Jeddah Office (Jeddah)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
           "gdp": "IMF",
           "inflation": "Trading Economics",
           "unemployment": "Trading Economics",
-          "min_wage": "보정 파일(HR 확인)"
+          "min_wage": "각국 노동법 기준"
         }
       },
       "exchange_rate": {
@@ -5151,7 +5151,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 353.7,
-        "change_pct": -3.54,
+        "change_pct": -3.55,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -5470,7 +5470,7 @@
         "sites": [
           "Hankook Tire d.o.o. Beograd (Belgrade)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -5485,7 +5485,7 @@
         "unit_base": 1,
         "decimals": 2,
         "current_rate": 12.73,
-        "change_pct": -3.2,
+        "change_pct": -3.22,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -5799,14 +5799,14 @@
         "sites": [
           "Hankook Tire Sweden AB (Upplands Väsby)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
           "gdp": "IMF",
           "inflation": "Trading Economics",
           "unemployment": "Trading Economics",
-          "min_wage": "보정 파일(HR 확인)"
+          "min_wage": "각국 노동법 기준"
         }
       },
       "exchange_rate": {
@@ -5814,7 +5814,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 134.0,
-        "change_pct": -0.38,
+        "change_pct": -0.39,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6133,7 +6133,7 @@
         "sites": [
           "Hankook España, S.A. (Madrid)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -6147,8 +6147,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1490.1,
-        "change_pct": -0.54,
+        "current_rate": 1488.6,
+        "change_pct": -0.64,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6175,7 +6175,7 @@
           1636.7,
           1580.0,
           1531.4,
-          1490.1
+          1488.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
@@ -6472,22 +6472,22 @@
         "sites": [
           "Hankook Tire Singapore Pte. Ltd. (Singapore)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
           "gdp": "IMF",
           "inflation": "Trading Economics",
           "unemployment": "Trading Economics",
-          "min_wage": "보정 파일(HR 확인)"
+          "min_wage": "각국 노동법 기준"
         }
       },
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1038.5,
-        "change_pct": -0.37,
+        "current_rate": 1037.7,
+        "change_pct": -0.44,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6514,7 +6514,7 @@
           1108.0,
           1080.4,
           1057.3,
-          1038.5
+          1037.7
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/SGDKRW=X",
@@ -6559,16 +6559,6 @@
         ],
         "pol": [
           {
-            "title": "Prime Minister receives President of Singapore",
-            "source": "Government.se",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzAyRDdPVXQ1NktiNTlJcEpUc3JhcmFOMlRGWE55UXc4akFvNktFcTd6T1ZtSlhkNFRLc2FTeEttM1dXOE9VNFNZVFJLODF6azI4dkJ0S0FGVjZDeV9CX2oxUm9vOUlXUVFJWjJaQ21YamRDR2MzOEFYR0FZUFJ0dFdwRmkzS2xjUi1IcmxHUmlQbjJZ?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": false,
-            "original_title": "Prime Minister receives President of Singapore"
-          },
-          {
             "title": "'숨바꼭질을 할 수 없음': 안개에 대한 장관의 경고는 싱가포르 농업 재고를 낮추게 합니다.",
             "source": "CNBC",
             "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1pwT0pkRHVzdnYwN09nUTh4V0hUaEFrVERlTWlPeGJrU2JTYWs5OW5ScDlzZzlfMWFna0ZtS1BEVF9UcXBsc21NU2JmQ3ZMWm5aN01hZkFNeUREQlpBV2kxcXlLUkVxeGZ2UXZidE85YVNiMXJRRWI2TGJHOTJYY3lmUWVPaG_SAYwBQVVfeXFMT2xzSVlhQmxaSXFqVlJLNVdNXzdrX2s0WWpCYk85dDVVMDdPRXREMUxJMTU5ekVXeThkeV9Ub2hiVk5xQVpnMDVWQlJDUFdOMU9RWnp0Q2w2QVZpckQxekJwSUVsdHBhYjBDYU84a1ZZV2syUjliWGtqQWRIR2VRZ3RBM3BNUVJCeFFScXI?oc=5",
@@ -6579,9 +6569,19 @@
             "original_title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower"
           },
           {
+            "title": "총리, 싱가포르 대통령 취임",
+            "source": "Government.se",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzAyRDdPVXQ1NktiNTlJcEpUc3JhcmFOMlRGWE55UXc4akFvNktFcTd6T1ZtSlhkNFRLc2FTeEttM1dXOE9VNFNZVFJLODF6azI4dkJ0S0FGVjZDeV9CX2oxUm9vOUlXUVFJWjJaQ21YamRDR2MzOEFYR0FZUFJ0dFdwRmkzS2xjUi1IcmxHUmlQbjJZ?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Prime Minister receives President of Singapore"
+          },
+          {
             "title": "싱가포르, 안개와 관련된 인도네시아 기업에 대한 단속 확대",
-            "source": "The Press Democrat",
-            "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CS2Z3a1hwLXVBZFNxR2lBdENRMUplYXF6UTlCeDBySTkyR0c4WFREVExvNUgxTHM2TXJvVWJGbkZzS2lFd2sydEV2ODhSSkJIVi1mWEFNR055T0lySWxfVUVBWEo1SzNTOEJiQ18yckItQk90?oc=5",
+            "source": "Hartford Courant",
+            "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPT1YtUTVKaS1SRi1fUGVWX0ZYZVc3SzB3WmdkM0RNVWs3c2NFOFRERl95MnMxRDRPVGpDeTNqaWNPWmhkUjhDZEFfNDJmSGVUY1k0ejBya1ZpaGc0UWFkVFRxQS1kTklHQ0JzR3BmcU1kMk1fYXpvQmF4b2lDcGN6N3Z5cTYtVHJJYlVBMURWYkpsOWpXTmJia2RWb09iMFFqWm9zWXdXSnRyWEVDZ1ZzYmJFTHg1ei1BWXNaazVGMS1STmJYVTJXUWRCWk11LWN5ekpxZlprdEZyVTNCZEpONVVKQ2hsWThTZ3FlMWNmZ2lpczBaR2RQY29aVXlnTGctdHdKQ3d2SkpJZw?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
@@ -6589,14 +6589,14 @@
             "original_title": "Singapore expands crackdown on Indonesian companies linked to haze"
           },
           {
-            "title": "총리 겸 외교장관, 싱가포르 총리 회담",
-            "source": "وزارة الخارجية القطرية",
-            "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdkpubUE2ODNUcWxHQ0FpanhPdXZpWjhDM3Vjdmw3YnlUakxvTlVKaTVDMW9HSzBtOGNjd2pKZ0xGN0x4UXlfUk1nQlNvLTdnYi1ZZjItWkhkWmJQeWhnT0RQUk1UYWs2MEdqOGVoOVRIT3BOU25ZWnRkT05nTG5qcGpldFBQSkhOSHBfQnhWT1ExNXNXWmdWbG1fSGFGMzBwQW5CMkpUTldVYUJ5b2JXQ2RabjVNVlBmQXhMclYySmhMSlNDRGxuZ3hDVUI3Szk3ek41VlNUOUt5N2l6X2hkeGp4RVJUZEk2?oc=5",
+            "title": "싱가포르의 AI 지원 성장으로 식품 서비스의 부담 완화",
+            "source": "Nikkei Asia",
+            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWRiLS1OOEg4TkNLYkNZS0JBeUc4UlktbDMweVRFUWtkWnlJU1k4eVJMU3hTbW9uVm1GeVVxUG9qRmpEWDhDaGNBZHYxcEtGRVFFd29SM0FkWU1xQjFMcEIwSVRlQXQzWnM5UEg4bzlIX0pYejBZYVZLVkNMOHYxdFNRNzgxM3lwaldoY1pPTTEtRWQ2aGhpeUZ4RTU5c1NvM05WTQ?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "Prime Minister and Minister of Foreign Affairs Meets Singapore Prime Minister"
+            "original_title": "Singapore's AI-backed growth masks strains in food services"
           }
         ],
         "soc": [
@@ -6621,28 +6621,18 @@
             "original_title": "Singapore Media Festival Returns for its 13th Edition with Refreshed Industry Focus and New Creator Summit"
           },
           {
-            "title": "GetYourGuide and Singapore Tourism Board Sign Memorandum of Understanding",
+            "title": "GetYourGuide와 싱가포르 관광청, 양해각서 체결",
             "source": "Breaking Travel News",
             "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUXNtdzhHQXUzclNmRUxFTmdyX1dDNlE0alp2Z1YzNXBfWV9IYXIwWURYUHlFdlZXZzRHbTAwRzl4TEZxUkM2MEN2cEVJR3JXWkxIYXU5MzZ0TG1oYU8yNFVFNVZLc3FvbUExOHA2SUxYVEs1b1dJbmFYQjRSUE1tSkpaTkJfMWVOUklyYnZhTHNsSXRwcHN2QnhyenJtOHpwNzJBZndIQ0tuVTRpZUo0SmlWRVBVZUExcFRzTnVBMA?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "GetYourGuide and Singapore Tourism Board Sign Memorandum of Understanding"
           }
         ]
       },
       "headlines": [
-        {
-          "title": "Prime Minister receives President of Singapore",
-          "source": "Government.se",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzAyRDdPVXQ1NktiNTlJcEpUc3JhcmFOMlRGWE55UXc4akFvNktFcTd6T1ZtSlhkNFRLc2FTeEttM1dXOE9VNFNZVFJLODF6azI4dkJ0S0FGVjZDeV9CX2oxUm9vOUlXUVFJWjJaQ21YamRDR2MzOEFYR0FZUFJ0dFdwRmkzS2xjUi1IcmxHUmlQbjJZ?oc=5",
-          "summary": "",
-          "published": "2026-10-20",
-          "lang": "en",
-          "translated": false,
-          "original_title": "Prime Minister receives President of Singapore"
-        },
         {
           "title": "'숨바꼭질을 할 수 없음': 안개에 대한 장관의 경고는 싱가포르 농업 재고를 낮추게 합니다.",
           "source": "CNBC",
@@ -6654,9 +6644,19 @@
           "original_title": "'Cannot play hide and seek': Minister's warning over haze sends Singapore agricultural stocks lower"
         },
         {
+          "title": "총리, 싱가포르 대통령 취임",
+          "source": "Government.se",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONzAyRDdPVXQ1NktiNTlJcEpUc3JhcmFOMlRGWE55UXc4akFvNktFcTd6T1ZtSlhkNFRLc2FTeEttM1dXOE9VNFNZVFJLODF6azI4dkJ0S0FGVjZDeV9CX2oxUm9vOUlXUVFJWjJaQ21YamRDR2MzOEFYR0FZUFJ0dFdwRmkzS2xjUi1IcmxHUmlQbjJZ?oc=5",
+          "summary": "",
+          "published": "2026-10-20",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Prime Minister receives President of Singapore"
+        },
+        {
           "title": "싱가포르, 안개와 관련된 인도네시아 기업에 대한 단속 확대",
-          "source": "The Press Democrat",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CS2Z3a1hwLXVBZFNxR2lBdENRMUplYXF6UTlCeDBySTkyR0c4WFREVExvNUgxTHM2TXJvVWJGbkZzS2lFd2sydEV2ODhSSkJIVi1mWEFNR055T0lySWxfVUVBWEo1SzNTOEJiQ18yckItQk90?oc=5",
+          "source": "Hartford Courant",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPT1YtUTVKaS1SRi1fUGVWX0ZYZVc3SzB3WmdkM0RNVWs3c2NFOFRERl95MnMxRDRPVGpDeTNqaWNPWmhkUjhDZEFfNDJmSGVUY1k0ejBya1ZpaGc0UWFkVFRxQS1kTklHQ0JzR3BmcU1kMk1fYXpvQmF4b2lDcGN6N3Z5cTYtVHJJYlVBMURWYkpsOWpXTmJia2RWb09iMFFqWm9zWXdXSnRyWEVDZ1ZzYmJFTHg1ei1BWXNaazVGMS1STmJYVTJXUWRCWk11LWN5ekpxZlprdEZyVTNCZEpONVVKQ2hsWThTZ3FlMWNmZ2lpczBaR2RQY29aVXlnTGctdHdKQ3d2SkpJZw?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
@@ -6698,6 +6698,16 @@
               "published": "2026-10-20"
             },
             {
+              "title": "싱가포르 에너지기업, 현대차증권과 합작법인 설립…자동차 공급망 RE100 지원",
+              "desc": "",
+              "source": "기후에너지데이터뱅크",
+              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRVDlubUY2OTNwM01tTnlocG1yUkpIZWk2NlpaTzNFMEZzcE4tbGRNRnZMekJ5enV0T3dTUnpXcU9qdzllZC1CMkY0NHM5UW9CSUlaSFlxQjBzRlg5aVE?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-14"
+            },
+            {
               "title": "터치 실수를 줄이기 위해 볼 한국 싱가포르 토토 버튼 간격",
               "desc": "",
               "source": "Calgary Roughnecks",
@@ -6706,16 +6716,6 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-13"
-            },
-            {
-              "title": "싱가포르 에너지기업, 사모펀드와 합작법인 설립…자동차 공급망 RE100 지원",
-              "desc": "",
-              "source": "기후에너지데이터뱅크",
-              "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRVDlubUY2OTNwM01tTnlocG1yUkpIZWk2NlpaTzNFMEZzcE4tbGRNRnZMekJ5enV0T3dTUnpXcU9qdzllZC1CMkY0NHM5UW9CSUlaSFlxQjBzRlg5aVE?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-14"
             },
             {
               "title": "현대차 정몽구 재단, 테마섹 트러스트 임팩트 플랫폼과 손잡다 한국·싱가포르 스타트업 10개 팀 한 무대에",
@@ -6734,28 +6734,6 @@
           "tag": "노동법·HR·임금",
           "tag_class": "bg-indigo-100 text-indigo-700",
           "items": [
-            {
-              "title": "싱가포르 임직원 해고 시 유의 사항",
-              "desc": "",
-              "source": "법률신문",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjUkhyMFV4c3d0SjJNdGswMFhORTIwa0M1U2c4ZzdOX1FiTTFYd1ZLbUJ4dUhqQ2Q4SkdfY19tejNwOG05N1EtR1oxbm5acldzZEFuVEQ4dVBIcGpKMU5XYXhnc1hBOXd3cGhQT0F30gFyQVVfeXFMT3VxZWV0VW5yME9MY1NMTzhFRkNTaVVwaTV1cV9BbDh5bEVTeV9QNTV4YlMya1dzazYtQURramdyb2ZEc3pUZTM2RDlxdkJrS2U2NlhsSnAyZ2pRWHlfVXkwMkMxWTdVOGh5U2lDX0ZBUG9n?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-06",
-              "law": false
-            },
-            {
-              "title": "싱가포르 고용시장 19분기 연속 성장…한국 청년의 해외취업 기회는 어디에 있나",
-              "desc": "",
-              "source": "코리아투데이뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qaFAxWXd5NGh4WFg0c2x0R3BYbnZuZUdFcUpVQ0x4SC1lSlRRQmZnT2E3ODZYTjRxSVZuUkdZQTdUSFJuLU5R?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-14",
-              "law": false
-            },
             {
               "title": "싱가포르 전국임금위, 저임금 노동자 6~8% 인상 권고…2021년 이후 최고",
               "desc": "",
@@ -6776,6 +6754,28 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-10",
+              "law": false
+            },
+            {
+              "title": "유비소프트, '트라이얼스' 개발사 레드링스 폐쇄 추진…싱가포르 인력도 감원",
+              "desc": "",
+              "source": "지디넷코리아",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzZlFsMV9xTkhxR3RNNVJuNkt2RUxmdzBISEpPaVJzaVNJQU5XXzMwWjJscnllTU84eUFoWVdITV9UaUN5Z2NpRzF2MXlpRkUwTjFjeDlR?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-15",
+              "law": false
+            },
+            {
+              "title": "이미지보다 설명이 필요한 싱가포르 카지노 역사 게임 요소",
+              "desc": "",
+              "source": "Calgary Roughnecks",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUNuVWtjZm5rOE9sbTcyNGpET1ZodHJ2NFBfVFU5SmZnamNaRGtVMldYVzVyREFzRTY5RFBiOXZQQXVYdnc0TVo5VVY0UThjN2hjOUFPZ3NXSnFUY1ZDano1WGNrWVE5cGhCOHp1ZmlQQ01zQ2E1cnhvNC1TN1NNS0RfSEVnVU5wcjh2S3djX2UtUFJ3YkZlWEs1RzFHSGNWVkJQRExGOXJDT21NdV9UZW1CcUFYM3pMa2F2d1RB?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-19",
               "law": false
             }
           ]
@@ -6806,22 +6806,22 @@
         "sites": [
           "Hankook Tire Middle East & Africa FZE (Dubai)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
           "gdp": "IMF",
           "inflation": "Trading Economics",
           "unemployment": "Global HR 자체 조사",
-          "min_wage": "보정 파일(HR 확인)"
+          "min_wage": "각국 노동법 기준"
         }
       },
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 363.2,
-        "change_pct": -0.56,
+        "current_rate": 361.2,
+        "change_pct": -0.55,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6848,11 +6848,11 @@
           386.9,
           375.1,
           367.8,
-          363.2
+          361.2
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/AEDKRW=X",
-        "asof": "2026-10-19",
+        "asof": "2026-10-20",
         "stale": false
       },
       "news": {
@@ -6869,14 +6869,14 @@
             "safety_tag": "무력충돌·테러"
           },
           {
-            "title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight",
-            "source": "Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzR1UDJHQ1pYM2Y2dzJ4Wmo3d3VCNFBEbDZQamtaSm5wdF9uWUdwRzdNa0ZtTFdzaUppUkdtelNyaDV0ZnU4aWY1aUlBLWhNdzN2VmhvZzJNdk8zM3gwSXZvc0p6Zld0UHhRQ0RjY2NTekZOekZnMEhwWlo1OXc2Mk1KZ0ZkZHF4WFR5NVRMejB2eDQxdXJJR0VocU5QVmRHbHFTZXlJNWRfdE43Sko3cXlYalB2VmFWSFczb044NlZEU21vOTNHOHpB?oc=5",
+            "title": "아랍에미리트, 이스라엘, 플라이두바이 납치 시도에 대한 조사 개시, 테러 동기 확인 추구",
+            "source": "The Jerusalem Post",
+            "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kR1ZWc3Z2UGJGd3FOLTFRYzlRUU1aeTRxc0s3QVFVVEk0SmhqVGxrOU5BRGRfVV90SzdPUmRHQVkxTVdXUTNKNkliSTQ4OWRyX0ltZ3ZGUEdwNGlQ?oc=5",
             "summary": "",
-            "published": "2026-08-19",
+            "published": "2026-10-01",
             "lang": "en",
-            "translated": false,
-            "original_title": "UAE's financial embargo on Iran after missile threat puts rivalry back in spotlight",
+            "translated": true,
+            "original_title": "UAE, Israel open investigation into flydubai hijacking attempt, seek to confirm terror motive",
             "safety_tag": "무력충돌·테러"
           },
           {
@@ -6945,24 +6945,24 @@
             "original_title": "Johnson & Johnson to Showcase the Future of Surgical Intelligence at Abu Dhabi Future Health Summit 2026"
           },
           {
-            "title": "UAE's 10-year 'golden visa' isn't just for the rich, but includes nurses, teachers, or e-sports pros",
-            "source": "Fortune",
-            "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHhPN1VOSHRkeVdYbFF1cDlLSHNKYjZrWHh1WjJsb1JZVXdkUmJtem5BX09UQXBSVVJscFF2N21vcktKd2lZTmpYbU9KNnpaanJGQTlVN19ueUlYaWplRWtwUlEwTkt2UzdhNTdFR1pDTnR3R2JPWGY5bWdTMm96UUF1R203LTRYbVJvMA?oc=5",
+            "title": "Mubadala 소유의 GlobalFoundries가 Fab 8 시설에 UAE 총영사 Abdalla Shaheen을 초대했습니다.",
+            "source": "وزارة الخارجية الإماراتية",
+            "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdkF5RTZiU21VcWZjamNnTWxBZ293aDhqVlR0aGo0T0VTamRCMmhiMnM4MWc4Y2NFUkNEMWpwOG52NVB5WWR5czBQOU9NVlJ3UVVXeEI5VWtvWVRyMWJ2NEVySmg0MVgweDRvQk1ybGxvaTlNeUQxX2VhUktIMWpYbHo1TEdGX0VYeEwxSG5XZEFxZ3JXQkppUS1DdXdwTnJzWFJuT19CRWtqOW9IdWJvcWhmYmk1dk12T0ItX084VkR6WGlDalR6UkN3Q3dxN0hqY19rcG9aMzZfNGM?oc=5",
             "summary": "",
-            "published": "2026-10-18",
-            "lang": "en",
-            "translated": false,
-            "original_title": "UAE's 10-year 'golden visa' isn't just for the rich, but includes nurses, teachers, or e-sports pros"
-          },
-          {
-            "title": "아랍에미리트 대학교가 주최한 제8차 지구물리학 국제 컨퍼런스는 지속 가능한 발전과 회복력 있는 도시를 지원합니다.",
-            "source": "مكتب أبوظبي الإعلامي",
-            "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdzJ5M3NvS1B2SXU2RVlfRkd2TTVFd1RjR0wtSHoySEJFemVWcGlDcU8tdXZ4V2lWa0tSdlFHQlZtMmlSUWRQYTQ3Qzl6R2tZekZYdVdkRDBHdmNwa3pYNHQ3cUdGNFhFeWNESWsyNElaQjItbDdCX0pLcE9IRkxaWGVwRHZFZDJkM2hHNTVMMlpLeVpPbGh3QklfSUF3VTlpMmxQLWRiQ1NPN2xjOXZfVFdseHFJWUQ1bVl3U0dsbGl3THhNem1aak5nbjJnek9YWUF6WTdjT09QUVpJLXRJYUJYR05UVGg1eFNRbGsxYTdTSjB5UWFhTXZvV19zWW5LN2NkZkt2bWI3UGc3eEloVXFsSFUzQlpzejMtdDhqRWRQLTE5OWxn?oc=5",
-            "summary": "",
-            "published": "2026-10-18",
+            "published": "2026-10-17",
             "lang": "en",
             "translated": true,
-            "original_title": "Organised by United Arab Emirates University, 8th International Conference on Engineering Geophysics supports sustainable development and resilient cities"
+            "original_title": "Mubadala-owned GlobalFoundries Welcomes UAE Consul General Abdalla Shaheen to Fab 8 Facility"
+          },
+          {
+            "title": "아랍에미리트 (UAE) 는 사우디아라비아와 후티의 이익에 따라 예멘 분쟁에 재진입하기로 합의했다.",
+            "source": "The Guardian",
+            "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXhkalJBQ2xwVFhIUExTLWw3UTRGbHdXVlhIQ0ZLaEVOREFzNUQ3MkJqSlMtOWQ1aDRwazFhaVA3ajdqNTREZFN1andxLV9QaE4yUWk4T0ZGeXJfZDIwb0JhMDRwOHN4Qlowbl9ET0x4cVMtZU1zdjBXY3J4bEp3VHAtdDItcUhzM3FfWmNaVFljamJ4enBhb1I3dTZUWVl5Z3c?oc=5",
+            "summary": "",
+            "published": "2026-10-17",
+            "lang": "en",
+            "translated": true,
+            "original_title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains"
           }
         ]
       },
@@ -7138,7 +7138,7 @@
         "sites": [
           "Hankook Tyre U.K. Ltd. (Daventry)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -7152,8 +7152,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1770.7,
-        "change_pct": -0.42,
+        "current_rate": 1769.1,
+        "change_pct": -0.51,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -7180,7 +7180,7 @@
           1912.2,
           1864.7,
           1787.6,
-          1770.7
+          1769.1
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/GBPKRW=X",
@@ -7235,13 +7235,13 @@
             "original_title": "UK's Healey rules out capital gains tax increase in budget, Times reports"
           },
           {
-            "title": "China warns UK of ‘firm countermeasures’ if it joins EU import curbs on EVs",
+            "title": "중국, 전기차로 EU 수입 연석에 합류할 경우 영국에 ‘단호한 대응 조치' 경고",
             "source": "South China Morning Post",
             "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3lSUjBWY1BZZ1oyTGxleXVIbWU4eXRaY1AxZzhPZ3VqWkphR0RyTmh0Y1RMRkZOU1RvS2NodDhQanVUNzhVd0ZzRUV2STdaZERSbjRRM0FYdVg5N0F2T3M2UG9VQ3ZtOEJfdlpNRy1xX3NYdDlzVjgyNDh3d1pDVDJDV0xRd2gxS0pmaHB0V3AxdktjUkFkZEdHcWNTM3FlQzdmVDBKTC0zRGFIZjJjMlA3NFhsTEZ5cG5sOWhUcFJxSXFaNUQzRkNrR184Zw?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "China warns UK of ‘firm countermeasures’ if it joins EU import curbs on EVs"
           },
           {
@@ -7310,13 +7310,13 @@
           "original_title": "UK's Healey rules out capital gains tax increase in budget, Times reports"
         },
         {
-          "title": "China warns UK of ‘firm countermeasures’ if it joins EU import curbs on EVs",
+          "title": "중국, 전기차로 EU 수입 연석에 합류할 경우 영국에 ‘단호한 대응 조치' 경고",
           "source": "South China Morning Post",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3lSUjBWY1BZZ1oyTGxleXVIbWU4eXRaY1AxZzhPZ3VqWkphR0RyTmh0Y1RMRkZOU1RvS2NodDhQanVUNzhVd0ZzRUV2STdaZERSbjRRM0FYdVg5N0F2T3M2UG9VQ3ZtOEJfdlpNRy1xX3NYdDlzVjgyNDh3d1pDVDJDV0xRd2gxS0pmaHB0V3AxdktjUkFkZEdHcWNTM3FlQzdmVDBKTC0zRGFIZjJjMlA3NFhsTEZ5cG5sOWhUcFJxSXFaNUQzRkNrR184Zw?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
-          "translated": false,
+          "translated": true,
           "original_title": "China warns UK of ‘firm countermeasures’ if it joins EU import curbs on EVs"
         },
         {
@@ -7472,22 +7472,22 @@
         "sites": [
           "Hankook Tire Austria GmbH (Schwechat)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
           "gdp": "IMF",
           "inflation": "Trading Economics",
           "unemployment": "Trading Economics",
-          "min_wage": "보정 파일(HR 확인)"
+          "min_wage": "각국 노동법 기준"
         }
       },
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1490.1,
-        "change_pct": -0.54,
+        "current_rate": 1488.6,
+        "change_pct": -0.64,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -7514,7 +7514,7 @@
           1636.7,
           1580.0,
           1531.4,
-          1490.1
+          1488.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
@@ -7546,15 +7546,15 @@
             "safety_tag": "사회불안"
           },
           {
-            "title": "산사태와 돌발성 홍수로 인해 오스트리아 솔덴에서 시민 보호 경보가 발령되었습니다.",
-            "source": "SnowBrains",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWZhOTlMRHdnVmJZT2dyc3hlUmZRWkYxRmJ1QVdwdTl5YjJ4WVJERlpldzUwelZVOWU4Xy1ZV2pBTEpiNFpMQlBOM2swRkk5Qm9GTk1NQzBXUGF3NW5wQXhTdDNJYU51cUxVRUJtTUI3aWZzNXViUVR5STh3ZkZLa2toZTh0cDhMdVBpMXNBdWlqWlZqdUJya0NjYXZldHg5ek93?oc=5",
+            "title": "오스트리아, 러시아 미사일 제작자에게 제재 장비를 보낸 계획을 밝혀내다",
+            "source": "UNITED24 Media",
+            "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcnBDek1fOVctdDdhbm5zb2JsZ1hzV1IyZGxGZnU4engxSE1na2pPMzZPZ3JXNThLX0g4NEk1YVByWENXcTZZT0tjdXVhTmtlNkJyNkN1SXMxQWZqX2pmSTNPNWtyc3RHLURuQWpoT1VaTzhFLVN3Ujc1ZmJjZWtmd0k4YzlfdUo4QkgtNFYwXzRFUXhGWFNqUVEzd05pYWtJREtkRkVSaUZPSG10Ql94dzhxbTVFcHRDc0E?oc=5",
             "summary": "",
-            "published": "2026-07-29",
+            "published": "2026-08-10",
             "lang": "en",
             "translated": true,
-            "original_title": "Landslides and Flash Flooding Triggered a Civil Protection Alarm in Sölden, Austria.",
-            "safety_tag": "자연재해"
+            "original_title": "Austria Uncovers Scheme That Sent Sanctioned Equipment to Russian Missile Makers",
+            "safety_tag": "무력충돌·테러"
           }
         ],
         "pol": [
@@ -7811,7 +7811,7 @@
         "sites": [
           "Hankook Tire Ukraine LLC (Kyiv)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -7826,7 +7826,7 @@
         "unit_base": 1,
         "decimals": 2,
         "current_rate": 29.57,
-        "change_pct": -3.39,
+        "change_pct": -3.4,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -8080,17 +8080,6 @@
               "law": false
             },
             {
-              "title": "정부, 주우크라이나대사 소환 결정…\"우크라와 협의 지속\"",
-              "desc": "",
-              "source": "중앙신문",
-              "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNMmRzY0hpZG5od1luRXlDaFlqY1JrdDIzWElseUtFQy1VcmJjd2V4ZlpMOWRmSlZpS2V4TmgxLW5TN2JCX01NVjE1QlhaZHpMYUhaWWxCLWdteS1OdExTRFNYeUtIS3RqUkxDT040ZEplWkpRRmR1MDdUSk82T2tvc0VXeTRxMnVPVXpBRDNSMFc4NFFzUEoxSmhyektGemZFYUFscktNQ3B1cFVGUUsxT2VyVUtDOUtZblpsTE9UTUotRDJSSVNid3dVWG1iTmhHLVNmc2tBZ0MxN3BTSW5TSDMxOUlnSkFjSWFZMW1ZVHFfd2xEbnNjYXhxUTI5cmQxaDRuT0JhMDEtQk5HVlNnWVhwaWZKMU5XZGJzUHktZmcxRDk2YW9HcUlSSXJfclgtOFMtaHZOVVFEbjQ2Vm1QVXNjZ1JoOV9IbGFmbTM3TzdQc0kwLURmT2cxRjA?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-08",
-              "law": false
-            },
-            {
               "title": "[기획] 미 행정부의 우크라이나·수단 출신 이주민 추방 유예",
               "desc": "",
               "source": "데일리연합",
@@ -8099,6 +8088,17 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-20",
+              "law": false
+            },
+            {
+              "title": "정부, 주우크라이나대사 소환 결정…\"우크라와 협의 지속\"",
+              "desc": "",
+              "source": "중앙신문",
+              "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNMmRzY0hpZG5od1luRXlDaFlqY1JrdDIzWElseUtFQy1VcmJjd2V4ZlpMOWRmSlZpS2V4TmgxLW5TN2JCX01NVjE1QlhaZHpMYUhaWWxCLWdteS1OdExTRFNYeUtIS3RqUkxDT040ZEplWkpRRmR1MDdUSk82T2tvc0VXeTRxMnVPVXpBRDNSMFc4NFFzUEoxSmhyektGemZFYUFscktNQ3B1cFVGUUsxT2VyVUtDOUtZblpsTE9UTUotRDJSSVNid3dVWG1iTmhHLVNmc2tBZ0MxN3BTSW5TSDMxOUlnSkFjSWFZMW1ZVHFfd2xEbnNjYXhxUTI5cmQxaDRuT0JhMDEtQk5HVlNnWVhwaWZKMU5XZGJzUHktZmcxRDk2YW9HcUlSSXJfclgtOFMtaHZOVVFEbjQ2Vm1QVXNjZ1JoOV9IbGFmbTM3TzdQc0kwLURmT2cxRjA?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-08",
               "law": false
             },
             {
@@ -8143,7 +8143,7 @@
         "sites": [
           "Hankook Tire and Technology Egypt LLC (Cairo)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -8157,8 +8157,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 24.53,
-        "change_pct": -1.4,
+        "current_rate": 24.42,
+        "change_pct": -1.85,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -8185,7 +8185,7 @@
           27.83,
           27.66,
           25.95,
-          24.53
+          24.42
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/EGPKRW=X",
@@ -8472,22 +8472,22 @@
         "sites": [
           "Hankook Tire Italia S.R.L. (Sesto San Giovanni)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
           "gdp": "IMF",
           "inflation": "Trading Economics",
           "unemployment": "Trading Economics",
-          "min_wage": "보정 파일(HR 확인)"
+          "min_wage": "각국 노동법 기준"
         }
       },
       "exchange_rate": {
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1490.1,
-        "change_pct": -0.54,
+        "current_rate": 1488.6,
+        "change_pct": -0.64,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -8514,7 +8514,7 @@
           1636.7,
           1580.0,
           1531.4,
-          1490.1
+          1488.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
@@ -8611,13 +8611,13 @@
             "original_title": "How has the cost of living changed in France, Italy, Spain and Portugal?"
           },
           {
-            "title": "REVIEW: Toronto Cocktail Festival’s Little Italy Crawl",
+            "title": "리뷰: 토론토 칵테일 페스티벌 '리틀 이탈리아' 투어",
             "source": "NOW Toronto",
             "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdjlQOVZXUV9SSW84NlRkUlc3TDhMbW9zXzBoSE8yWF9LQ0JESHprNEF1OWZaY3p3c0wyVzhMVmkzUldCRDEySE9tSm45VnlCT2JnbE0ydThqMnRPcDh2N2o0ZFBwdTB3V01UN0xabURnNVktYTRwNnNuYzhGOE1jdjhvZTZqTHAwSkJpOXQyRC0?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "REVIEW: Toronto Cocktail Festival’s Little Italy Crawl"
           },
           {
@@ -8693,6 +8693,16 @@
           "tag_class": "bg-rose-100 text-rose-700",
           "items": [
             {
+              "title": "이번 주 전기차 소식 - 이탈리아 전기차 시장, 견실한 성장을 향해 박차를 가하고 있다",
+              "desc": "",
+              "source": "Simply Wall Street",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMVhKckIzLWZxWEIwcmd0ZGh2LWlRS3RrTFRuTDBzSVBDbnFwNWlNMlB0STVLZl91VWRNekQ5bWhZVGFGc0U3TjFaSUtsNEFQME9HR0Rfbm51YTdVRTR1ZlUxSVRHSUloMGVZSWNBTlB5WUlEejE5aW5vR2Y2cEFPUzVwdDFDM0luZVVWb2hzb9IBlAFBVV95cUxOTjQ0NGw0aUNLV3Y5NzBrX1ItMHdzVXNjN05xT0VuMDNNUHZFTXVwYVJmR1FRYnlRRDB2Q29EYmlzUU51UVZETEczdXNZQ0ZXVGNDTUQta2pCeGozd24wNE1hdUMyMTg0SHU0NUt3dGR5TFhXb3lKcENpVzZDUnh1RjFyNklRV3k4WkhVX25rTVdiUEpD?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-13"
+            },
+            {
               "title": "Stellantis Italy 출력은 반등하지만 Fiat 500은 부족합니다",
               "desc": "",
               "source": "Automotive World",
@@ -8721,16 +8731,6 @@
               "translated": true,
               "original_title": "Italy, Austria Order Military Versions of INEOS Grenadier 4×4",
               "published": "2026-10-08"
-            },
-            {
-              "title": "Stellantis Italy 생산량은 2 년간의 감소 후 2026 년에 반등했다고 Union은 말합니다.",
-              "desc": "",
-              "source": "WSAU",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ3h5UGdHaG8xNDlMZXJqMm5KODhPWFlMQ3VHb2llSGJDUGE3RUYxcTlWV1FITE8tQnNHZXNjTjNyNHZpZXhyQllvZXM4bXpWT2x4UUFmRFRiU0l3Rk9PRDlmUm1WaHAyNlpLS2p2X1l1LWVlNkxXMVlkdUlaUFFOc1RqMmdmdk53UXltT2FCSERMbWFYNm1hcHZrcUxoOVdFMzlNdHo0MDZHamJwMmRsN1ZxN2c?oc=5",
-              "lang": "en",
-              "translated": true,
-              "original_title": "Stellantis Italy output seen rebounding in 2026 after two years of decline, union says",
-              "published": "2026-10-06"
             }
           ]
         },
@@ -8751,17 +8751,6 @@
               "law": false
             },
             {
-              "title": "이탈리아 물가 상승 항의 시위…일부 상점 약탈 ‘아수라장’ [현장영상]",
-              "desc": "",
-              "source": "KBS 뉴스",
-              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sbVN3T1FRSks5d0F2MWFyRGdUREI2N0FwVFZNdlFKQllTNXFlNzNTOE1wRWRIWVc2NC1XZDNCY0RGempQZXcxUmVqM1hCNEs0T2p6a2ZVcjB1TjNvSmtycHV1N1lPNGQxRC1FNFV3?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-19",
-              "law": false
-            },
-            {
               "title": "10월 13일 이탈리아 광장과 마티뇽에서 벌어지는 파업과 시위: 파리에서 우리가 마주하게 될 광경",
               "desc": "",
               "source": "Sortir à Paris",
@@ -8770,6 +8759,17 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-13",
+              "law": false
+            },
+            {
+              "title": "이탈리아 물가 상승 항의 시위…일부 상점 약탈 ‘아수라장’ [현장영상]",
+              "desc": "",
+              "source": "KBS 뉴스",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sbVN3T1FRSks5d0F2MWFyRGdUREI2N0FwVFZNdlFKQllTNXFlNzNTOE1wRWRIWVc2NC1XZDNCY0RGempQZXcxUmVqM1hCNEs0T2p6a2ZVcjB1TjNvSmtycHV1N1lPNGQxRC1FNFV3?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-19",
               "law": false
             },
             {
@@ -8814,7 +8814,7 @@
         "sites": [
           "Hankook Tire Japan Corp. (Osaka)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -8828,8 +8828,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 837.3,
-        "change_pct": -0.91,
+        "current_rate": 837.1,
+        "change_pct": -0.93,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -8856,7 +8856,7 @@
           886.8,
           860.1,
           858.3,
-          837.3
+          837.1
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/JPYKRW=X",
@@ -8921,13 +8921,13 @@
             "original_title": "Japan Shows Growth Progress and Ongoing Weakness"
           },
           {
-            "title": "Politics of the potato front and center for Japan’s new agriculture minister",
+            "title": "일본의 새로운 농업 장관을 위한 감자 전선과 중심의 정치",
             "source": "The Japan Times",
             "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXNYT0xpT01YRS1OZFZ5MEN3WktGZnprTTEtRmptdGNMRkxKSE1QcXlQbE5OZmc5UVdzV3A0TFNpT05YdjVXamN5YTdKb0E5TlZQT1BvSVZaUE1VSHBwbjU4SUlQZzVTcmQwWnQyWGFjTmwyVUNqT1FKN0JTSnRnNHZQTFpBa0hNT3Z4Qzc2Wkd3N2hL?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "Politics of the potato front and center for Japan’s new agriculture minister"
           },
           {
@@ -8996,13 +8996,13 @@
           "original_title": "Japan Shows Growth Progress and Ongoing Weakness"
         },
         {
-          "title": "Politics of the potato front and center for Japan’s new agriculture minister",
+          "title": "일본의 새로운 농업 장관을 위한 감자 전선과 중심의 정치",
           "source": "The Japan Times",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXNYT0xpT01YRS1OZFZ5MEN3WktGZnprTTEtRmptdGNMRkxKSE1QcXlQbE5OZmc5UVdzV3A0TFNpT05YdjVXamN5YTdKb0E5TlZQT1BvSVZaUE1VSHBwbjU4SUlQZzVTcmQwWnQyWGFjTmwyVUNqT1FKN0JTSnRnNHZQTFpBa0hNT3Z4Qzc2Wkd3N2hL?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
-          "translated": false,
+          "translated": true,
           "original_title": "Politics of the potato front and center for Japan’s new agriculture minister"
         }
       ],
@@ -9148,7 +9148,7 @@
         "sites": [
           "Hankook Tire Ceska Republika s.r.o. (Prague)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -9162,8 +9162,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 61.56,
-        "change_pct": -0.42,
+        "current_rate": 61.24,
+        "change_pct": -0.53,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -9190,11 +9190,11 @@
           67.69,
           66.17,
           62.77,
-          61.56
+          61.24
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CZKKRW=X",
-        "asof": "2026-10-19",
+        "asof": "2026-10-20",
         "stale": false
       },
       "news": {
@@ -9245,13 +9245,13 @@
             "original_title": "Czech PM Babis goes empty-handed in Senate elections"
           },
           {
-            "title": "Armenian defense minister departs for official visit to Czech Republic",
+            "title": "아르메니아 국방장관이 체코를 공식 방문하기 위해 출발합니다.",
             "source": "Armenpress",
             "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xTnhid0gwQTVRRnZVaDU4TXBEenFCYkxpR2J5MkVtZWZ3djJqWXhZVGdyTHo5ZzRSSkJIQVdLRDZ3RHVzQ1dGNG13WjNDN2JjY1HSAVdBVV95cUxNcFZMOGx5Y2JubG5VS1hIcnBoS0J2SjNaZURlZzY2N1BJXzZ0ZUwweVlVNDNsTE12blcwXzRkRmVCRTlvM0pmS3BzaHRPalpRcEg3ZjFUbVk?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "Armenian defense minister departs for official visit to Czech Republic"
           },
           {
@@ -9320,13 +9320,13 @@
           "original_title": "Czech PM Babis goes empty-handed in Senate elections"
         },
         {
-          "title": "Armenian defense minister departs for official visit to Czech Republic",
+          "title": "아르메니아 국방장관이 체코를 공식 방문하기 위해 출발합니다.",
           "source": "Armenpress",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xTnhid0gwQTVRRnZVaDU4TXBEenFCYkxpR2J5MkVtZWZ3djJqWXhZVGdyTHo5ZzRSSkJIQVdLRDZ3RHVzQ1dGNG13WjNDN2JjY1HSAVdBVV95cUxNcFZMOGx5Y2JubG5VS1hIcnBoS0J2SjNaZURlZzY2N1BJXzZ0ZUwweVlVNDNsTE12blcwXzRkRmVCRTlvM0pmS3BzaHRPalpRcEg3ZjFUbVk?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
-          "translated": false,
+          "translated": true,
           "original_title": "Armenian defense minister departs for official visit to Czech Republic"
         },
         {
@@ -9490,7 +9490,7 @@
         "sites": [
           "Hankook Tire Chile SpA (Santiago)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -9505,7 +9505,7 @@
         "unit_base": 100,
         "decimals": 1,
         "current_rate": 135.4,
-        "change_pct": -0.63,
+        "change_pct": -0.64,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -9706,16 +9706,6 @@
           "tag_class": "bg-rose-100 text-rose-700",
           "items": [
             {
-              "title": "에이피알 '메디큐브' 칠레 진출…중남미 공략 본격화",
-              "desc": "",
-              "source": "ER 이코노믹리뷰",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKNUpUV3NfZWx2R3c4NWV1MkxOY1dhQnJjZ2xqV0E0Wlg3VzJ0djFqdEJlRFhPRW1pYkQwRFdoclVxM2VNUmdhcGExeUR3WXdZSnY3TFlBZk1femdCODFzdDc3azdlRTd0YlVSMA?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-15"
-            },
-            {
               "title": "칠레의 로마스 바야스, 2025년 ELT 회복 목표 2배 이상 달성",
               "desc": "",
               "source": "Tyre & Rubber Recycling",
@@ -9744,6 +9734,16 @@
               "translated": true,
               "original_title": "DP World Handles Record BYD New Energy Vehicle Shipment at San Antonio Terminal in Chile",
               "published": "2026-10-15"
+            },
+            {
+              "title": "EnergyX는 Trafigura와 칠레 리튬을 약 20억 달러에 판매하기로 합의했습니다.",
+              "desc": "",
+              "source": "BNamericas",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1lRUVBtU3FrOXlXU2tBLWh4ekFYelI1U0VoalA1azhJemhCZFBqSnZETndOb3dBbnp1eW1zS01aOFFSV2FwUVB2cVBleTVBcGRpVExYeGNmVGpsaFVYS3BvUVlsVXA5dmpVSDNvck10SlduWGZBZGdYR2lRejB4cUJONzg3eHB6LUhZSzJqNVpuaXRqOWpPZWFDZkVoZjBJcUY4bmRHUGpwSlFhQnQ3Vw?oc=5",
+              "lang": "en",
+              "translated": true,
+              "original_title": "EnergyX agrees with Trafigura on sale of Chilean lithium for about US$2bn",
+              "published": "2026-10-14"
             }
           ]
         },
@@ -9827,7 +9827,7 @@
         "sites": [
           "Hankook Tire Co., Ltd. Almaty Office (Almaty)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -9841,8 +9841,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 294.2,
-        "change_pct": -3.42,
+        "current_rate": 294.1,
+        "change_pct": -3.44,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -9869,7 +9869,7 @@
           309.2,
           305.3,
           318.6,
-          294.2
+          294.1
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/KZTKRW=X",
@@ -9901,15 +9901,15 @@
             "safety_tag": "보건·환경"
           },
           {
-            "title": "토카예프는 파키스탄의 치명적인 학교 지붕 붕괴에 애도를 표합니다",
-            "source": "Kazakhstan Today",
-            "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUm5Md1dNRjBaSEtpXzJjNmJPX0JpUUdzbTRrMlhUcVl1dTU0b0xQaFdyUDJyRkFwbWJqcU0yQi1TeDNjQ3RFcEdMX3dOQUtDWE0wUGR4UzBaRDdoUDVRakNia0dDOGJHSUtsaE9mcEphZGZRVUNBb0dVSU5MR0lZNml2bnV1M1BRUnJCbFNfdUpubU1uaVpGS0JqbTU?oc=5",
+            "title": "카자흐스탄의 발자국은 러시아 시설에 대한 드론 공격에서 볼 수 있습니다 — 대중 매체",
+            "source": "EADaily",
+            "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWduVlBSQ1lXUTJJZVphaGJQSXcxS0hIZ3laZEJBQXQyRXpvOThYYko3c3hNLUVMMlc4cEFEaXRna0tUaXFWcC1TUE55Mk5VQUtrNVRoRWpKU3hQZ2o3OWlIdlE5bDdNNXJHbVpfUXR6UkMxd3NkUmtvMHZYdWdteUthQlV1cWUyaFRJdWdPa2RNZDRmN1V5Y0xFVnNDNi04WTF5bkkzWEVrejhRc01tLWI5Ylpzd1RnbWVOdVJCZEhfelHSAccBQVVfeXFMT3pzbkxhOUF3MkVTcnUzTzg4RC1SYTZNMF9nUVVDWEprUXJfcEhhaEdIWU9FMDdkOGozRHRSWnE4cFRDVEEyQVdNbnJSVGYyOVRMczVrVGpuNWxVQXNaQ0lWTWpkcTJ0N1NVUHhTYU9MdjdGaVExVHFodEpUU1FseDNrdkRaNS1vd3M5VkJBSmlINmZtbUQ4VGRnOHlDYWlMN0tZaXFFOVVPbzNWcnFPbXZ5eGtNSk5UbjZIcXZYcU5zVUo2N3NYbw?oc=5",
             "summary": "",
-            "published": "2026-10-18",
+            "published": "2026-10-16",
             "lang": "en",
             "translated": true,
-            "original_title": "Tokayev Offers Condolences Over Fatal School Roof Collapse in Pakistan",
-            "safety_tag": "대형사고"
+            "original_title": "Kazakhstan's footprint is visible in drone attacks on Russian facilities — mass media",
+            "safety_tag": "무력충돌·테러"
           }
         ],
         "pol": [
@@ -10159,7 +10159,7 @@
         "sites": [
           "Hankook Tire Canada Corp. (Brampton)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -10173,8 +10173,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 943.1,
-        "change_pct": -0.12,
+        "current_rate": 942.6,
+        "change_pct": -0.18,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -10201,7 +10201,7 @@
           1013.9,
           990.8,
           952.0,
-          943.1
+          942.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/CADKRW=X",
@@ -10246,13 +10246,13 @@
         ],
         "pol": [
           {
-            "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+            "title": "앨버타 유권자들은 캐나다 통일을 지지하는 국민투표에서 독립을 향한 움직임을 거부합니다.",
             "source": "NPR",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5S3loSlFUb1hMdlRNTEN1WFRxOXRVYWtCY0s1a0tRbHZwRDFZZGRjLTgwOGI4V3pMZER4eWhjSU5Na2FsaWhrQVZpZ3I0Y3h4dTZ6R0V3VzM3RkZzdTJPZDVCdGR0UkFwcmprdGF5enVsaTZObkpLMDlR?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "Alberta voters reject a move toward independence in referendum backing Canadian unity"
           },
           {
@@ -10321,13 +10321,13 @@
       },
       "headlines": [
         {
-          "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+          "title": "앨버타 유권자들은 캐나다 통일을 지지하는 국민투표에서 독립을 향한 움직임을 거부합니다.",
           "source": "NPR",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5S3loSlFUb1hMdlRNTEN1WFRxOXRVYWtCY0s1a0tRbHZwRDFZZGRjLTgwOGI4V3pMZER4eWhjSU5Na2FsaWhrQVZpZ3I0Y3h4dTZ6R0V3VzM3RkZzdTJPZDVCdGR0UkFwcmprdGF5enVsaTZObkpLMDlR?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
-          "translated": false,
+          "translated": true,
           "original_title": "Alberta voters reject a move toward independence in referendum backing Canadian unity"
         },
         {
@@ -10496,7 +10496,7 @@
         "sites": [
           "Hankook Tire Colombia Ltda. (Bogotá)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -10510,8 +10510,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 2,
-        "current_rate": 42.03,
-        "change_pct": 0.07,
+        "current_rate": 42.02,
+        "change_pct": 0.05,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -10538,7 +10538,7 @@
           45.5,
           43.02,
           40.51,
-          42.03
+          42.02
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/COPKRW=X",
@@ -10830,7 +10830,7 @@
         "sites": [
           "Hankook Tire Zagreb d.o.o. (Zagreb)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -10844,8 +10844,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1490.1,
-        "change_pct": -0.54,
+        "current_rate": 1488.6,
+        "change_pct": -0.64,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -10872,7 +10872,7 @@
           1636.7,
           1580.0,
           1531.4,
-          1490.1
+          1488.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
@@ -11066,22 +11066,22 @@
               "published": "2026-10-17"
             },
             {
-              "title": "Assembly Speaker Cho Jung-sik: Croatia's Chunmoo Acquisition Is 'Meaningful Progress'",
+              "title": "조중식 국회의장: 크로아티아의 춘무 획득은 '의미 있는 진전' 입니다.",
               "desc": "",
               "source": "news.sbs.co.kr",
               "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ndGNHZnlOSkUyRHcyeWZhSmFCUlR6ck5TYk5aZXpLenczdVRCV1J4X0lCcFFidVpmMldlSDlxTUVWTnB1blBXZTBjcl9oeU5JRDNzbXFZSUFjTHVDTzZwaHFRYU5pV2VaVDYxV0FR?oc=5",
               "lang": "en",
-              "translated": false,
+              "translated": true,
               "original_title": "Assembly Speaker Cho Jung-sik: Croatia's Chunmoo Acquisition Is 'Meaningful Progress'",
               "published": "2026-10-10"
             },
             {
-              "title": "Croatia-based Verne, partners start autonomous car testing in Manchester",
+              "title": "크로아티아에 본사를 둔 베른, 파트너, 맨체스터에서 자율주행 자동차 테스트 시작",
               "desc": "",
               "source": "SeeNews",
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQWVxNHZKSVQwRDVXbWVLd1BtOXlXSVVTSHRsMUxGaW5Lakc5dzJVZ2pOQTJGZmQ5VVBKbmhmRVppSXpqS3pKUWI4Y2N3amV1SFBrSWxac2NWMlBORy1qdzFaNVlEQlljQnIyM3d5ZWN2Q1ZFbnlYUlpmZU43cnQyalpZT09pMkNTOEh5UkxSdkVfNi01ODhrVTRuSmlWUlRDeklEN0tQRQ?oc=5",
               "lang": "en",
-              "translated": false,
+              "translated": true,
               "original_title": "Croatia-based Verne, partners start autonomous car testing in Manchester",
               "published": "2026-10-14"
             }
@@ -11167,7 +11167,7 @@
         "sites": [
           "Hankook Tire Thailand Co., Ltd. (Bangkok)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -11181,8 +11181,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 39.51,
-        "change_pct": -0.91,
+        "current_rate": 39.5,
+        "change_pct": -0.95,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -11209,7 +11209,7 @@
           42.55,
           41.63,
           40.27,
-          39.51
+          39.5
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/THBKRW=X",
@@ -11219,13 +11219,13 @@
       "news": {
         "safe": [
           {
-            "title": "Thailand monitors Typhoon Champi as Taiwan travellers warned",
+            "title": "태국은 타이완 여행자들이 경고한 대로 태풍 참피를 모니터링합니다.",
             "source": "Nation Thailand",
             "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoUmp2VHpnOXJhZXhUMlo4YV92djJ4TVl3STNzaEJVX3FUYjZWejdpSWZ4c2JPdm9FWTk5YWg4dWw2TEhONmktU29BNGVsYXMtblhXemRqT0tTN2I1cnl0ck9B?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "Thailand monitors Typhoon Champi as Taiwan travellers warned",
             "safety_tag": "자연재해"
           },
@@ -11316,13 +11316,13 @@
             "original_title": "'We don't have to wait for others to support us': Myanmar refugees find hope in Thailand's work program"
           },
           {
-            "title": "TAT highlights Thailand’s tourism at CNN event",
+            "title": "CNN 이벤트에서 태국의 관광을 소개하는 TAT",
             "source": "Travel Daily Media",
             "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVNzS3kyUjRJQmRySU9PcmEzQmV2MnF2QlRUUFFVeGFSY2lxTG5QNHAtaDNRWFJKSnpmYkJIV2o1OWp6eVN4c2xMUlotN00wQjdRRnNBWlUweVMwdWpFWnhKRlpYaXFVN1FaUjVoS2JJTjg0elVZZ2JjeERUR3NWTnNJeXhjUQ?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "TAT highlights Thailand’s tourism at CNN event"
           }
         ]
@@ -11501,7 +11501,7 @@
         "sites": [
           "Hankook Lastikleri A.S. (Istanbul)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -11515,8 +11515,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 26.93,
-        "change_pct": -0.56,
+        "current_rate": 26.76,
+        "change_pct": -0.63,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -11543,11 +11543,11 @@
           29.91,
           28.54,
           27.56,
-          26.93
+          26.76
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/TRYKRW=X",
-        "asof": "2026-10-19",
+        "asof": "2026-10-20",
         "stale": false
       },
       "news": {
@@ -11838,7 +11838,7 @@
         "sites": [
           "Hankook Tire Latin America Distribution Center S.A. (Panama City)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -11852,8 +11852,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1326.7,
-        "change_pct": -0.5,
+        "current_rate": 1326.5,
+        "change_pct": -0.52,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -11880,7 +11880,7 @@
           1420.6,
           1377.1,
           1350.5,
-          1326.7
+          1326.5
         ],
         "source": "Yahoo Finance (USD 1:1 고정환율)",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
@@ -12172,7 +12172,7 @@
         "sites": [
           "Hankook Tire Polska Sp. z o.o. (Warsaw)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -12186,8 +12186,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 342.6,
-        "change_pct": -0.52,
+        "current_rate": 340.8,
+        "change_pct": -0.54,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -12214,11 +12214,11 @@
           380.3,
           367.9,
           350.9,
-          342.6
+          340.8
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/PLNKRW=X",
-        "asof": "2026-10-19",
+        "asof": "2026-10-20",
         "stale": false
       },
       "news": {
@@ -12269,16 +12269,6 @@
             "original_title": "Jet-Powered Drones Push Ukraine, Poland and Brussels Toward New Countermeasures"
           },
           {
-            "title": "리투아니아 영토에 추락한 드론이 폴란드에서 넘어갔다고 밝혔습니다.",
-            "source": "Anadolu Ajansı",
-            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbl9BczlTZndjNWFKSUJDLV8yYTJ1N3J0X2M0YXFDbGRBV3JsUGlCSjEtZE1pckktVDFfRV82aUEzQkVpeFdHQWFtNHM1ejhSTmFsZmw2X3MzMnRnSmNFc3ZYOXdSZ3RpTXI5bUdSNC1qMzBfSHBCcy1qNTRHTEVxeTdsN2ZZYXhJVVlVUUhXWVVqcGlkYWZNcUp2MzZHWVB6aTBtWU1SSFFSRGRlbmV2VQ?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Lithuania says drone that crashed on its territory crossed from Poland"
-          },
-          {
             "title": "헝가리와 폴란드는 프랑스가 폭력적인 불안에서 벗어나기 위해 엄격한 이주 정책을 옹호합니다.",
             "source": "Fox News",
             "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnQxa2thMk1GX1JwZ2hXZWZQbUV2WTlSRklGN2J5bHBnWF94VDhHQ2ljeEZCdlEwMjN6RjZLOTN6b2wtTURfYmlkWW9kRUNYbERKcG5uUDV1SXUzM2laRTFObEI4bnRvRVhMMElNb3JVbnZ4bzFuQl9ONWpMUU9BSkh3c3QyS05QVUxnLWVZWjQ5SG5VQXhzeG5EX2liQUJkbi1hUjFKUVNQV05Qa2fSAbMBQVVfeXFMTUw3VGFoeHZUejRFamtqMEp5OTJJMjJRQ3JxSDFncFY5bHlsNUEtT2xwandNVmFBSWdfQ0pESUd6OW0wY1Z6VGZJUml5RkR5MU52U0JEY3dERTRkVXAtZzRoWGphRDhCdTQwbWJCT2tDY28zcHk4OFQxQVpxUjFqWWNqdlp4MC16eURyeGJIeFB6TmNna25LU1lPWDExNC1TcWVNN2EzN09fOXJfWEVxZWVaQmc?oc=5",
@@ -12287,6 +12277,16 @@
             "lang": "en",
             "translated": true,
             "original_title": "Hungary and Poland defend tough migration policies as France reels from violent unrest"
+          },
+          {
+            "title": "리투아니아 영토에 추락한 드론이 폴란드에서 넘어갔다고 밝혔습니다.",
+            "source": "Anadolu Ajansı",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbl9BczlTZndjNWFKSUJDLV8yYTJ1N3J0X2M0YXFDbGRBV3JsUGlCSjEtZE1pckktVDFfRV82aUEzQkVpeFdHQWFtNHM1ejhSTmFsZmw2X3MzMnRnSmNFc3ZYOXdSZ3RpTXI5bUdSNC1qMzBfSHBCcy1qNTRHTEVxeTdsN2ZZYXhJVVlVUUhXWVVqcGlkYWZNcUp2MzZHWVB6aTBtWU1SSFFSRGRlbmV2VQ?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Lithuania says drone that crashed on its territory crossed from Poland"
           },
           {
             "title": "2027년 전시회를 앞두고 바르샤바로 향하는 Sigep World",
@@ -12344,16 +12344,6 @@
           "original_title": "Jet-Powered Drones Push Ukraine, Poland and Brussels Toward New Countermeasures"
         },
         {
-          "title": "리투아니아 영토에 추락한 드론이 폴란드에서 넘어갔다고 밝혔습니다.",
-          "source": "Anadolu Ajansı",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbl9BczlTZndjNWFKSUJDLV8yYTJ1N3J0X2M0YXFDbGRBV3JsUGlCSjEtZE1pckktVDFfRV82aUEzQkVpeFdHQWFtNHM1ejhSTmFsZmw2X3MzMnRnSmNFc3ZYOXdSZ3RpTXI5bUdSNC1qMzBfSHBCcy1qNTRHTEVxeTdsN2ZZYXhJVVlVUUhXWVVqcGlkYWZNcUp2MzZHWVB6aTBtWU1SSFFSRGRlbmV2VQ?oc=5",
-          "summary": "",
-          "published": "2026-10-20",
-          "lang": "en",
-          "translated": true,
-          "original_title": "Lithuania says drone that crashed on its territory crossed from Poland"
-        },
-        {
           "title": "헝가리와 폴란드는 프랑스가 폭력적인 불안에서 벗어나기 위해 엄격한 이주 정책을 옹호합니다.",
           "source": "Fox News",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnQxa2thMk1GX1JwZ2hXZWZQbUV2WTlSRklGN2J5bHBnWF94VDhHQ2ljeEZCdlEwMjN6RjZLOTN6b2wtTURfYmlkWW9kRUNYbERKcG5uUDV1SXUzM2laRTFObEI4bnRvRVhMMElNb3JVbnZ4bzFuQl9ONWpMUU9BSkh3c3QyS05QVUxnLWVZWjQ5SG5VQXhzeG5EX2liQUJkbi1hUjFKUVNQV05Qa2fSAbMBQVVfeXFMTUw3VGFoeHZUejRFamtqMEp5OTJJMjJRQ3JxSDFncFY5bHlsNUEtT2xwandNVmFBSWdfQ0pESUd6OW0wY1Z6VGZJUml5RkR5MU52U0JEY3dERTRkVXAtZzRoWGphRDhCdTQwbWJCT2tDY28zcHk4OFQxQVpxUjFqWWNqdlp4MC16eURyeGJIeFB6TmNna25LU1lPWDExNC1TcWVNN2EzN09fOXJfWEVxZWVaQmc?oc=5",
@@ -12362,6 +12352,16 @@
           "lang": "en",
           "translated": true,
           "original_title": "Hungary and Poland defend tough migration policies as France reels from violent unrest"
+        },
+        {
+          "title": "리투아니아 영토에 추락한 드론이 폴란드에서 넘어갔다고 밝혔습니다.",
+          "source": "Anadolu Ajansı",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbl9BczlTZndjNWFKSUJDLV8yYTJ1N3J0X2M0YXFDbGRBV3JsUGlCSjEtZE1pckktVDFfRV82aUEzQkVpeFdHQWFtNHM1ejhSTmFsZmw2X3MzMnRnSmNFc3ZYOXdSZ3RpTXI5bUdSNC1qMzBfSHBCcy1qNTRHTEVxeTdsN2ZZYXhJVVlVUUhXWVVqcGlkYWZNcUp2MzZHWVB6aTBtWU1SSFFSRGRlbmV2VQ?oc=5",
+          "summary": "",
+          "published": "2026-10-20",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Lithuania says drone that crashed on its territory crossed from Poland"
         }
       ],
       "official_sources": [
@@ -12400,22 +12400,12 @@
             {
               "title": "[K-금융 글로벌 전략 2026] [폴란드·헝가리] 공장 따라 동유럽 간 K금융…이젠 공급망 전체 '영업 무대'",
               "desc": "",
-              "source": "블로그",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5c21KRlJJOU5pTFZMeWFBcFZXYlJmUWdGSVNfajRyOFdCMUM5ODRiLUJpaGFucUtPc0pNd00tVHkySEhoX1BiZGVSYUdYMkdCYWNGVllSNGRRZw?oc=5",
+              "source": "딜사이트",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jXzZaS084Q29iZlJRNEsxNHdaZFN1NDlSa2NNcFJsZW55d1VrdW8xUGNfSldaVm5RSVNpRkFwWGF6LXMwam1GQWtFTWQ3NUU?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
               "published": "2026-10-12"
-            },
-            {
-              "title": "[K-금융 글로벌 전략 2026] [폴란드·헝가리] 폴란드 누비는 신한은행의 '금융 메신저'",
-              "desc": "",
-              "source": "딜사이트",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hMVBLQllYNE8wS2JBUi1ET2YtQ3p6ajFhNGdvSVRFOXkyVmdDemJSMTF3YkJxd0JmNl9od3RWYktGbW9iM2RLZnBRNTJTQkE?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-14"
             },
             {
               "title": "선문대·폴란드 실레시안 공대, 미래차 인재 양성 ‘맞손’ > 뉴스",
@@ -12426,6 +12416,16 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-16"
+            },
+            {
+              "title": "삼성SRA자산운용·GS건설 폴란드 합작사, EU 승인 받아…부동산 투자 탄력",
+              "desc": "",
+              "source": "더구루",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MT3dpUHdHaE5ETW4zR2w2SDlvWWZjX1lrOWdRMjRieUhQeEdTNEkzNEFDVXhCdUV5cGRtaHZOZHlKZUZyWE9xdTMyYVJtOTR4bjRucHVfM1ZIMUFaWnZ3aE8zQQ?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-08"
             }
           ]
         },
@@ -12506,7 +12506,7 @@
         "sites": [
           "Hankook France S.A.R.L. (Villeurbanne)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -12520,8 +12520,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1490.1,
-        "change_pct": -0.54,
+        "current_rate": 1488.6,
+        "change_pct": -0.64,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -12548,7 +12548,7 @@
           1636.7,
           1580.0,
           1531.4,
-          1490.1
+          1488.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
@@ -12558,14 +12558,14 @@
       "news": {
         "safe": [
           {
-            "title": "프랑스 시위: 왜 프랑스는 끊임없이 폭동을 일으키는가?",
-            "source": "Foreign Policy",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXJ2ZEtYX2twYnR1Vm5pQXhnVmVrdllRbG9VOWxkaW1Db1l5RTZWSFRTOVMyQkh4ajRQdWxBa29pMklEX3E1ZzJSdlpHYVN5cVFUMEJIS0VVSXJmVTVNMXhYaVVNTnVIbml6Q25tN3IxT01Pbk5Fa21lbnMwYkM1U2IzNC1wb3hjZXBqbTB1N0dJSlQtQ20wYW1yaE9KdUI4bzFLNFctamJ3UQ?oc=5",
+            "title": "프랑스 폭동 피해 2배 증가: 파괴된 수천 개의 상점에 대한 비용은 누가 지불하나요?",
+            "source": "Euronews.com",
+            "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM1BYNzlXWlNvWGtvS3N3UFE1YThZdmk1TFZ4RjBlZGpSX0lhdUU1YU9lWTQxWm5IVWtna2UzNFkzNEQ0TkJCRVJyYWljZkZVTTRZTmd1VWd4RF9ROW14dFZ0WHl5LWRIY2lWbm56UHlrNlhjc3BVSTRpeGdlXzlPajZKS3p3R2tXTVRhYWtGcGNIWDR0d0c1NXJpM0N2TlNwV0hxOENfSEZVU3M?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "France Protests: Why Is France Perpetually Rioting?",
+            "original_title": "France riot damage doubles: Who pays for thousands of destroyed shops?",
             "safety_tag": "사회불안"
           },
           {
@@ -12613,16 +12613,6 @@
             "original_title": "France announces curfews in aftermath of violent protests"
           },
           {
-            "title": "Targeted curfews helped keep the peace overnight in France, PM says",
-            "source": "Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmJ1TFFHTzZnd2dhQWFDZ053eUx6SnN2NmdSSEZrR3FKLTMtMWpNem1TU0E2VUpRMGNuUl9NRXZ6X25haHNrMzlVMmd1MGQ4UFdyZFNyYWZQRjREWHNTdWQ0ZDktZjlqZFU1WWl5NF83OGwwVk01R19XZ3IzQlVXSWkxaVR6cVpfWWpWb01CbDJDbFNHUHNYUGdXcmk0d3pTeFEw?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": false,
-            "original_title": "Targeted curfews helped keep the peace overnight in France, PM says"
-          },
-          {
             "title": "임금 상승률과 GDP가 정체된 가운데 인플레이션이 3.4%에 달하면서 프랑스인들이 폭동을 일으키고 있습니다. 트럼프의 미국은 더 높다",
             "source": "Fortune",
             "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG1ER1lKSjJBWnpIamduNWhfb3Uzd1VoQW83MzZIY1F3UHZzZ3Y2R1VNSWdoaU14MEhFODF4TTQ2ZzdwOVdVczRjdTRuQTFZcHNpWDVDNlg3YXlCZ0oxX1dpczBaMG9RNXBGQ1NKQ0VDS1dfRFBRb0VGRVJPcVp4cmhtU1JZT1VDS293b0g3WXl3eU5PYUUtOG4tdl84eG1OemdfV3dfNUZFU3c?oc=5",
@@ -12631,6 +12621,16 @@
             "lang": "en",
             "translated": true,
             "original_title": "The French are rioting as inflation hits 3.4% while wage growth and GDP remain stagnant. It’s higher in Trump’s America"
+          },
+          {
+            "title": "기술, 에너지 및 프랑스가 그립 시장을 두려워함에 따라 안전한 피난처가 쌓이는 방법",
+            "source": "Reuters",
+            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcHQwSENyS3lkNi05UkRqMGdnZVg3dUlBWC1KdE8wemZkNmthdFBhSG9MSXB5VV9Yd3ExSWI1ZDBFVEdpY1JKSl92RzlOOHhfbHpqeEdmUWlwa09IdlVqb0pyNDAzTzVGZjJDd05xMHlRazVZTUQ0eWxZWm8wZEFSRlllNkg5Mml6MFNBNEJ1OXdnTHlE?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "How safe havens stack up as tech, energy and France fears grip markets"
           }
         ],
         "soc": [
@@ -12688,14 +12688,14 @@
           "original_title": "France announces curfews in aftermath of violent protests"
         },
         {
-          "title": "Targeted curfews helped keep the peace overnight in France, PM says",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmJ1TFFHTzZnd2dhQWFDZ053eUx6SnN2NmdSSEZrR3FKLTMtMWpNem1TU0E2VUpRMGNuUl9NRXZ6X25haHNrMzlVMmd1MGQ4UFdyZFNyYWZQRjREWHNTdWQ0ZDktZjlqZFU1WWl5NF83OGwwVk01R19XZ3IzQlVXSWkxaVR6cVpfWWpWb01CbDJDbFNHUHNYUGdXcmk0d3pTeFEw?oc=5",
+          "title": "임금 상승률과 GDP가 정체된 가운데 인플레이션이 3.4%에 달하면서 프랑스인들이 폭동을 일으키고 있습니다. 트럼프의 미국은 더 높다",
+          "source": "Fortune",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG1ER1lKSjJBWnpIamduNWhfb3Uzd1VoQW83MzZIY1F3UHZzZ3Y2R1VNSWdoaU14MEhFODF4TTQ2ZzdwOVdVczRjdTRuQTFZcHNpWDVDNlg3YXlCZ0oxX1dpczBaMG9RNXBGQ1NKQ0VDS1dfRFBRb0VGRVJPcVp4cmhtU1JZT1VDS293b0g3WXl3eU5PYUUtOG4tdl84eG1OemdfV3dfNUZFU3c?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
-          "translated": false,
-          "original_title": "Targeted curfews helped keep the peace overnight in France, PM says"
+          "translated": true,
+          "original_title": "The French are rioting as inflation hits 3.4% while wage growth and GDP remain stagnant. It’s higher in Trump’s America"
         }
       ],
       "official_sources": [
@@ -12848,7 +12848,7 @@
         "sites": [
           "Hankook Tyre Australia Pty. Ltd. (Sydney)"
         ],
-        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료",
+        "stats_source": "IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표",
         "stats_asof": "2026-10-20",
         "sources": {
           "population": "IMF",
@@ -12862,8 +12862,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 928.8,
-        "change_pct": -0.09,
+        "current_rate": 928.0,
+        "change_pct": -0.18,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -12890,7 +12890,7 @@
           998.1,
           986.1,
           944.2,
-          928.8
+          928.0
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/AUDKRW=X",
@@ -12900,15 +12900,15 @@
       "news": {
         "safe": [
           {
-            "title": "웨스턴오스트레일리아주 그린피스 시위 이후 우드사이드 천연가스 프로젝트 부서 일시 중단",
+            "title": "호주 의원은 테러 방지 경찰에 의해 차량 공격이 수습된 후 다리를 잃었습니다.",
             "source": "Reuters",
-            "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcEtSYkpzYzU2WUhsb0V2bGwyamh6Z3dVYzZnaThBanotNU0wakx2RHdsLURpNWlTWXpDZllDZUQ1ZktNUThWXzVKWkZ4LVVWSWk2bXBwREd3MGRDelpPRHAtTmxfclh0WG1MQXBZQ01tbWxZa0VhZEFyWWJfdTV6cWpXWDFHb0syMFdTb3NfWl9TcjhzUm9pYUlTbDNVQ0t4RDEwb1RTRi1vVXpIeXh4YmZmN05zNVpHZkNiUi00ZUVheWcwazBhNw?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdWQzdEgzbkhWZUVlRUJyazZBYTlZblpOMzhKVEp5ZTZ2a2MzQWc3TFpqT0NPTDFKeW42ZkNVNVVaV3JvTlAwOUNKRjlpMHV1VEQxR1V1VDFZZ2phMTN0TEl6T0JZVnJPeEVodTR5Tl82T21jS3AyVU1NZF9qb05WeW1xalEtMk1BdTVkdDVIY3dpc19XUGhOQV9DSWhmaEhiZTktUlU4OC1NeEtBcVQ4UC1DMmd2UmJDTEpKOWlnOVYzdDRuckMxUUFRdjY?oc=5",
             "summary": "",
-            "published": "2026-10-18",
+            "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "Woodside natural gas project unit paused after Greenpeace protest off Western Australia",
-            "safety_tag": "사회불안"
+            "original_title": "Australian lawmaker loses leg after vehicle attack being probed by anti-terror police",
+            "safety_tag": "무력충돌·테러"
           },
           {
             "title": "웨스턴오스트레일리아 주 그린피스 시위 이후 천연가스 프로젝트 중단",
@@ -12934,16 +12934,6 @@
           }
         ],
         "pol": [
-          {
-            "title": "호주 의원은 테러 방지 경찰에 의해 차량 공격이 수습된 후 다리를 잃었습니다.",
-            "source": "Reuters",
-            "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdWQzdEgzbkhWZUVlRUJyazZBYTlZblpOMzhKVEp5ZTZ2a2MzQWc3TFpqT0NPTDFKeW42ZkNVNVVaV3JvTlAwOUNKRjlpMHV1VEQxR1V1VDFZZ2phMTN0TEl6T0JZVnJPeEVodTR5Tl82T21jS3AyVU1NZF9qb05WeW1xalEtMk1BdTVkdDVIY3dpc19XUGhOQV9DSWhmaEhiZTktUlU4OC1NeEtBcVQ4UC1DMmd2UmJDTEpKOWlnOVYzdDRuckMxUUFRdjY?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Australian lawmaker loses leg after vehicle attack being probed by anti-terror police"
-          },
           {
             "title": "호주, 페이스북에 고소, 금지 위반 혐의에 대한 TikTok",
             "source": "Bloomberg.com",
@@ -12973,17 +12963,27 @@
             "lang": "en",
             "translated": true,
             "original_title": "Australian prime minister says lawmaker critically injured by car is 'no accident'"
+          },
+          {
+            "title": "호주-파푸아뉴기니 각료 포럼",
+            "source": "Australian Minister for Foreign Affairs",
+            "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnY4ZHM3bjRSQksyemE2TlJsa3BfOUhGSVkza1BJcUZGRWhIRG03VHZ0RGY2MGphcUhZTi03ZUlVaXRneEQ3SWpvcWpRODVoeVBSdHRsUUtXWGJNTVp1c0gxWEZZdTZzRVZvSjRnUldZVmkzTTctM0xVdHdIbXQ4X2haMzlUa3BJLUlhN3BSQUsyczRGMktkY216R0U5THBYcFFvb1Q3SVNYLVYwNkJoeUN2TUdIdw?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Australia-Papua New Guinea Ministerial Forum"
           }
         ],
         "soc": [
           {
-            "title": "In test for Australia’s best dishwasher detergent, tablets triumph and powders flounder",
+            "title": "호주 최고의 식기 세척기 세제 테스트에서 정제는 승리하고 분말은 넙치",
             "source": "The Guardian",
             "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjVuZ195TEVIRGptM0hHYVhNSWVkNGgycFZfaWFDeGRXWFpEYlh5d2luZ0ZnZEpqdnJoUV9MZ3pELWxLZmh1LTQ1UXFtZGFzOVRGSFJSMGtpcGFIZXItZVhwOTZReDFKdlR2VnpldGFSbThFTHRyQVducHRrNjRhRjA1QUlWb2ZqZTVOZjZhYW9rcTk2ZkR3cUZhb1hHMy15dFUwZDNWMA?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
-            "translated": false,
+            "translated": true,
             "original_title": "In test for Australia’s best dishwasher detergent, tablets triumph and powders flounder"
           },
           {
@@ -12997,28 +12997,18 @@
             "original_title": "Horror and disbelief after lawmaker attacked in rural Australia"
           },
           {
-            "title": "REMSA Health, 리노 지역 부족 문제 해결을 위해 호주 구급대원 모집",
-            "source": "KOLO | 8 News Now",
-            "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVlYc1NrU0tPa3c5RVY0NkZXQWFrTkJiMWhONUxVQUl5M3pXQlo4OEE3V2l6aHVQVmo2NFpYYng1S2tZM3RHRGNSaVU0WGZWOHh4VGVtdktsNS1EcVRpdURrdTRiM2cxdWY5d3V4QmhXNTBGc1lpSW5lTmJHaFlnMjJtSFgwYl9Cc1Q5emQxc29zNmI0OXpkQ1JmZkxEcm1zXzhUb1NNeTJFS2wwT0xCX2k1NUlaclJoRHVHMNIBvAFBVV95cUxOdVlYc1NrU0tPa3c5RVY0NkZXQWFrTkJiMWhONUxVQUl5M3pXQlo4OEE3V2l6aHVQVmo2NFpYYng1S2tZM3RHRGNSaVU0WGZWOHh4VGVtdktsNS1EcVRpdURrdTRiM2cxdWY5d3V4QmhXNTBGc1lpSW5lTmJHaFlnMjJtSFgwYl9Cc1Q5emQxc29zNmI0OXpkQ1JmZkxEcm1zXzhUb1NNeTJFS2wwT0xCX2k1NUlaclJoRHVHMA?oc=5",
+            "title": "‘러브 아일랜드 오스트레일리아’ 스타는 모닥불에 떨어진 후 3도 화상, 뇌출혈을 겪습니다",
+            "source": "Entertainment Weekly",
+            "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGpzUlFWRlZLZ2RqTUFBREJNWFhMQW5CbzJ2d0ZDbnJaRENsbWdobDYzaFlWbllOQmlDT3RrX3RSY2otbHo1Zzdtd2JqaGp3MHd1V1FoSDVkdlFNanQ3SExrSVkxSFFKRzdUWjlZNHRjTHNmVnlEN3IwdGRFOXk3QVNReU1nSjB4dVljQzMtQ0plRU5qUHFFZW10VWpkczZhTWVrN19PQlBRaFR0TzQtZw?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "REMSA Health recruits Australian paramedics to address Reno-area shortage"
+            "original_title": "‘Love Island Australia’ star suffers third-degree burns, brain bleeding after falling into a bonfire"
           }
         ]
       },
       "headlines": [
-        {
-          "title": "호주 의원은 테러 방지 경찰에 의해 차량 공격이 수습된 후 다리를 잃었습니다.",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdWQzdEgzbkhWZUVlRUJyazZBYTlZblpOMzhKVEp5ZTZ2a2MzQWc3TFpqT0NPTDFKeW42ZkNVNVVaV3JvTlAwOUNKRjlpMHV1VEQxR1V1VDFZZ2phMTN0TEl6T0JZVnJPeEVodTR5Tl82T21jS3AyVU1NZF9qb05WeW1xalEtMk1BdTVkdDVIY3dpc19XUGhOQV9DSWhmaEhiZTktUlU4OC1NeEtBcVQ4UC1DMmd2UmJDTEpKOWlnOVYzdDRuckMxUUFRdjY?oc=5",
-          "summary": "",
-          "published": "2026-10-20",
-          "lang": "en",
-          "translated": true,
-          "original_title": "Australian lawmaker loses leg after vehicle attack being probed by anti-terror police"
-        },
         {
           "title": "호주, 페이스북에 고소, 금지 위반 혐의에 대한 TikTok",
           "source": "Bloomberg.com",
@@ -13038,6 +13028,16 @@
           "lang": "en",
           "translated": true,
           "original_title": "Australia’s lobbyists are rebranding as One Nation surges in the polls"
+        },
+        {
+          "title": "호주 총리 \"의원이 교통사고로 중상 입은 것은 사고가 아니다\"",
+          "source": "NPR",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQelpHUFh0Z1gyMm0yT3NZWkVvUnczV2I4bUljczZ6ckI0djFXTklfNWFsS3I0ZWtEa18tQ2lpdFB0RUxubXRPZGNHYmdPaGtYYmtrdmN3RWJabmNxYklUWVdIVXR1aU9NUGtKdHpIYURuZW1tLXJSY3Mzd0NPaEUtYnRUWnBQMzQ?oc=5",
+          "summary": "",
+          "published": "2026-10-19",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Australian prime minister says lawmaker critically injured by car is 'no accident'"
         }
       ],
       "official_sources": [
