@@ -35,10 +35,6 @@
 "ko": "태국에서 열린 IMF-세계은행 회의에서 얻은 22가지 글로벌 경제 시사점",
 "last": "2026-10-20"
 },
-"300,000 Flu Vaccine Doses Arrive in the Czech Republic Earlier Than Expected": {
-"ko": "30만 건의 독감 백신 접종이 예상보다 일찍 체코에 도착했습니다.",
-"last": "2026-10-20"
-},
 "7 Killed And Dozens Injured In An Explosion And Massive Fire At A Military Base In Canada": {
 "ko": "캐나다의 한 군사 기지에서 폭발과 대규모 화재로 7명 사망 및 수십명 부상",
 "last": "2026-10-20"
@@ -999,6 +995,10 @@
 "ko": "유령 마을과 소름끼치는 곳: 폴란드에서 가장 소름 끼치는 장소",
 "last": "2026-10-20"
 },
+"Gold mine collapse kills at least 6 in southwest Colombia": {
+"ko": "콜롬비아 남서부 금광 붕괴로 최소 6명 사망",
+"last": "2026-10-20"
+},
 "Goodyear CEO Joins AutoNation's Board": {
 "ko": "Goodyear CEO, AutoNation 이사회 합류",
 "last": "2026-10-20"
@@ -1687,8 +1687,8 @@
 "ko": "신화와 오해: 더욱 긴밀한 미국-베트남 관계는 하노이가 중국에서 벗어나고 있다는 신호입니다.",
 "last": "2026-10-19"
 },
-"N. Korea, Russia discuss ways to expand exchanges in education": {
-"ko": "N. 한국, 러시아, 교육 교류 확대 방안 논의",
+"N. Korea-Russia education talks": {
+"ko": "N. 한국-러시아 교육 간담회",
 "last": "2026-10-20"
 },
 "NADMA moves to strengthen earthquake preparedness in Malaysia": {
@@ -2133,6 +2133,10 @@
 },
 "Schools in U.K., Hungary, Serbia sent hoax bomb warnings": {
 "ko": "영국, 헝가리, 세르비아의 학교에 가짜 폭탄 경고가 발송되었습니다.",
+"last": "2026-10-20"
+},
+"Schools in UK, Hungary, Serbia sent hoax bomb warnings": {
+"ko": "영국, 헝가리, 세르비아의 학교들이 사기 폭탄 경고를 보냈습니다.",
 "last": "2026-10-20"
 },
 "Scorpions sting and hospitalize hundreds in Egypt, roused by freak storm": {
@@ -2721,6 +2725,10 @@
 },
 "Vinegar in Turkey Trade": {
 "ko": "터키 무역의 식초",
+"last": "2026-10-20"
+},
+"Virginia Tech, Universidad Austral de Chile chart next chapter of long-standing partnership": {
+"ko": "Virginia Tech, Universidad Austral de Chile 차트 오랜 파트너십의 다음 장",
 "last": "2026-10-20"
 },
 "Volvo EX60 has 40,000 orders, but only 291 are on Swedish roads": {

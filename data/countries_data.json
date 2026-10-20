@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T14:08:35.563117+09:00",
-  "generated_at_display": "2026-10-20 14:08 KST",
-  "as_of_display": "2026-10-20 14:08 KST 수집",
+  "generated_at": "2026-10-20T14:10:38.577610+09:00",
+  "generated_at_display": "2026-10-20 14:10 KST",
+  "as_of_display": "2026-10-20 14:10 KST 수집",
   "regions": [
     {
       "key": "ALL",
@@ -410,8 +410,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1327.3,
-        "change_pct": -0.46,
+        "current_rate": 1327.5,
+        "change_pct": -0.45,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -438,7 +438,7 @@
           1420.6,
           1377.1,
           1350.5,
-          1327.3
+          1327.5
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
@@ -1102,7 +1102,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 198.8,
-        "change_pct": -0.27,
+        "change_pct": -0.26,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1438,8 +1438,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 411.3,
-        "change_pct": -0.29,
+        "current_rate": 411.4,
+        "change_pct": -0.24,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1466,7 +1466,7 @@
           452.0,
           437.5,
           417.9,
-          411.3
+          411.4
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/HUFKRW=X",
@@ -1487,25 +1487,14 @@
             "safety_tag": "시위·소요"
           },
           {
-            "title": "영국, 헝가리, 세르비아의 학교에 가짜 폭탄 경고가 발송되었습니다.",
-            "source": "CTV News",
-            "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaEwxV2lyb3B6TmtwNWczb01wTkdhcU5Xb3k0RktOYkwxWi03eUpDclN0U281N001WDRNQ0dUVU1TWGk2ZzJyUlhnRGNRaWk0MlM3TUlGeVhfTkpVTjZkZTVwcmgza1pwam9CcWk2ZzB4VnN3NFljT3htS2VJbWN1ckhOSHpVcU9jM1NUTWxiQUNkcl85?oc=5",
+            "title": "영국, 헝가리, 세르비아의 학교들이 사기 폭탄 경고를 보냈습니다.",
+            "source": "Luxembourg Times",
+            "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS2l1bS1qdnYyVXZIRUlWOTVYX1pONE8yWVQ0RmRxZGN5YjdXc3RDa2xpb3V2MEFzLUl2TWRpdUs3NTFqeC1wZy1MYmFaQnl6QlRwV1VfV2VQWTI3bHhIMVRUVjdFVUdXODlaaXhEYnVyWXNHMm5SQ3QwS2lsalE0emFjcHBtQVJ6bzdReUFpUkhPTVFJYVc2bnlqRDRIdw?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "Schools in U.K., Hungary, Serbia sent hoax bomb warnings",
-            "safety_tag": "테러·치안"
-          },
-          {
-            "title": "월요일 아침, 70개 이상의 헝가리 학교가 폭탄 위협을 받았습니다",
-            "source": "Daily News Hungary",
-            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43aVVRYzZXa05OMTVoRFhsRHNGdWFNMERjaGFZa0xucENxM0NrZDNYMTdRTC1XZjhLeDl1WkdXOF8xUE1yVmQ1aFpzNE1fa3hWWFFHZ1BoN2hLdnpyeTJ5dVNNYW90TDFhYVlKY21QVHhxT01jOER6Rm1B?oc=5",
-            "summary": "",
-            "published": "2026-10-19",
-            "lang": "en",
-            "translated": true,
-            "original_title": "More than 70 Hungarian schools targeted by bomb threats on Monday morning",
+            "original_title": "Schools in UK, Hungary, Serbia sent hoax bomb warnings",
             "safety_tag": "테러·치안"
           }
         ],
@@ -2792,7 +2781,7 @@
         "unit_base": 1,
         "decimals": 2,
         "current_rate": 16.03,
-        "change_pct": -1.8,
+        "change_pct": -1.79,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -2906,14 +2895,14 @@
         ],
         "soc": [
           {
-            "title": "N. 한국, 러시아, 교육 교류 확대 방안 논의",
-            "source": "The Korea Times",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeGhnWlBRSlQxbDQ4VXBwY3JpcEV2ZWlEQ3dNMGRjNDdFcVJma1VRYWN5dFVBamtmZ1RPbV83VXZkVXBXbVk5eDBmbEV3cVMwUTlMbzRRVUgtb1JsWUszWUdZQ21LaDVnZkVfcVNib2FDdVNlbC1ndHVVUEoxLW9MbEpDOVdpa1BIajRSMFdpMDd0R0c4dktvbTQtb1VCVFBWM0JJZ2xvQXFEVW1iTWhPTElkZ0pZTXI4eHk3QUl5Ukp4SXBXSDVv0gHHAUFVX3lxTFB4aGdaUFFKVDFsNDhVcHBjcmlwRXZlaURDd00wZGM0N0VxUmZrVVFhY3l0VUFqa2ZnVE9tXzdVdmRVcFdtWTl4MGZsRXdxUzBROUxvNFFVSC1vUmxZSzNZR1lDbUtoNWdmRV9xU2JvYUN1U2VsLWd0dVVQSjEtb0xsSkM5V2lrUEhqNFIwV2kwN3RHRzh2S29tNC1vVUJUUFYzQklnbG9BcURVbWJNaE9MSWRnSllNcjh4eTdBSXlSSnhJcFdINW8?oc=5",
+            "title": "N. 한국-러시아 교육 간담회",
+            "source": "Yonhap News Agency",
+            "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaT1UwX1VrRGp0LWlMa1Z6b1dmR3pISy10bDF1eFJNcjBMNm1FQXhWWXJVQkM3OXp0SkJ1RzB5ZzBMMFlycUhXV09Idkc0eU1ndUw5RmRGZGthM2cxQkNqTV8tZ0tlQUJ0S3ZVTW5KX1dkeWpLazVZ?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "N. Korea, Russia discuss ways to expand exchanges in education"
+            "original_title": "N. Korea-Russia education talks"
           },
           {
             "title": "Zelenskyy는 러시아가 전력망에 다시 타격을 가할 때 우크라이나가 파트너로부터 조기 경고를받지 못했다고 말했습니다.",
@@ -3126,7 +3115,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 280.1,
-        "change_pct": -0.42,
+        "change_pct": -0.4,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -3560,6 +3549,16 @@
             "original_title": "Malaysia Will Form Special Committee to Probe ‘Corporate Mafia’"
           },
           {
+            "title": "국민이전계정: 고령화가 말레이시아 경제를 어떻게 변화시킬 것인가",
+            "source": "Welcome to the United Nations",
+            "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyY29DcTFuNGVSbEhqbWU1ai0wWFM0ZW5ZODdJVXFyR01JcmlsOEh3NFZ0YmUyQUpidDdkSlpjWm1DRndWaVJEeTRjZS02UnljSFRGZFp6S0U4YndOQ2c?oc=5",
+            "summary": "",
+            "published": "2026-10-19",
+            "lang": "en",
+            "translated": true,
+            "original_title": "National Transfer Accounts: How Ageing Will Reshape Malaysia's Economy"
+          },
+          {
             "title": "말레이시아: 민간 의료 보험 포기가 급증하자 정부는 저렴한 건강 보험 계획을 준비합니다.",
             "source": "Asia Insurance Review",
             "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNTGpyc2dTaHc3SXNzQUhjR0ZNekJnUDZydjRLY2liSzRjRHFybm5jQ0IzbW1CZGowVTV6Wll1YUtpUlRLaVhTUHNtVEVrcklYWnloLTJ4dVdGclVJdlo4a2ZOa0dnVFVtczV3Smd6bFNJTXYyaEN0SHFZX2R0alY5WXFza3VmRDllM2xUV0JtaHNibEdsaFZlZHZWaURMS2hIcWUtbVRzRHUtZFVwbG9EUUcxMUNwUXB5Umx0c2JrYngzcl9Kc3hUaXVGNGZVZjhuNTJzRVExWWR5LWk3Sm1yQWQ5UGNzb3o2TmppQVhjZGZjVzJDQzJjOU1TbmNUNkhVNUNqNEZUVXBzcjJka19Xb0I5T1RWcS1NZXFGQmJR?oc=5",
@@ -3568,16 +3567,6 @@
             "lang": "en",
             "translated": true,
             "original_title": "Malaysia: Government readies affordable health insurance plan, after surge in surrender of private health plans"
-          },
-          {
-            "title": "말레이시아의 조호르 (Johor) 정부는 연무에 장기간 노출되면 농업, 어업 부문에 해를 끼칠 수 있다고 말합니다.",
-            "source": "Asia News Network",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUWZVMS1pOWU1TzNVMGlHaEdKeXlHVnlIclZzZm9hcGlBclotSzJ1U3lrUlc2N2hvU3N6ekpkTDk2TFQzaEtfaGRUdmtsX25yR0tJMlJmNFFubGZfLXYxQVdPYkdTOWtQSEFOdTJXMG5OT1pnelN4cjBReERjaUNqN3cyRjBCTjEydjdFbnROVWxnQUJkSzdwRHllcjNScUxDbVAxMWtQRk5OLWw2SlkwcHBydWJfdnA0SUZHTTlIWQ?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Prolonged haze exposure could hurt agriculture, fisheries sectors, says Malaysia’s Johor government"
           }
         ],
         "soc": [
@@ -3635,14 +3624,14 @@
           "original_title": "Malaysia Will Form Special Committee to Probe ‘Corporate Mafia’"
         },
         {
-          "title": "말레이시아: 민간 의료 보험 포기가 급증하자 정부는 저렴한 건강 보험 계획을 준비합니다.",
-          "source": "Asia Insurance Review",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNTGpyc2dTaHc3SXNzQUhjR0ZNekJnUDZydjRLY2liSzRjRHFybm5jQ0IzbW1CZGowVTV6Wll1YUtpUlRLaVhTUHNtVEVrcklYWnloLTJ4dVdGclVJdlo4a2ZOa0dnVFVtczV3Smd6bFNJTXYyaEN0SHFZX2R0alY5WXFza3VmRDllM2xUV0JtaHNibEdsaFZlZHZWaURMS2hIcWUtbVRzRHUtZFVwbG9EUUcxMUNwUXB5Umx0c2JrYngzcl9Kc3hUaXVGNGZVZjhuNTJzRVExWWR5LWk3Sm1yQWQ5UGNzb3o2TmppQVhjZGZjVzJDQzJjOU1TbmNUNkhVNUNqNEZUVXBzcjJka19Xb0I5T1RWcS1NZXFGQmJR?oc=5",
+          "title": "국민이전계정: 고령화가 말레이시아 경제를 어떻게 변화시킬 것인가",
+          "source": "Welcome to the United Nations",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyY29DcTFuNGVSbEhqbWU1ai0wWFM0ZW5ZODdJVXFyR01JcmlsOEh3NFZ0YmUyQUpidDdkSlpjWm1DRndWaVJEeTRjZS02UnljSFRGZFp6S0U4YndOQ2c?oc=5",
           "summary": "",
-          "published": "2026-10-20",
+          "published": "2026-10-19",
           "lang": "en",
           "translated": true,
-          "original_title": "Malaysia: Government readies affordable health insurance plan, after surge in surrender of private health plans"
+          "original_title": "National Transfer Accounts: How Ageing Will Reshape Malaysia's Economy"
         }
       ],
       "official_sources": [
@@ -3799,8 +3788,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 72.14,
-        "change_pct": -0.24,
+        "current_rate": 72.15,
+        "change_pct": -0.23,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -3827,7 +3816,7 @@
           81.9,
           80.86,
           74.85,
-          72.14
+          72.15
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/MXNKRW=X",
@@ -3926,7 +3915,7 @@
           {
             "title": "멕시코 모렐리아 영화제",
             "source": "Goshen News",
-            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObGduVmx6SXJYU2Z6dncwWG9IWW1waGNUT3NOa0tZY0gyNTR4bGplaEg3WnI5WmJYY1k5ckt6T1hPaXRTOU1HeXhwVGNON3R3MU92X3RWNFB3WUkyTmtRV0gxM1lMYlpwY0tSNUItZDdWYnU2cGI0OThLSHF2OFNlS3BlZVJtam16NnhWOXB3UVVqOC1YQmVkeXQzU3NBSm4tU2dTUS11WTcxVDQ0WlUzX1o5cG9UV2tNV1kzUGZWUQ?oc=5",
+            "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY1pwM3lCNWVwTWhOR0tWSWFFTjcwaXlpb1VYLXg4UXowVU5KMlFDM21LaVNUd21lWGEzZUlaVHZJZ1RKcjVuX0NGcy1DTjFtbEFsOWJvS3Q4WXpDOFhmMm9zY0R4UFFsZjJfQ0EtcW5maVlWazlpcUhsTi16Ylplb2J4MllBTTZPaFpjQ2JlY3M1Rk1kdDdFeWg5ZVdIT2FEZXhWVEdKRWIzbVd5ZmlIa2FHVUYwRVN6YU1hbXpmSQ?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "en",
@@ -4141,8 +4130,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 135.6,
-        "change_pct": -4.11,
+        "current_rate": 135.7,
+        "change_pct": -4.1,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4169,7 +4158,7 @@
           151.4,
           153.1,
           143.9,
-          135.6
+          135.7
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/MADKRW=X",
@@ -4462,8 +4451,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 3,
-        "current_rate": 5.126,
-        "change_pct": -0.47,
+        "current_rate": 5.127,
+        "change_pct": -0.46,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4490,7 +4479,7 @@
           5.406,
           5.282,
           5.2,
-          5.126
+          5.127
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/VNDKRW=X",
@@ -4794,8 +4783,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 263.3,
-        "change_pct": -0.01,
+        "current_rate": 263.4,
+        "change_pct": 0.01,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4822,7 +4811,7 @@
           279.8,
           265.3,
           259.6,
-          263.3
+          263.4
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/BRLKRW=X",
@@ -5129,7 +5118,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 353.8,
-        "change_pct": -3.53,
+        "change_pct": -3.52,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -5177,17 +5166,6 @@
             "safety_tag": "무력충돌"
           },
           {
-            "title": "사우디아라비아, 후티 반군 미사일 공격으로 투자자 정상회담 연기",
-            "source": "New York Post",
-            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFJNM3ozbkJnLUgwVHhnV1NSbHFHUlU5SWprc0dybHMzWWE0UjNuS2htOEdVRk91WFhnN0YyMXRFRkNVbVhnUGFkaVBBMmtPMDlpZTVFVHlaTTRFeDJNdUh4ai1zV1VocGtGSGNRR3h6RmlFNFFzRzZSUjQxQW4zeW9FbTU5S0p4NzNURE1WaXhtTmtLa2hPTlEweWdHNHJsZ2RjU2lLT1lhVlBRUUpkVS15SGRvNEd5cXdUNGFBd0dPU0lk?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Saudi Arabia postpones investor summit as Houthi missile attacks rattle kingdom",
-            "safety_tag": "무력충돌"
-          },
-          {
             "title": "후티 반군 미사일과 드론 공격으로 다란에 있는 사우디 아람코 본사가 공격을 받아 화재가 발생하고 유가가 상승했습니다.",
             "source": "Energies Media",
             "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUGNsWEVfUkVPWUJMS185X1BPekZpQjN6aWs2OEhYUlVyeTFDUFFydExGQ3JhY29vakFPUlloRmQ4RjU0a0FxVGJkUTVmbmpiSVNqT0dpSERtM2twcFgxcm43ZU9KcXVEMlYxdA?oc=5",
@@ -5196,6 +5174,17 @@
             "lang": "en",
             "translated": true,
             "original_title": "Houthi missile and drone strikes hit Saudi Aramco headquarters in Dhahran, sparking fire and pushing oil prices higher",
+            "safety_tag": "무력충돌"
+          },
+          {
+            "title": "사우디아라비아, 후티 반군 미사일 공격으로 투자자 정상회담 연기",
+            "source": "New York Post",
+            "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFJNM3ozbkJnLUgwVHhnV1NSbHFHUlU5SWprc0dybHMzWWE0UjNuS2htOEdVRk91WFhnN0YyMXRFRkNVbVhnUGFkaVBBMmtPMDlpZTVFVHlaTTRFeDJNdUh4ai1zV1VocGtGSGNRR3h6RmlFNFFzRzZSUjQxQW4zeW9FbTU5S0p4NzNURE1WaXhtTmtLa2hPTlEweWdHNHJsZ2RjU2lLT1lhVlBRUUpkVS15SGRvNEd5cXdUNGFBd0dPU0lk?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Saudi Arabia postpones investor summit as Houthi missile attacks rattle kingdom",
             "safety_tag": "무력충돌"
           }
         ],
@@ -5792,7 +5781,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 134.2,
-        "change_pct": -0.26,
+        "change_pct": -0.24,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6018,17 +6007,6 @@
           "tag_class": "bg-indigo-100 text-indigo-700",
           "items": [
             {
-              "title": "\"한국을 스웨덴처럼 만들자\"... 그런데 누가?",
-              "desc": "",
-              "source": "OhmyNews",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0d1I4UU5iTFM1Z3pHbjdLQ1NOOTExSUhnQThSLVBiRFA5dEdjZEd2MUl1WUhqUkNVVXhuY3QtVVBhaGtkc2xRWjVFVHRxc3hlWnFwcng4YzJYOS1mTXdsWlViUlNyeVZua3BoWnd1X0xwV0hVTXVj?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-16",
-              "law": false
-            },
-            {
               "title": "10화 스웨덴에는 왜 최저임금제가 없을까?",
               "desc": "",
               "source": "브런치",
@@ -6038,6 +6016,17 @@
               "original_title": "",
               "published": "2026-10-18",
               "law": true
+            },
+            {
+              "title": "\"한국을 스웨덴처럼 만들자\"... 그런데 누가?",
+              "desc": "",
+              "source": "OhmyNews",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0d1I4UU5iTFM1Z3pHbjdLQ1NOOTExSUhnQThSLVBiRFA5dEdjZEd2MUl1WUhqUkNVVXhuY3QtVVBhaGtkc2xRWjVFVHRxc3hlWnFwcng4YzJYOS1mTXdsWlViUlNyeVZua3BoWnd1X0xwV0hVTXVj?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-16",
+              "law": false
             },
             {
               "title": "심벌 조합은 어디서 확인하나요? 한국 스웨덴 토토 도움말",
@@ -6776,8 +6765,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 361.4,
-        "change_pct": -0.49,
+        "current_rate": 361.5,
+        "change_pct": -0.47,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6804,7 +6793,7 @@
           386.9,
           375.1,
           367.8,
-          361.4
+          361.5
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/AEDKRW=X",
@@ -7760,7 +7749,7 @@
         "unit_base": 1,
         "decimals": 2,
         "current_rate": 29.59,
-        "change_pct": -3.35,
+        "change_pct": -3.33,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -7874,16 +7863,6 @@
         ],
         "soc": [
           {
-            "title": "우크라이나는 우리를 위해 무엇을 해줬나요?",
-            "source": "Futura Doctrina | Mick Ryan",
-            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKMlEwQWtWcWhJVjY3TUNlWHh4UEJpODBjdDFlS0h5bjdDWkZ4SGFqelNsRTNYNGZ2WVItLVhvWlBYMXFWQkQ3TC0yMGFmVWoxQzc5UDBsX1BfZEZMcTFGajZTX2NvVkZTVUVCRA?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "What Has Ukraine Done for Us?"
-          },
-          {
             "title": "미국, 우크라이나·수단 이민자들에 추방 유예 허용",
             "source": "The Guardian",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdk4xSW1ZQjdKTFdobkthcG03M0lfNzdIOXd6Qmx3OVBwMV9nWnBoS09pckhabDlYVGN0bXJPcW94SjdjUGR6d3FjQ002YXY0XzNBY01vMGpzekhRY3pGeTVQWHZNQzZMSlZnQnZwNVctRzZWaFZNeWVaTVFHWExRWjRUMGt5WmRHeXdHRlBB?oc=5",
@@ -7892,6 +7871,16 @@
             "lang": "en",
             "translated": true,
             "original_title": "US grants deportation reprieve to migrants from Ukraine and Sudan"
+          },
+          {
+            "title": "우크라이나는 우리를 위해 무엇을 해줬나요?",
+            "source": "Futura Doctrina | Mick Ryan",
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKMlEwQWtWcWhJVjY3TUNlWHh4UEJpODBjdDFlS0h5bjdDWkZ4SGFqelNsRTNYNGZ2WVItLVhvWlBYMXFWQkQ3TC0yMGFmVWoxQzc5UDBsX1BfZEZMcTFGajZTX2NvVkZTVUVCRA?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "What Has Ukraine Done for Us?"
           },
           {
             "title": "미국은 우크라이나와 수단 출신 이민자들이 당분간 보호 신분을 유지할 수 있다고 밝혔습니다.",
@@ -8092,7 +8081,7 @@
         "unit_base": 1,
         "decimals": 2,
         "current_rate": 24.65,
-        "change_pct": -0.93,
+        "change_pct": -0.92,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -9096,8 +9085,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 61.33,
-        "change_pct": -0.37,
+        "current_rate": 61.32,
+        "change_pct": -0.39,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -9124,7 +9113,7 @@
           67.69,
           66.17,
           62.77,
-          61.33
+          61.32
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CZKKRW=X",
@@ -9404,8 +9393,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 135.4,
-        "change_pct": -0.58,
+        "current_rate": 135.5,
+        "change_pct": -0.57,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -9529,6 +9518,16 @@
             "original_title": "Research explores the valuable connection between birds, memory, and territory in Chile"
           },
           {
+            "title": "Virginia Tech, Universidad Austral de Chile 차트 오랜 파트너십의 다음 장",
+            "source": "Virginia Tech News",
+            "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aNXd3UXRaNGFVOGZjanlURkhIWG1VSzhVa2RvTFNhNm5yYXp5QlA1My1WV0U0TS1QXzNxV1k4Q1RCazQ0ZGJGYy1kam5GT0hLU290NXNXcnc2ZVdTeWtJMVpmSjJmcmFDOU4wNFFn?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Virginia Tech, Universidad Austral de Chile chart next chapter of long-standing partnership"
+          },
+          {
             "title": "칠레의 발파라이소(Valparaíso)는 이번 시즌에 크루즈 기항이 25% 더 늘어날 것으로 예상합니다.",
             "source": "Seatrade Cruise News",
             "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUm02Z21IcmdwZVRuNU9hcFFIZUx4TFJCRG1zUHV0RTJxU056SGxLUGtJTW1ab0w0TVJFZ0NWdFptUkNXdDdRLXltdENpVUx4THdFNGpGWVliQlRtak42NnFRQnJ2YmI3RWt0cnYwMENIZWozcExiWG0xdGNNNXNwYWdzWm9RcWNqdlc4cW1TaWdLMlF4RGVna0tkcW9JazN0Qzd6TA?oc=5",
@@ -9537,16 +9536,6 @@
             "lang": "en",
             "translated": true,
             "original_title": "Chile's Valparaíso expects 25% more cruise calls this season"
-          },
-          {
-            "title": "600개 이상의 범죄 조직이 칠레 교도소 내부에서 활동하고 있습니다.",
-            "source": "Escudo Digital",
-            "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZVVaVWphZXFKZ1lJNHdfc3dmWTktRTJlbWMxSUt6Wk1lYjIyYl9iNEZxY1FzQ0NWTkVqb21fSzJaWDNtMFp3cVF3YzJjUWYxWVBQUm03TjBLM0wwODQxbVhPWDVCanBxQzBhWFBhWUt4TktMbXZra3dDalJHcFhMU1hWcnNSajZpNjZxRE1QWDRRRmxEelVfMXJlMDlrdDN1U2pIazNzMnlfSjlUU1FlR3lFOUU3UDdh?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Over 600 criminal gangs operate from inside Chilean prisons"
           }
         ]
       },
@@ -9742,7 +9731,7 @@
         "unit_base": 100,
         "decimals": 1,
         "current_rate": 293.6,
-        "change_pct": -3.61,
+        "change_pct": -3.59,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -10400,7 +10389,7 @@
         "unit_base": 100,
         "decimals": 2,
         "current_rate": 42.05,
-        "change_pct": 0.11,
+        "change_pct": 0.12,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -10472,6 +10461,16 @@
         ],
         "pol": [
           {
+            "title": "콜롬비아 남서부 금광 붕괴로 최소 6명 사망",
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlItUUs0UE14NExMZ191YVpqZ3M0bGJxQlAwNF9McnNCbFB4WTQ5ZXpfVnVVNXRyRGhqZ0F4QWRHNWNPWjdLbWhkelN4ZG9LbUROX3J5MEtIM01ReHRyQ0kycEJKMXNSeTh0ZUdiU0JHMUJQTm1ZajloZk9FNTR0QTVUMWNURzR4d1daQ0FIaC1mcnJuQWtYWEhRVDc3czd50gGmAUFVX3lxTE5CMTZTN1FUSm5GTklna3NKNWtraWZzNTR0NG5WR3RwNm1FSGxuTkZJcXFIN1VaNm1WTGRxSWxYbDBiZlo0b2FMejQ3ZF9nSFVwRE1VdG9DUWplX1owVGtZM3ZqR29aMmdmWkgzSUpWSDA1SnN1WVdIbk9KX21ScGYxU1NUUEExOUx2TV85OWRYT25CX3lIa2hJeEtPRXM0VDluMnpoQVE?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Gold mine collapse kills at least 6 in southwest Colombia"
+          },
+          {
             "title": "극우 대통령이 국립박물관 작품을 철거하자 콜롬비아에서 수백명의 시위가 벌어졌다.",
             "source": "Hyperallergic",
             "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUdnWWVfVzZ2X3hSODk0M2R1N0R6OXloYlA1WTdPenFCeGRFb0JLdWRGQUZrekRfS0g1OVZMZjllMVhkOG9zN29WTnFJZnZPWXh5SmVDUEIyV2FCVTFoeXZ0SFVCVWJ2aHNNSWdBM3ZsR2RjbTRmMndMZTFyQlVuaHYzRHo0TUhvWXFENTc0eGo2LWU3TW8tOGRSSFc5UXdtNlBoWVg4OGF0eEkyS1dlamlJSW5TQ0U?oc=5",
@@ -10490,17 +10489,9 @@
             "lang": "en",
             "translated": true,
             "original_title": "Colombia reignites territorial dispute with Nicaragua over Caribbean islands"
-          },
-          {
-            "title": "콜롬비아 판사, 박물관 청소로 인한 시위 촉발 후 역사적 유물 보호 명령",
-            "source": "Norwalk Hour",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS2JXZ1pNNV9RZFNfQTloWkF2R1NjZ0RJbkhpbVNKeUZzY25LSWFHV0xCbFpwZUQxbkZUZTV3dDQzaFhDeDhhUmN1U1Y3NGVTVVFXM3V2d0VuRzdhNDFPU2xDWkYtWUtaMjVMOWNzNnhyVGdGaWZnc3dTcm5PRUZqQWdqVjhrc01MZFh6ZWxoZF90QzdzVGRTZDMxa0VfYXdwX20wRw?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Colombia judge orders protection of historical artifacts after museum purge sparks protests"
-          },
+          }
+        ],
+        "soc": [
           {
             "title": "누가 콜롬비아의 이야기를 전할 수 있나요? 역사적 기억을 둘러싼 최전선에 선 국립박물관",
             "source": "The City Paper Bogotá",
@@ -10547,6 +10538,16 @@
       },
       "headlines": [
         {
+          "title": "콜롬비아 남서부 금광 붕괴로 최소 6명 사망",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlItUUs0UE14NExMZ191YVpqZ3M0bGJxQlAwNF9McnNCbFB4WTQ5ZXpfVnVVNXRyRGhqZ0F4QWRHNWNPWjdLbWhkelN4ZG9LbUROX3J5MEtIM01ReHRyQ0kycEJKMXNSeTh0ZUdiU0JHMUJQTm1ZajloZk9FNTR0QTVUMWNURzR4d1daQ0FIaC1mcnJuQWtYWEhRVDc3czd50gGmAUFVX3lxTE5CMTZTN1FUSm5GTklna3NKNWtraWZzNTR0NG5WR3RwNm1FSGxuTkZJcXFIN1VaNm1WTGRxSWxYbDBiZlo0b2FMejQ3ZF9nSFVwRE1VdG9DUWplX1owVGtZM3ZqR29aMmdmWkgzSUpWSDA1SnN1WVdIbk9KX21ScGYxU1NUUEExOUx2TV85OWRYT25CX3lIa2hJeEtPRXM0VDluMnpoQVE?oc=5",
+          "summary": "",
+          "published": "2026-10-20",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Gold mine collapse kills at least 6 in southwest Colombia"
+        },
+        {
           "title": "극우 대통령이 국립박물관 작품을 철거하자 콜롬비아에서 수백명의 시위가 벌어졌다.",
           "source": "Hyperallergic",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSUdnWWVfVzZ2X3hSODk0M2R1N0R6OXloYlA1WTdPenFCeGRFb0JLdWRGQUZrekRfS0g1OVZMZjllMVhkOG9zN29WTnFJZnZPWXh5SmVDUEIyV2FCVTFoeXZ0SFVCVWJ2aHNNSWdBM3ZsR2RjbTRmMndMZTFyQlVuaHYzRHo0TUhvWXFENTc0eGo2LWU3TW8tOGRSSFc5UXdtNlBoWVg4OGF0eEkyS1dlamlJSW5TQ0U?oc=5",
@@ -10555,16 +10556,6 @@
           "lang": "en",
           "translated": true,
           "original_title": "Hundreds Protest in Colombia After Far-Right President Removes Works From National Museum"
-        },
-        {
-          "title": "콜롬비아, 카리브해 섬을 둘러싸고 니카라과와 영토 분쟁 재점화",
-          "source": "Latin America Reports",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcERsLTFCRWRnVk9YdVA4WENPWHNoSHFkQTlGc1M3U29pcHlrZUo2Y2MyRm9XYU41SEljM3BQeWljV1UwSE1TZEFSamxDZldxV2dGdGJsNEtIdXRSSzl0TkpxNzVqSVBlZHNURENEbmhYYjNzYUgzS0hPdEI2QWZiV2x4Z3FDRjZpSUo1M0hIMUJOVDNLUGxndlhBRmNOLUZtLWNfSFpxOWNXUmZkTXRZbkMzdEtIZw?oc=5",
-          "summary": "",
-          "published": "2026-10-20",
-          "lang": "en",
-          "translated": true,
-          "original_title": "Colombia reignites territorial dispute with Nicaragua over Caribbean islands"
         },
         {
           "title": "콜롬비아 판사, 박물관 청소로 인한 시위 촉발 후 역사적 유물 보호 명령",
@@ -11173,14 +11164,14 @@
             "original_title": "Top News Headlines In Indonesia, Myanmar, Philippines, Singapore, Thailand & Vietnam: Oct 20, 2026"
           },
           {
-            "title": "태국에서 열린 IMF-세계은행 회의에서 얻은 22가지 글로벌 경제 시사점",
-            "source": "Asia News Network",
-            "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUU3NEFrb2c2VTVoM0JhMl93a2hRN0hWUG9pblVCZTBwZXpleFJ1em8tcUhFTTVzU2tjTDA3QlpaQXIzS0lfZ3c0NHBPeGhEblEzUC1aZ3RCREI1Q0h4YlVpRnhLdlg0VlYxM0poVDRQMlI0T3JOUEQzXzdnLTd6bWFXcVZrNzQ2LTBrMk9JRW1fRWdyZUN2dkx2VQ?oc=5",
+            "title": "태국 부총리 겸 외무부 장관이 태국 대표단을 이끌고 1982년 유엔 협약에 따른 태국과 캄보디아 간 화해 절차에 관한 조정위원회와의 제2차 회의에 참석하고 있습니다.",
+            "source": "กระทรวงการต่างประเทศ",
+            "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91VjduVThJTEhma0xPY0JPRU1FNEpraFZNc2RqU09Ua21ueUVpczJyZDVkZU9pQzJvLWVWU3pBcEc4RDQ0SW4tbnplYllFS3I2OW16aDlCSUItUDNTSjFnWU1Qbm1YcVB5cS15azZodmdUU3FNbnR0UG1R?oc=5",
             "summary": "",
-            "published": "2026-10-19",
+            "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "22 global economic takeaways from IMF–World Bank meetings in Thailand"
+            "original_title": "Deputy Prime Minister and Minister of Foreign Affairs of Thailand leads Thai Delegation to attend the Second Meeting with the Conciliation Commission in Conciliation Proceedings between Thailand and Cambodia under the 1982 United Nations Convention"
           }
         ],
         "soc": [
@@ -11741,8 +11732,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1327.3,
-        "change_pct": -0.46,
+        "current_rate": 1327.5,
+        "change_pct": -0.45,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -11769,7 +11760,7 @@
           1420.6,
           1377.1,
           1350.5,
-          1327.3
+          1327.5
         ],
         "source": "Yahoo Finance (USD 1:1 고정환율)",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
@@ -11814,16 +11805,6 @@
         ],
         "pol": [
           {
-            "title": "파나마 운하, 엘니뇨 가뭄으로 선박 운항 중단",
-            "source": "DW.com",
-            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85WjRqRFlVblNta0YzX1VBNU9zTmpud2tHSjZnZnR4VnpFM3VZUWYxTThKR0c0aGtZN01QemI2eTVKSFpoSXEyYWlpZVI2amNuaWxaX2NXNGwyM2VDbUk2Mi13MNIBY0FVX3lxTFBxWHoySjFLVTBEMzFYWTRsaF9xVlhQMG1Mc3VqTE9HX05WTTNzZWg3WU4zLXA1THB1YVk1R2F2LURnWXEzYWdubVRtM1pBOEdIN3ZqM0ItelJqZFQ1cXltRlNxMA?oc=5",
-            "summary": "",
-            "published": "2026-10-19",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Panama Canal to cap ship transits due to El Nino drought"
-          },
-          {
             "title": "호르무즈 해협부터 말라카, 파나마까지 세계 무역 비용을 통제하는 해상 통로",
             "source": "المتداول العربي",
             "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObjc5Q2xVZURuUExkNERvTGR1ZTEtZjVSNldoSFpGdEZacXdjY21WdXROLWxFUXZrRkRJLWFzczlscFNNYVhDRkZwZ0lxcENLdzduR0tVX2tQSW5LUzNYLUEyQmZQQVBaNDhjelp3S0FGMVBvWkcya2RLS0pDcmdnWG5CR3FDRDBPYmtTYndSNjdSazVnV3BMbFJPRURlSjBlUTdNNkUyRl9MMUtFTzFsZS0tMXVQNVZpemVsWkdHbFdTV0h3WGdyRkRUUjFFNHQ3WUhHNmJONy1RVXNtbUx2NFV0MktfdU15b09ZZw?oc=5",
@@ -11832,6 +11813,16 @@
             "lang": "en",
             "translated": true,
             "original_title": "From the Strait of Hormuz to Malacca and Panama maritime corridors that control the cost of global trade"
+          },
+          {
+            "title": "파나마 운하, 엘니뇨 가뭄으로 선박 운항 중단",
+            "source": "DW.com",
+            "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85WjRqRFlVblNta0YzX1VBNU9zTmpud2tHSjZnZnR4VnpFM3VZUWYxTThKR0c0aGtZN01QemI2eTVKSFpoSXEyYWlpZVI2amNuaWxaX2NXNGwyM2VDbUk2Mi13MNIBY0FVX3lxTFBxWHoySjFLVTBEMzFYWTRsaF9xVlhQMG1Mc3VqTE9HX05WTTNzZWg3WU4zLXA1THB1YVk1R2F2LURnWXEzYWdubVRtM1pBOEdIN3ZqM0ItelJqZFQ1cXltRlNxMA?oc=5",
+            "summary": "",
+            "published": "2026-10-19",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Panama Canal to cap ship transits due to El Nino drought"
           },
           {
             "title": "미국, 파나마, 온두라스, 콜롬비아에서 훈련을 통해 라틴 아메리카에서 군대 주둔 확대",
@@ -11889,16 +11880,6 @@
       },
       "headlines": [
         {
-          "title": "파나마 운하, 엘니뇨 가뭄으로 선박 운항 중단",
-          "source": "DW.com",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85WjRqRFlVblNta0YzX1VBNU9zTmpud2tHSjZnZnR4VnpFM3VZUWYxTThKR0c0aGtZN01QemI2eTVKSFpoSXEyYWlpZVI2amNuaWxaX2NXNGwyM2VDbUk2Mi13MNIBY0FVX3lxTFBxWHoySjFLVTBEMzFYWTRsaF9xVlhQMG1Mc3VqTE9HX05WTTNzZWg3WU4zLXA1THB1YVk1R2F2LURnWXEzYWdubVRtM1pBOEdIN3ZqM0ItelJqZFQ1cXltRlNxMA?oc=5",
-          "summary": "",
-          "published": "2026-10-19",
-          "lang": "en",
-          "translated": true,
-          "original_title": "Panama Canal to cap ship transits due to El Nino drought"
-        },
-        {
           "title": "호르무즈 해협부터 말라카, 파나마까지 세계 무역 비용을 통제하는 해상 통로",
           "source": "المتداول العربي",
           "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObjc5Q2xVZURuUExkNERvTGR1ZTEtZjVSNldoSFpGdEZacXdjY21WdXROLWxFUXZrRkRJLWFzczlscFNNYVhDRkZwZ0lxcENLdzduR0tVX2tQSW5LUzNYLUEyQmZQQVBaNDhjelp3S0FGMVBvWkcya2RLS0pDcmdnWG5CR3FDRDBPYmtTYndSNjdSazVnV3BMbFJPRURlSjBlUTdNNkUyRl9MMUtFTzFsZS0tMXVQNVZpemVsWkdHbFdTV0h3WGdyRkRUUjFFNHQ3WUhHNmJONy1RVXNtbUx2NFV0MktfdU15b09ZZw?oc=5",
@@ -11907,6 +11888,16 @@
           "lang": "en",
           "translated": true,
           "original_title": "From the Strait of Hormuz to Malacca and Panama maritime corridors that control the cost of global trade"
+        },
+        {
+          "title": "파나마 운하, 엘니뇨 가뭄으로 선박 운항 중단",
+          "source": "DW.com",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85WjRqRFlVblNta0YzX1VBNU9zTmpud2tHSjZnZnR4VnpFM3VZUWYxTThKR0c0aGtZN01QemI2eTVKSFpoSXEyYWlpZVI2amNuaWxaX2NXNGwyM2VDbUk2Mi13MNIBY0FVX3lxTFBxWHoySjFLVTBEMzFYWTRsaF9xVlhQMG1Mc3VqTE9HX05WTTNzZWg3WU4zLXA1THB1YVk1R2F2LURnWXEzYWdubVRtM1pBOEdIN3ZqM0ItelJqZFQ1cXltRlNxMA?oc=5",
+          "summary": "",
+          "published": "2026-10-19",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Panama Canal to cap ship transits due to El Nino drought"
         },
         {
           "title": "미국, 파나마, 온두라스, 콜롬비아에서 훈련을 통해 라틴 아메리카에서 군대 주둔 확대",
@@ -12076,7 +12067,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 341.4,
-        "change_pct": -0.36,
+        "change_pct": -0.34,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -12113,17 +12104,6 @@
       "news": {
         "safe": [
           {
-            "title": "폴란드, 290km CTM-290 탄도미사일을 탑재한 새로운 HOMAR-K 탄약 인수",
-            "source": "Defense Express",
-            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU05lQ0RESzh3ZThPYVNFVzkxb1NHdXpVb2JNbkxucENfY0d4WG1JTHY3dnlEYl8wbTV0M0U5NWowNnl2N2wyS3RhM09qVjJsbms3NjlrQzNRMjVwMGd5MjRjbXhhVEZxOUEzRDh0elE4WGhaVElYQ3d5UlUxUldDdENYZk1GcjAyYVdoVFBIZWwyVkFzSGg0UlBLZmV3bEdZNjlEWWJMT0llbnpUQmU2Rmd1dXBjWGRsdUFoODdVZzdEZHVMMmJJ?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Poland Receives New Batch of HOMAR-K Ammunition with 290-km CTM-290 Ballistic Missiles",
-            "safety_tag": "무력충돌"
-          },
-          {
             "title": "폴란드는 바라쿠다 크루즈 미사일 생산 허브가 될 수 있다",
             "source": "TVP World",
             "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYUdnVkkzZUREbVpENWIxTk1KOHN0RHZudzZteDZpcmNkMmZudDhsV25SNUZ0eVFjYS1VMkNRdEVuTXFTSC05SkFyQmZleHhoTTJsS2x6aTIwR25HYk5wU3ljNFVVLXRxa2pyUmV0ZDNoRkZJTkZyeGhhRUVTOGVfT3BBOFl2UGV0NG5FYzBR?oc=5",
@@ -12132,6 +12112,17 @@
             "lang": "en",
             "translated": true,
             "original_title": "Poland could become Barracuda cruise missile production hub",
+            "safety_tag": "무력충돌"
+          },
+          {
+            "title": "폴란드, 290km CTM-290 탄도미사일을 탑재한 새로운 HOMAR-K 탄약 인수",
+            "source": "Defense Express",
+            "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU05lQ0RESzh3ZThPYVNFVzkxb1NHdXpVb2JNbkxucENfY0d4WG1JTHY3dnlEYl8wbTV0M0U5NWowNnl2N2wyS3RhM09qVjJsbms3NjlrQzNRMjVwMGd5MjRjbXhhVEZxOUEzRDh0elE4WGhaVElYQ3d5UlUxUldDdENYZk1GcjAyYVdoVFBIZWwyVkFzSGg0UlBLZmV3bEdZNjlEWWJMT0llbnpUQmU2Rmd1dXBjWGRsdUFoODdVZzdEZHVMMmJJ?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Poland Receives New Batch of HOMAR-K Ammunition with 290-km CTM-290 Ballistic Missiles",
             "safety_tag": "무력충돌"
           },
           {
@@ -12289,12 +12280,22 @@
             {
               "title": "[K-금융 글로벌 전략 2026] [폴란드·헝가리] 공장 따라 동유럽 간 K금융…이젠 공급망 전체 '영업 무대'",
               "desc": "",
-              "source": "딜사이트",
-              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jXzZaS084Q29iZlJRNEsxNHdaZFN1NDlSa2NNcFJsZW55d1VrdW8xUGNfSldaVm5RSVNpRkFwWGF6LXMwam1GQWtFTWQ3NUU?oc=5",
+              "source": "블로그",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5c21KRlJJOU5pTFZMeWFBcFZXYlJmUWdGSVNfajRyOFdCMUM5ODRiLUJpaGFucUtPc0pNd00tVHkySEhoX1BiZGVSYUdYMkdCYWNGVllSNGRRZw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
               "published": "2026-10-12"
+            },
+            {
+              "title": "[K-금융 글로벌 전략 2026] [폴란드·헝가리] 폴란드 누비는 신한은행의 '금융 메신저'",
+              "desc": "",
+              "source": "딜사이트",
+              "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hMVBLQllYNE8wS2JBUi1ET2YtQ3p6ajFhNGdvSVRFOXkyVmdDemJSMTF3YkJxd0JmNl9od3RWYktGbW9iM2RLZnBRNTJTQkE?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-14"
             },
             {
               "title": "선문대·폴란드 실레시안 공대, 미래차 인재 양성 ‘맞손’ > 뉴스",
@@ -12305,16 +12306,6 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-16"
-            },
-            {
-              "title": "삼성SRA자산운용·GS건설 폴란드 합작사, EU 승인 받아…부동산 투자 탄력",
-              "desc": "",
-              "source": "더구루",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MT3dpUHdHaE5ETW4zR2w2SDlvWWZjX1lrOWdRMjRieUhQeEdTNEkzNEFDVXhCdUV5cGRtaHZOZHlKZUZyWE9xdTMyYVJtOTR4bjRucHVfM1ZIMUFaWnZ3aE8zQQ?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-08"
             }
           ]
         },
