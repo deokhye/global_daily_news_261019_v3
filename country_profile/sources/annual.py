@@ -157,7 +157,7 @@ def load_overrides(path) -> dict[str, list[MinWage]]:
                 amount_raw = row.get("amount", "").replace(",", "")
                 no_stat = amount_raw == "" or amount_raw.upper() == "NONE"
                 out.setdefault(iso3, []).append(MinWage(
-                    source="보정 파일(HR 확인)", source_url=row.get("source_url", ""),
+                    source="각국 노동법 기준" if no_stat else "정부 공식 발표", source_url=row.get("source_url", ""),
                     amount=None if no_stat else float(amount_raw),
                     currency=row.get("currency", ""), unit=row.get("unit", ""),
                     effective_date=row.get("effective_date", ""), region=row.get("region", ""),
