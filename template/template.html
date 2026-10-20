@@ -194,7 +194,7 @@
 <main class="wrap" id="main"></main>
 
 <footer>
-  <div>© Hankook Tire &amp; Technology - Global HR Team · 매일 오전 6시(KST) 자동 갱신</div>
+  <div>© Hankook Tire &amp; Technology - Global HR Team · 매일 오전 5시경(KST) 수집</div>
   <div id="sync-display-text" style="margin-top: 4px;">{{ as_of_display }}</div>
 </footer>
 
@@ -296,7 +296,11 @@
     var m = /^#\/country(?:\/([A-Z]{2}))?(?:\/(pol|soc|safe))?/.exec(location.hash || '');
     if (m) {
       state.view = 'country';
-      if (m[1] && byCode(m[1])) { if (m[1] !== state.code) state.pickRegion = null; state.code = m[1]; }
+      if (m[1] && byCode(m[1])) {
+        var nc = byCode(m[1]);
+        if (state.pickRegion !== 'ALL' && state.pickRegion !== nc.region) state.pickRegion = null;
+        state.code = m[1];
+      }
       state.tab = m[2] || 'pol';
     } else {
       state.view = 'briefing';
@@ -558,9 +562,13 @@
     if (el.hasAttribute('data-org')) { state.org = el.getAttribute('data-org'); renderBriefing(); return; }
     if (el.hasAttribute('data-go')) { go(el.getAttribute('data-go'), el.getAttribute('data-gotab') || ''); return; }
     if (el.hasAttribute('data-region')) {
-      state.pickRegion = el.getAttribute('data-region');
+      // 권역을 누르면 그 권역의 첫 번째 국가(위계순)를 바로 보여준다. 예: 미주 → 미국, 전체 → 한국
+      var rg = el.getAttribute('data-region');
+      var first = sorted(rg === 'ALL' ? COUNTRIES : COUNTRIES.filter(function (c) { return c.region === rg; }))[0];
+      state.pickRegion = rg;
       if (!state.pickerOpen) { state.pickerOpen = true; storeSet('ghr.pickerOpen', '1'); }
-      renderPicker(); return;
+      if (first && first.code !== state.code) { go(first.code); } else { renderPicker(); }
+      return;
     }
     if (el.hasAttribute('data-code')) { go(el.getAttribute('data-code')); return; }
     if (el.hasAttribute('data-newstab')) { state.tab = el.getAttribute('data-newstab'); renderCountry(); }
