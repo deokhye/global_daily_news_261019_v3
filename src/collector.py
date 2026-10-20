@@ -394,6 +394,19 @@ def _attach_official_sources(out: dict, iso2_of: dict) -> None:
 FIXED_CONFIG = load_fixed_config()
 
 
+def _official_min_wage_source(mw, official: list) -> str:
+    """메타데이터 최저임금은 각국 정부 공식 발표를 옮겨 적은 값이므로 '자체 조사'가 아니라 공식 출처로 표기한다.
+    비고에 Eurostat 이 적혀 있으면 Eurostat, 아니면 config/official_sources.csv 에서 최저임금 담당 기관
+    (desc 에 '최저임금' 포함)을 찾아 쓰고, 없으면 '정부 공식 발표'."""
+    note = mw.get("note", "") if isinstance(mw, dict) else str(mw or "")
+    if "Eurostat" in note:
+        return "Eurostat"
+    for o in official:
+        if "최저임금" in (o.get("desc") or "") or "minimum" in (o.get("name") or "").lower():
+            return f"{o['name']} (정부 공식 발표)"
+    return "정부 공식 발표"
+
+
 def build_profile(country: dict, cached: dict) -> dict:
     """프로필 카드 값. 총인구·GDP·인플레이션·실업률·최저임금은 자동 수집 결과
     (output/country_profile.json)를 우선 쓰고, 값이 없으면('-') 기존 메타데이터로 채운다.
@@ -425,6 +438,8 @@ def build_profile(country: dict, cached: dict) -> dict:
             sources[k] = src.split(" (")[0].replace("IMF WEO", "IMF")
         else:
             sources[k] = "Global HR 자체 조사"
+    if sources["min_wage"] == "Global HR 자체 조사":
+        sources["min_wage"] = _official_min_wage_source(meta.get("min_wage"), fixed.get("official") or [])
     return {
         "capital": pick("capital"),
         "population": pick("population"),
