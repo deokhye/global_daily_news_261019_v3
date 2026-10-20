@@ -1,0 +1,106 @@
+name: Daily Global Brief Update
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "README.md"
+  schedule:
+    # GitHub 스케줄은 정각(:00)에 몰려 지연·누락이 잦아 분 단위를 비껴 둔다.
+    - cron: "7 21 * * *"    # 주 실행: KST 06:07
+    - cron: "37 22 * * *"   # 백업 실행: KST 07:37 (오늘 아카이브가 이미 있으면 수집 생략)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "오늘 데이터가 이미 있어도 다시 수집"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  update-and-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Decide whether to collect
+        id: decide
+        run: |
+          TODAY=$(TZ=Asia/Seoul date +%F)
+          echo "today=$TODAY" >> "$GITHUB_OUTPUT"
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "37 22 * * *" ] && [ -f "docs/archive/$TODAY.json" ]; then
+            echo "백업 실행: 오늘($TODAY) 아카이브가 이미 있어 수집을 생략합니다."
+            echo "collect=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "collect=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Set up Python
+        if: steps.decide.outputs.collect == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        if: steps.decide.outputs.collect == 'true'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Collector
+        if: steps.decide.outputs.collect == 'true'
+        timeout-minutes: 20
+        run: python src/collector.py
+
+      - name: Build Site
+        if: steps.decide.outputs.collect == 'true'
+        run: python src/build_site.py
+
+      - name: Commit and push changes
+        if: steps.decide.outputs.collect == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/
+          if git diff --staged --quiet; then
+            echo "변경 사항 없음"
+            exit 0
+          fi
+          git commit -m "chore: auto-update daily brief data [${{ steps.decide.outputs.today }}]"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "push 실패, 재시도 ($i/3)"; sleep $((i * 5))
+          done
+          echo "::warning::데이터 커밋 push 실패 — 사이트 배포는 계속 진행합니다."
+
+      - name: Upload Pages artifact
+        if: always() && !cancelled()
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "docs/"
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: update-and-build
+    if: always() && needs.update-and-build.result != 'cancelled'
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
