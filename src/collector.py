@@ -353,12 +353,42 @@ def load_fixed_config() -> dict:
             iso2 = iso2_of.get(r.get("iso3", "").upper())
             if iso2 in out and r.get("site_name"):
                 out[iso2]["sites"].append(f"{r['site_name']} ({r['city']})" if r.get("city") else r["site_name"])
+        _attach_official_sources(out, iso2_of)
         return out
     except FileNotFoundError:
         return {}
     except Exception as e:  # noqa: BLE001
         log.warning(f"config/ 고정 데이터(수도·거점) 로드 실패 — 메타데이터 값 사용: {e}")
         return {}
+
+
+EU_MEMBERS_ISO3 = {"DEU", "HUN", "FRA", "ITA", "ESP", "NLD", "POL", "SWE", "CZE", "AUT", "ROU", "HRV"}
+
+
+def _attach_official_sources(out: dict, iso2_of: dict) -> None:
+    """config/official_sources.csv (iso3|name|url|desc). iso3 칸에 ALL 이면 전체 국가, EU 면 EU 회원국에 붙는다.
+    국가별 행이 먼저, 공통 행(EU → ALL)이 뒤에 오도록 정렬한다. http(s) 주소만 허용."""
+    path = os.path.join(CONFIG_DIR, "official_sources.csv")
+    if not os.path.exists(path):
+        return
+    own, common = {}, {}
+    for r in _read_pipe_csv(path):
+        key, url = r.get("iso3", "").upper(), r.get("url", "")
+        if not key or not r.get("name") or not re.match(r"^https?://", url):
+            continue
+        entry = {"name": r["name"], "url": url, "desc": r.get("desc", "")}
+        if key in ("ALL", "EU"):
+            common.setdefault(key, []).append(entry)
+        else:
+            own.setdefault(key, []).append(entry)
+    for iso3, iso2 in iso2_of.items():
+        if iso2 not in out:
+            continue
+        lst = list(own.get(iso3, []))
+        if iso3 in EU_MEMBERS_ISO3:
+            lst += common.get("EU", [])
+        lst += common.get("ALL", [])
+        out[iso2]["official"] = lst
 
 
 FIXED_CONFIG = load_fixed_config()
@@ -385,6 +415,16 @@ def build_profile(country: dict, cached: dict) -> dict:
         return cached_profile.get(key, "-")
 
     used_auto = any(not _is_bad_value(auto.get(k)) and auto.get(k) != "-" for k in PROFILE_FIELDS)
+    default_src = {"population": "IMF", "gdp": "IMF", "inflation": "Trading Economics",
+                   "unemployment": "Trading Economics", "min_wage": "최저임금 보정자료"}
+    sources = {}
+    for k in PROFILE_FIELDS:
+        v = auto.get(k)
+        if not _is_bad_value(v) and v != "-":
+            src = str(((auto.get("details") or {}).get(k) or {}).get("source") or default_src[k])
+            sources[k] = src.split(" (")[0].replace("IMF WEO", "IMF")
+        else:
+            sources[k] = "Global HR 자체 조사"
     return {
         "capital": pick("capital"),
         "population": pick("population"),
@@ -397,6 +437,7 @@ def build_profile(country: dict, cached: dict) -> dict:
         "stats_source": ("IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료" if used_auto
                          else "Hankook Tire Global HR 자체 조사"),
         "stats_asof": (AUTO_PROFILES_ASOF if used_auto else (meta.get("as_of") or METADATA_ASOF or "")),
+        "sources": sources,
     }
 
 
@@ -1025,6 +1066,139 @@ def get_industry_trends(country: dict, cached: dict, seen: set) -> list:
 # ---------------------------------------------------------------------------
 # 7. 번역 (수집 완료 후 일괄 처리)
 # ---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
+# 6-2. 현지 뉴스 3분류 (안전·재난 / 정치·경제 / 사회·문화) + 법·제도 표시 + 글로벌 산업 동향
+#   - 분류마다 별도 검색어로 수집하고, 국가 관련성 필터(별칭이 제목에 있어야 함)를 그대로 적용한다.
+#   - 안전·재난은 제목이 아래 SAFETY_TAGS 중 하나에 걸려야만 채택(오탐 방지)하고 태그를 붙인다.
+#     '공식 경보'가 아니라 '확인이 필요한 보도'로 화면에 표시한다.
+# ---------------------------------------------------------------------------
+NEWS_CATEGORIES = [
+    # 안전·재난을 먼저 수집해야 같은 기사가 정치·경제로 먼저 분류되지 않는다
+    {"id": "safe", "label": "안전·재난", "limit": 3, "when": "when:3d",
+     "en": '"{name}" (earthquake OR flood OR flooding OR storm OR typhoon OR hurricane OR wildfire OR explosion '
+           'OR missile OR drone OR airstrike OR terror OR riot OR outbreak OR evacuation)',
+     "home": "(지진 OR 태풍 OR 폭우 OR 홍수 OR 산불 OR 대형화재 OR 붕괴 OR 테러 OR 감염병)"},
+    {"id": "pol", "label": "정치·경제", "limit": 4, "when": "when:2d",
+     "en": '"{name}" (government OR election OR parliament OR minister OR economy OR inflation '
+           'OR "central bank" OR trade OR tariff OR budget)',
+     "home": "(정부 OR 국회 OR 대통령 OR 경제 OR 금리 OR 물가 OR 수출)"},
+    {"id": "soc", "label": "사회·문화", "limit": 3, "when": "when:3d",
+     "en": '"{name}" (society OR culture OR education OR health OR immigration OR population OR tourism OR festival)',
+     "home": "(사회 OR 문화 OR 교육 OR 저출생 OR 의료 OR 복지)"},
+]
+
+SAFETY_TAGS = [
+    ("지진", re.compile(r"(?i)\bearthquakes?\b|\bquake\b|\btremor|\btsunami|지진|쓰나미")),
+    ("자연재해", re.compile(r"(?i)\bflood|\bstorm\b|\btyphoon|\bhurricane|\bcyclone|\bwildfire|\blandslide|"
+                         r"heavy rain|\bheatwave|\bvolcan|홍수|태풍|폭우|산불|폭염|산사태")),
+    ("무력충돌", re.compile(r"(?i)\bmissile|\bairstrike|\bair strike|\bdrone (attack|strike)|\bshelling|"
+                         r"strikes? on|\binvasion|\battacks? (on|by)|\bwar\b|미사일|공습|교전|포격")),
+    ("테러·치안", re.compile(r"(?i)\bterror|\bbomb|\bexplosion|\bshooting|\bgunm[ae]n|\bhostage|테러|폭발|총격|인질")),
+    ("시위·소요", re.compile(r"(?i)\bprotest|\briot|\bunrest|\bgeneral strike|\bcurfew|시위|폭동|소요|총파업")),
+    ("환경·보건", re.compile(r"(?i)\bhaze\b|\bsmog|air pollution|\boutbreak|\bepidemic|\bpandemic|\bcholera|"
+                         r"\bdengue|\bmpox|연무|미세먼지|감염병|전염병")),
+]
+# 안전 태그를 붙이지 않을 문맥(훈련·과거사·문화 콘텐츠 등)
+SAFETY_EXCLUDE = re.compile(r"(?i)\bdrill\b|\banniversary\b|\bmuseum\b|\bfilm\b|\bmovie\b|\bgame\b|\bnovel\b|"
+                            r"\bWorld War\b|\bwar (crimes? )?memorial|훈련|기념|영화|게임")
+
+LAW_RE = re.compile(r"(?i)\blaws?\b|\bbill\b|\bact\b|\bamend|\bregulation|\bdecree|\blegislat|\blabou?r code|"
+                    r"\bminimum wage|\bordinance|\bruling\b|\bcourt\b|법|개정|시행령|입법|최저임금|판결")
+
+
+def safety_tag(title: str) -> str:
+    if not title or SAFETY_EXCLUDE.search(title):
+        return ""
+    for tag, rx in SAFETY_TAGS:
+        if rx.search(title):
+            return tag
+    return ""
+
+
+def is_law_item(item: dict) -> bool:
+    return bool(LAW_RE.search(item.get("original_title") or item.get("title") or ""))
+
+
+def get_local_news(country: dict, cached: dict, seen: set) -> dict:
+    """현지 뉴스를 safe/pol/soc 세 분류로 수집. 분류별로 새 기사가 없으면 이전 수집 기사(관련성 재검사)를
+    쓰고, 그것도 없으면 빈 목록(화면에 '보도 없음')으로 둔다 — 대체 문구를 만들지 않는다."""
+    code = country.get("code")
+    is_home = code == "KR"
+    check = None if is_home else make_relevance_checker(country)
+    ex = "" if is_home else _exclusions(code)
+    name = country.get("name_en", "")
+    cached_news = (cached or {}).get("news") or {}
+    out = {}
+    for cat in NEWS_CATEGORIES:
+        cid, limit = cat["id"], cat["limit"]
+        picked = []
+        try:
+            if is_home:
+                url = _google_news_url_ko(f'{cat["home"]} {cat["when"]}')
+                cands = _fetch_feed(url, 40)
+                lang = "ko"
+            else:
+                url = _google_news_url_en(cat["en"].format(name=name) + f'{ex} {cat["when"]}')
+                cands = _fetch_feed(url, 50)
+                lang = "en"
+            if cid == "safe":
+                cands = [c for c in cands if safety_tag(c.get("title", ""))]
+            picked = _pick(cands, lang, limit, seen, check)
+            if cid == "pol" and len(picked) < 2 and not is_home:
+                more = _fetch_feed(_google_news_url_en(f'"{name}"{ex} when:2d'), 50)
+                picked = _pick(more, "en", limit, seen, check, picked)
+        except Exception as e:
+            log.warning(f"[{code}] 뉴스({cat['label']}) 수집 예외: {e}")
+        if not picked:
+            prev = _cached_list(cached_news.get(cid), check)
+            if cid == "safe":
+                prev = [p for p in prev if safety_tag(p.get("original_title") or p.get("title", ""))]
+            picked = prev[:limit]
+        for it in picked:
+            if cid == "safe":
+                it["safety_tag"] = safety_tag(it.get("original_title") or it.get("title", ""))
+        out[cid] = picked
+    return out
+
+
+GLOBAL_INDUSTRY_QUERIES = [
+    {"lang": "ko", "q": "(타이어 OR 완성차 OR 전기차 판매 OR 자동차 수출) when:2d", "limit": 4},
+    {"lang": "en", "q": "(Michelin OR Bridgestone OR Continental OR Goodyear OR Pirelli OR \"Sumitomo Rubber\") tire when:3d", "limit": 3},
+    {"lang": "en", "q": "(\"tire market\" OR \"tyre market\" OR \"global auto sales\" OR automaker) when:2d", "limit": 3},
+]
+INDUSTRY_TAG_RULES = [
+    ("경쟁사", re.compile(r"(?i)michelin|bridgestone|continental|goodyear|pirelli|sumitomo|yokohama|금호|넥센|미쉐린|브리지스톤|굿이어|피렐리")),
+    ("타이어", re.compile(r"(?i)\btires?\b|\btyres?\b|타이어")),
+    ("EV", re.compile(r"(?i)\bEVs?\b|electric vehicle|전기차|배터리")),
+    ("시장전망", re.compile(r"(?i)forecast|outlook|market size|전망|시장 규모")),
+    ("완성차", re.compile(r"(?i)automaker|carmaker|auto sales|car sales|vehicle|완성차|자동차")),
+]
+
+
+def industry_tag(title: str) -> str:
+    for tag, rx in INDUSTRY_TAG_RULES:
+        if rx.search(title or ""):
+            return tag
+    return "완성차"
+
+
+def get_global_industry(previous: list) -> list:
+    """국가와 무관한 완성차·타이어·경쟁사 이슈. 수집이 비면 직전 값을 유지한다."""
+    seen: set = set()
+    items = []
+    for spec in GLOBAL_INDUSTRY_QUERIES:
+        try:
+            url = _google_news_url_ko(spec["q"]) if spec["lang"] == "ko" else _google_news_url_en(spec["q"])
+            items = _pick(_fetch_feed(url, 30), spec["lang"], len(items) + spec["limit"], seen, None, items)
+        except Exception as e:
+            log.warning(f"글로벌 산업 동향 수집 예외: {e}")
+    if not items:
+        items = _cached_list(previous)
+    for it in items:
+        it["tag"] = industry_tag(it.get("original_title") or it.get("title", ""))
+    return items[:10]
+
+
 def load_translation_cache() -> dict:
     try:
         if os.path.exists(TRANSLATION_CACHE_PATH):
@@ -1173,6 +1347,10 @@ def _iter_news_items(countries: list):
         for h in c.get("headlines", []) or []:
             if isinstance(h, dict):
                 yield h, "summary"
+        for lst in (c.get("news") or {}).values():
+            for h in lst or []:
+                if isinstance(h, dict):
+                    yield h, "summary"
         for t in c.get("hr_trends", []) or []:
             for it in (t.get("items") or []) if isinstance(t, dict) else []:
                 if isinstance(it, dict):
@@ -1523,10 +1701,14 @@ def collect_country(country: dict, cache_by_code: dict, fx_series: dict) -> dict
         result["exchange_rate"] = _failed_fx(country["currency"], SMALL_UNIT_CURRENCIES.get(country["currency"], 1))
 
     try:
-        result["headlines"] = get_headlines(country, cached, seen)
+        result["news"] = get_local_news(country, cached, seen)
     except Exception as e:
-        log.error(f"[{code}] 헤드라인 실패: {e}")
-        result["headlines"] = [_fallback_headline_item(country)]
+        log.error(f"[{code}] 현지 뉴스 실패: {e}")
+        result["news"] = {c["id"]: [] for c in NEWS_CATEGORIES}
+    # 구버전 화면·도구 호환용: 현지 주요 뉴스 상위 3건
+    result["headlines"] = (result["news"].get("pol") or result["news"].get("soc") or [])[:3] \
+        or [_fallback_headline_item(country)]
+    result["official_sources"] = FIXED_CONFIG.get(code.upper(), {}).get("official", [])
 
     try:
         result["hr_trends"] = get_industry_trends(country, cached, seen)
@@ -1537,6 +1719,10 @@ def collect_country(country: dict, cache_by_code: dict, fx_series: dict) -> dict
              "items": [_fallback_trend_item(s, country)]}
             for s in INDUSTRY_TOPICS
         ]
+    for t in result.get("hr_trends", []):
+        if t.get("category") == "HR & LABOR":
+            for it in t.get("items", []):
+                it["law"] = (not it.get("is_fallback")) and is_law_item(it)
     return result
 
 
@@ -1553,6 +1739,8 @@ def _build_country_fallback(code: str) -> dict:
         "profile": build_profile(meta, {}),
         "exchange_rate": _failed_fx(meta["currency"], SMALL_UNIT_CURRENCIES.get(meta["currency"], 1)),
         "headlines": [_fallback_headline_item(meta)],
+        "news": {c["id"]: [] for c in NEWS_CATEGORIES},
+        "official_sources": FIXED_CONFIG.get(code.upper(), {}).get("official", []),
         "hr_trends": [
             {"category": s["category"], "tag": s["tag"], "tag_class": s["tag_class"],
              "items": [_fallback_trend_item(s, meta)]}
@@ -1590,7 +1778,13 @@ def main() -> dict:
     countries_result = [collected.get(c["code"]) or _build_country_fallback(c["code"]) for c in COUNTRIES]
 
     try:
-        apply_translations(countries_result)
+        global_industry = get_global_industry(_load_previous_global_industry())
+    except Exception as e:
+        log.error(f"글로벌 산업 동향 실패: {e}")
+        global_industry = _load_previous_global_industry()
+
+    try:
+        apply_translations(countries_result + [{"news": {"global": global_industry}}])
     except Exception as e:
         log.error(f"일괄 번역 단계 실패(원문 유지): {e}")
 
@@ -1601,6 +1795,7 @@ def main() -> dict:
         "as_of_display": f"{now_kst.strftime('%Y-%m-%d %H:%M')} KST 수집",
         "regions": REGIONS,
         "countries": countries_result,
+        "global_industry": global_industry,
     }
 
     save_cache(data)  # 실패 시 예외 → 워크플로 실패로 즉시 드러나게 함
@@ -1620,6 +1815,14 @@ def main() -> dict:
     return data
 
 
+def _load_previous_global_industry() -> list:
+    try:
+        with open(CACHE_PATH, "r", encoding="utf-8") as f:
+            return [sanitize_item(x) for x in (json.load(f).get("global_industry") or []) if isinstance(x, dict)]
+    except Exception:
+        return []
+
+
 def _log_quality_report(countries: list) -> None:
     """실행 로그에 품질 요약을 남겨 GitHub Actions에서 바로 확인할 수 있게 한다."""
     fx_fail = [c["code"] for c in countries if not c["exchange_rate"].get("is_base")
@@ -1629,6 +1832,8 @@ def _log_quality_report(countries: list) -> None:
     untranslated = sum(1 for i in en_items if not i.get("translated"))
     log.info(f"[품질] 환율 최신값 미확보: {len(fx_fail)}개국 {fx_fail}")
     log.info(f"[품질] 헤드라인 폴백: {len(fallback_news)}개국 {fallback_news}")
+    safe = [(c["code"], i.get("safety_tag")) for c in countries for i in (c.get("news") or {}).get("safe", [])]
+    log.info(f"[품질] 안전·재난 보도 {len(safe)}건 {safe}")
     log.info(f"[품질] 영문 기사 {len(en_items)}건 중 미번역 {untranslated}건")
 
 

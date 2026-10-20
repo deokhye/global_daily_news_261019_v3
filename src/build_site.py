@@ -335,6 +335,8 @@ def build(data: dict) -> bool:
                 "as_of_display": as_of_display,
                 "regions": data.get("regions", []),
                 "countries": data.get("countries", []),
+                "global_industry": data.get("global_industry", []),
+                "generated_at": data.get("generated_at", ""),
             },
             ensure_ascii=False,
             default=str,
