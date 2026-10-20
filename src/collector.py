@@ -1130,8 +1130,8 @@ NEWS_CATEGORIES = [
     # 안전·재난을 먼저 수집해야 같은 기사가 정치·경제로 먼저 분류되지 않는다
     {"id": "safe", "label": "안전·재난", "limit": 3, "when": "when:3d",
      "en": '"{name}" (earthquake OR flood OR flooding OR storm OR typhoon OR hurricane OR wildfire OR explosion '
-           'OR missile OR drone OR airstrike OR terror OR riot OR outbreak OR evacuation)',
-     "home": "(지진 OR 태풍 OR 폭우 OR 홍수 OR 산불 OR 대형화재 OR 붕괴 OR 테러 OR 감염병)"},
+           'OR blast OR collapse OR missile OR drone OR airstrike OR terror OR riot OR protest OR outbreak OR evacuation)',
+     "home": "(지진 OR 태풍 OR 폭우 OR 홍수 OR 산불 OR 대형화재 OR 폭발 OR 붕괴 OR 테러 OR 감염병)"},
     {"id": "pol", "label": "정치·경제", "limit": 4, "when": "when:2d",
      "en": '"{name}" (government OR election OR parliament OR minister OR economy OR inflation '
            'OR "central bank" OR trade OR tariff OR budget)',
@@ -1142,15 +1142,19 @@ NEWS_CATEGORIES = [
 ]
 
 SAFETY_TAGS = [
-    ("지진", re.compile(r"(?i)\bearthquakes?\b|\bquake\b|\btremor|\btsunami|지진|쓰나미")),
-    ("자연재해", re.compile(r"(?i)\bflood|\bstorm\b|\btyphoon|\bhurricane|\bcyclone|\bwildfire|\blandslide|"
-                         r"heavy rain|\bheatwave|\bvolcan|홍수|태풍|폭우|산불|폭염|산사태")),
-    ("무력충돌", re.compile(r"(?i)\bmissile|\bairstrike|\bair strike|\bdrone (attack|strike)|\bshelling|"
-                         r"strikes? on|\binvasion|\battacks? (on|by)|\bwar\b|미사일|공습|교전|포격")),
-    ("테러·치안", re.compile(r"(?i)\bterror|\bbomb|\bexplosion|\bshooting|\bgunm[ae]n|\bhostage|테러|폭발|총격|인질")),
-    ("시위·소요", re.compile(r"(?i)\bprotest|\briot|\bunrest|\bgeneral strike|\bcurfew|시위|폭동|소요|총파업")),
-    ("환경·보건", re.compile(r"(?i)\bhaze\b|\bsmog|air pollution|\boutbreak|\bepidemic|\bpandemic|\bcholera|"
-                         r"\bdengue|\bmpox|연무|미세먼지|감염병|전염병")),
+    # 순서가 곧 판정 우선순위: 테러성 폭발은 '무력충돌·테러', 그 밖의 폭발·화재는 '대형사고'
+    ("무력충돌·테러", re.compile(r"(?i)\bmissile|\bairstrike|\bair strike|\bdrone (attack|strike)|\bshelling|"
+                              r"strikes? on|\binvasion|\battacks? (on|by)|\bwar\b|\bterror|\bbomb|\bsuicide attack|"
+                              r"\bgunm[ae]n|\bmass shooting|\bshooting\b|\bhostage|미사일|공습|교전|포격|테러|폭탄|총격|인질")),
+    ("자연재해", re.compile(r"(?i)\bearthquakes?\b|\bquake\b|\btremor|\btsunami|\bflood|\bstorm\b|\btyphoon|\bhurricane|"
+                         r"\bcyclone|\bwildfire|\blandslide|heavy rain|\bheatwave|\bheat wave|\bvolcan|\bblizzard|\bdrought|"
+                         r"지진|쓰나미|홍수|태풍|폭우|산불|폭염|산사태|화산|폭설|가뭄")),
+    ("대형사고", re.compile(r"(?i)\bexplosion|\bblast\b|\bfactory fire|\bmajor fire|\bbuilding collapse|\bcollapse[sd]?\b|"
+                         r"\bderail|\btrain crash|\bplane crash|\bcrash kills|\bchemical (leak|spill)|\bgas leak|"
+                         r"폭발|대형화재|붕괴|탈선|추락|유출 사고")),
+    ("사회불안", re.compile(r"(?i)\bprotest|\briot|\bunrest|\bgeneral strike|\bcurfew|\bcoup\b|시위|폭동|소요|총파업|통행금지|쿠데타")),
+    ("보건·환경", re.compile(r"(?i)\bhaze\b|\bsmog|air pollution|\boutbreak|\bepidemic|\bpandemic|\bcholera|"
+                          r"\bdengue|\bmpox|연무|미세먼지|감염병|전염병")),
 ]
 # 안전 태그를 붙이지 않을 문맥(훈련·과거사·문화 콘텐츠 등)
 SAFETY_EXCLUDE = re.compile(r"(?i)\bdrill\b|\banniversary\b|\bmuseum\b|\bfilm\b|\bmovie\b|\bgame\b|\bnovel\b|"
