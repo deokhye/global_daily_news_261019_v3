@@ -429,7 +429,7 @@ def build_profile(country: dict, cached: dict) -> dict:
 
     used_auto = any(not _is_bad_value(auto.get(k)) and auto.get(k) != "-" for k in PROFILE_FIELDS)
     default_src = {"population": "IMF", "gdp": "IMF", "inflation": "Trading Economics",
-                   "unemployment": "Trading Economics", "min_wage": "최저임금 보정자료"}
+                   "unemployment": "Trading Economics", "min_wage": "정부 공식 발표"}
     sources = {}
     for k in PROFILE_FIELDS:
         v = auto.get(k)
@@ -440,6 +440,13 @@ def build_profile(country: dict, cached: dict) -> dict:
             sources[k] = "Global HR 자체 조사"
     if sources["min_wage"] == "Global HR 자체 조사":
         sources["min_wage"] = _official_min_wage_source(meta.get("min_wage"), fixed.get("official") or [])
+    # 법정 최저임금이 없는 나라는 '각국 노동법 기준', 보정 파일 값은 '정부 공식 발표'로 표기 (내부 용어 노출 금지)
+    _mw = pick("min_wage")
+    _mw_text = _mw.get("display", "") if isinstance(_mw, dict) else str(_mw or "")
+    if "법정 최저임금 없음" in _mw_text:
+        sources["min_wage"] = "각국 노동법 기준"
+    elif "보정" in sources["min_wage"] or "HR 확인" in sources["min_wage"]:
+        sources["min_wage"] = "정부 공식 발표"
     return {
         "capital": pick("capital"),
         "population": pick("population"),
@@ -449,7 +456,7 @@ def build_profile(country: dict, cached: dict) -> dict:
         "min_wage": pick("min_wage"),
         "min_wage_note": "",
         "sites": auto.get("sites") or [],
-        "stats_source": ("IMF WEO · Trading Economics · Eurostat/ILOSTAT · HR 보정자료" if used_auto
+        "stats_source": ("IMF WEO · Trading Economics · Eurostat/ILOSTAT · 정부 공식 발표" if used_auto
                          else "Hankook Tire Global HR 자체 조사"),
         "stats_asof": (AUTO_PROFILES_ASOF if used_auto else (meta.get("as_of") or METADATA_ASOF or "")),
         "sources": sources,
