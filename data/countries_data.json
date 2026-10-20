@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T16:11:21.176841+09:00",
-  "generated_at_display": "2026-10-20 16:11 KST",
-  "as_of_display": "2026-10-20 16:11 KST 수집",
+  "generated_at": "2026-10-20T16:13:25.165504+09:00",
+  "generated_at_display": "2026-10-20 16:13 KST",
+  "as_of_display": "2026-10-20 16:13 KST 수집",
   "regions": [
     {
       "key": "ALL",
@@ -190,9 +190,9 @@
             "original_title": ""
           },
           {
-            "title": "인력 부족·고령화 해법 찾는 세계 병원들…“AI는 의료 혁신 기폭제”",
-            "source": "전자신문",
-            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxRVU0Rl9tcmtUbmlJcjlyQlFHNFpDOFQwNXhBamtvSHlhNTZpblZzU1VFYjUxMUFaeUpDbWtHdmpjMVNHWWlkc2FoakVJdw?oc=5",
+            "title": "재주는 의료기기가, 돈은 홈뷰티가?…커지는 ’기술·브랜드 무임승차’ 논란 By EBN",
+            "source": "Investing.com 한국어",
+            "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVzFKcVlfMER5anpucHktR1Q4a2pFSDQ2US1qZkdiY3hRZktDY0R5V0FMQ3JqTDNoUGJmd3VRVlU0Y1Viby1kNUc0SS1IbHpvTUJGdkxrNGNHTER0b0JOX3RHVWpjRW4wc2w3bUFCV18?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "ko",
@@ -200,9 +200,9 @@
             "original_title": ""
           },
           {
-            "title": "자연 속에서 함께 웃고 공감…칠곡 특수교육대상학생 가족 캠핑",
-            "source": "경북일보",
-            "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16YkplOE5jWko5UmZQNXdlRE1naUFrTUJ4WjJZUXVwOE5NU3o0dTFnTG9sRl9ZektXRHNRajcxYzcxVWkyYnJTNldKTjdyWnA4VzNxSWV6THM2VlpJSkphOG9zOUp4b2JCVVlqaFd5NA?oc=5",
+            "title": "인력 부족·고령화 해법 찾는 세계 병원들…“AI는 의료 혁신 기폭제”",
+            "source": "전자신문",
+            "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxRVU0Rl9tcmtUbmlJcjlyQlFHNFpDOFQwNXhBamtvSHlhNTZpblZzU1VFYjUxMUFaeUpDbWtHdmpjMVNHWWlkc2FoakVJdw?oc=5",
             "summary": "",
             "published": "2026-10-20",
             "lang": "ko",
@@ -410,8 +410,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1326.5,
-        "change_pct": -0.52,
+        "current_rate": 1327.4,
+        "change_pct": -0.45,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -438,7 +438,7 @@
           1420.6,
           1377.1,
           1350.5,
-          1326.5
+          1327.4
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
@@ -612,16 +612,6 @@
           "tag_class": "bg-rose-100 text-rose-700",
           "items": [
             {
-              "title": "픽업트럭과 내연기관의 든든한 캐시카우, 전기차 전환의 거센 성장통을 겪고 있는 미국 자동차의 자존심 - 제너럴 모터스(GM)",
-              "desc": "",
-              "source": "네이버 프리미엄콘텐츠",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGVCMWZQTEM0SmNQMkdFSXlNVk5qdU42ck5TOFZ5M1lCRlFNZzJNdzRZeWZVMUZRSWQzeDJJd0RWak5ZcDdTZk5DWS1JeHh1Q25jZERPbWQzMk9xVFRmeUJhRWg5Y1djVFUxektjWDFhNU5EZkNMaW90WDVnaFprbklaWUpYQQ?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-19"
-            },
-            {
               "title": "베트남 빈패스트, 2028년 미국 전기 버스 시장 진출",
               "desc": "",
               "source": "다나와 자동차",
@@ -630,6 +620,16 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-12"
+            },
+            {
+              "title": "픽업트럭과 내연기관의 든든한 캐시카우, 전기차 전환의 거센 성장통을 겪고 있는 미국 자동차의 자존심 - 제너럴 모터스(GM)",
+              "desc": "",
+              "source": "네이버 프리미엄콘텐츠",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNGVCMWZQTEM0SmNQMkdFSXlNVk5qdU42ck5TOFZ5M1lCRlFNZzJNdzRZeWZVMUZRSWQzeDJJd0RWak5ZcDdTZk5DWS1JeHh1Q25jZERPbWQzMk9xVFRmeUJhRWg5Y1djVFUxektjWDFhNU5EZkNMaW90WDVnaFprbklaWUpYQQ?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-19"
             },
             {
               "title": "중국 지리자동차, 캐나다 진출 본격화…미국 규제 피해 북미 공략",
@@ -642,14 +642,14 @@
               "published": "2026-10-12"
             },
             {
-              "title": "현대자동차 ‘디 올 뉴 투싼’ 미국 뉴욕서 글로벌 무대 첫선",
+              "title": "포드 3분기 미국시장 판매 6.6% 감소… 고유가 속 한·일 하이브리드 반사이익",
               "desc": "",
-              "source": "국민기자뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kLW8yUlNOMFNXa1BPcHJrSy1sRG1EX3IwM2gzMDM5d21IT3pyblFBQ2lGekhzeVF4Q25GZm1FR0w4Qk9zX0Fpdkd3akdrVGRaYm9ZcVQySEIwYWNIa01Fdjh4SdIBZ0FVX3lxTE1hYmxacHFFZTlKSWdnb25JT1FmSWZmeF9UM3FscEhSZzU5eHJXZXJSeUVCNnFZdWcxdTBkT0pMYi1keGxHQ2NPMlRqMnk3c2FTWWU3SmFDUHBZSkIwNjA1X3FrWlR3ZXc?oc=5",
+              "source": "다나와 자동차",
+              "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPZUNZSWdZRXM2V1RsN25kQkZ6ZXFTblBHY0FjcXhqQ0JUQmx1UTZqRFh6MUNZUTJrT1FUUzBXWk1COG41S2ZaNTVVaVJzR1RHN3BhRkZIanpQRm5iQ2hjbm51YXNQWkZ0d1JSakFNWjhIMmNzbXVTSEw2dUpJMFhkdHl5MVRfY1g3emR4cE5vRzdJSkFVWlZWSHY0WW5hZkxLSUlvNlJvN0Yyek96VlluMHZWR0VjQUV5VFQwcURTX3hvbjEtUE5GNmhxNGQxeVJFeUx2NkFVSVFmWHU0TERvdGdGZkR2akpDSGpwNmtCS1VvR0tlTlA3SkhLcXpjWnl0ZC1FZ2Q5dkl6NGdQLWhJajVNbw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-12"
+              "published": "2026-10-07"
             }
           ]
         },
@@ -667,6 +667,17 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-12",
+              "law": false
+            },
+            {
+              "title": "미국 9월 비농업 고용 둔화, 실업률 상승",
+              "desc": "",
+              "source": "KDI 경제교육·정보센터",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVhZMG9nQ3dEaGhIRHBiNFhiRVBkbTJvcVJHQTAyMzVLdnFVU3BBdi1HV0VwYktURFo1WkVaWDdSakgxTDNfcWd5cTJPcHI2b1E2Um1tc3ZNMmNHMERqVzM5elh0ZWlBVW9wUDNRZlhrUWpDdkdITGtyNTFiQkdZRg?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-13",
               "law": false
             },
             {
@@ -690,17 +701,6 @@
               "original_title": "",
               "published": "2026-10-07",
               "law": false
-            },
-            {
-              "title": "미국 빅테크는 감원으로 체질 개선…한국 기업은 파업·노동입법에 발목",
-              "desc": "",
-              "source": "미디어펜",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fZTkxRGlUbnl3Vzc5VHpGbEVJVDBEQXUxWmJWZ1hJZUd4aWNxU3ZNUWZKNFVuMjZuM3RXeFp1OHZneC1YRmR5WGFEYVVWalQ0OWJwQ9IBWEFVX3lxTFBsZEhncVVCM2Z3SXZlb1ZRNDRYWVlacE9hNVVIYl9DUVR4U2NwLU1hLUhkLTJ3b3o2SUl0X3h4MWNKZ1NTbXRXQWxQaWFyUFNvYm8zWm1yOTk?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-11",
-              "law": true
             }
           ]
         }
@@ -992,14 +992,14 @@
               "published": "2026-10-13"
             },
             {
-              "title": "중국 자동차 “어쩌나···프랑스·독일, ‘유럽산’ 빗장",
+              "title": "[김훈기 칼럼] 중국車, 유럽의 심장 독일과 프랑스까지 '거침없는 질주'",
               "desc": "",
-              "source": "시사주간",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbmZzUGgwVHRpMERZcjZfSVRya0UtcFBqOGxSMzZ6Rl8xWWlNcDh4NW8yaDBrcm91ZV96UHdJZWhweG4zRjR2bHdTOUFqT0U0djNIRWRiR2RPNzdQY3JpQ2xCb193TTVaNFZsaw?oc=5",
+              "source": "다나와 자동차",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lQ2ZqZzExU2E1S2xfZ3lQTVlLc3YtSjBUZ2k4Z3hieWZ6OGJRX2lnUnUzOWxIb0NhenoxeHR1VGN4VHkwNmVub1NRRkxueFBrblN3OHlvRDRDdk9hZXhVdHlPVmRUcWx0Z1RR?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-19"
+              "published": "2026-10-14"
             }
           ]
         },
@@ -1112,8 +1112,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 198.6,
-        "change_pct": -0.33,
+        "current_rate": 198.8,
+        "change_pct": -0.26,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1140,7 +1140,7 @@
           210.3,
           204.7,
           201.5,
-          198.6
+          198.8
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CNYKRW=X",
@@ -1449,8 +1449,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 410.9,
-        "change_pct": -0.38,
+        "current_rate": 411.1,
+        "change_pct": -0.33,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1477,7 +1477,7 @@
           452.0,
           437.5,
           417.9,
-          410.9
+          411.1
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/HUFKRW=X",
@@ -2802,8 +2802,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 16.03,
-        "change_pct": -1.84,
+        "current_rate": 16.02,
+        "change_pct": -1.89,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -2830,7 +2830,7 @@
           17.82,
           16.18,
           16.13,
-          16.03
+          16.02
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/RUBKRW=X",
@@ -2916,6 +2916,16 @@
           }
         ],
         "soc": [
+          {
+            "title": "러시아의 공중 보건 감시단은 폐렴 전염병 의심 사례에서 두 번째 감염을 부인합니다",
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWnVla3VEMms2OGo4VDJGRUZhX1lpeU16a0RLWEp5anlQOE50VTVKYzYwR1gzYnc1RkJUV2N5Z0txSjRSQ3ozR1A5TVhVUkVwZVJscEdNcVdONFFtSU1ZcnRUaGpIUGdJNEtPcHloWUdmVGtFOTh2T1Byc1RDUDMwWGFsZ2dkWUJub3QyQk9ENm5UemlfaVNzRl9sSDUxakIwSjBseDVCa0NtYm9YVTJ2Y014VXFBWk52X1Q4aEx30gHDAUFVX3lxTFBadGNTU1JyMjF3X290NlJPRl9LNlRkc3U3cVhUYUQ0WmlLRVNPV0s0YkhJYWVaYjQwbjNNQnFKbl9OeE82Q01aYWVZQTZReFg2SlZyM294V0lYLTJfN2RDakd5Zm9FWnRfSDlsNlYwd19hOVBXY1lYZDhTTldoRUdqbk1keG0yQ2JtUzItMWlsY0ZiZ0FqcFRkMnNjRGdJOTA1U2pPTmtsdno0Q0dMMXVPZU9sNk5tRlI3RlA1aV9Wbk5sWQ?oc=5",
+            "summary": "",
+            "published": "2026-10-19",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Russia's public health watchdog denies a second infection in suspected pneumonic plague case"
+          },
           {
             "title": "N. 한국-러시아 교육 간담회",
             "source": "Yonhap News Agency",
@@ -3136,8 +3146,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 279.7,
-        "change_pct": -0.54,
+        "current_rate": 279.9,
+        "change_pct": -0.47,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -3164,7 +3174,7 @@
           312.4,
           303.8,
           290.5,
-          279.7
+          279.9
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/RONKRW=X",
@@ -3810,8 +3820,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 72.15,
-        "change_pct": -0.23,
+        "current_rate": 72.21,
+        "change_pct": -0.14,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -3838,7 +3848,7 @@
           81.9,
           80.86,
           74.85,
-          72.15
+          72.21
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/MXNKRW=X",
@@ -3859,17 +3869,6 @@
             "safety_tag": "자연재해"
           },
           {
-            "title": "허리케인 트루디가 폭우와 강풍으로 멕시코 태평양 연안을 강타했습니다.",
-            "source": "CNBC",
-            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON3UyNVlWNm5abVV3WkNTdTBXVkFNbzdHbWVOaDMzYkg1WXpwTzRBQ2NOM0kwSWhhYWxVQ0ZwME5zTjhTQkowZGhob2lqLVRyRVFFMHVab0JFV2UtaHpZODRDS1RJQTdHYlNZZDlKbFl1Z21YSGlETGx4MzdDT2dEXzhaa0EwLUJUaExjd0lkdU9CYk5ielNTWnFRamQwOFNjUVpn0gGoAUFVX3lxTFByc0xsSDZRQWpDQWFnSXJxZlRkWndXQ2p0YUJkMVowSGM2d2Z3RGYwOVh4azFsbDRvUDA1QnRFQ0ZNMEFQSllaeXhURWR6WWEyOXdNT0c1eVFWazd6eXJlRVpFSDI1S1M4MFFfVlRrNTZDUTktV1hiRVk4WUMyQkhmakYwSlFDY0hZOWlpTmtfSkhZMXJTLTI4RzhxRDg2ZGR2SF96a0dXMQ?oc=5",
-            "summary": "",
-            "published": "2026-10-18",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Hurricane Trudy lashes Mexico’s Pacific coast with heavy rain and strong winds",
-            "safety_tag": "자연재해"
-          },
-          {
             "title": "날씨 알림: 허리케인 트루디, 미국 대사관 멕시코시티, 미국 총영사관 과달라하라, 2026년 10월 15일 목요일",
             "source": "U.S. Embassy & Consulates in Mexico (.gov)",
             "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdUdKTkt1R0QwOUxacjMzZW1LaEZrMXZJeWd5SDFsMDJKYzEzdGZ5M3d1Qmo3STVkV21YN3dPN3gyV2plMHE2YzVHUENfVFRfTlA4d1d1MUh1ci12V0FkdXo2SEhDWGVBaGt5Rm1ScGh5OUpVQU81S3I3elZMcFAtTl9hMVdXcEg3TXAxTkNiaXpRa1VHQlNuLTd6Xzl6TmVBLUxrLUVXd0xabnVpTjJtZ3RuUVJNRmlIRjU2OHVMWnJHdnRTSGM5RHlpRzE2XzlqMF8xNmIyT0E?oc=5",
@@ -3878,6 +3877,17 @@
             "lang": "en",
             "translated": true,
             "original_title": "Weather Alert: Hurricane Trudy, U.S. Embassy Mexico City, U.S. Consulate General Guadalajara on Thursday, October 15, 2026",
+            "safety_tag": "자연재해"
+          },
+          {
+            "title": "허리케인 트루디가 폭우와 강풍으로 멕시코 태평양 연안을 강타했습니다.",
+            "source": "CNBC",
+            "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON3UyNVlWNm5abVV3WkNTdTBXVkFNbzdHbWVOaDMzYkg1WXpwTzRBQ2NOM0kwSWhhYWxVQ0ZwME5zTjhTQkowZGhob2lqLVRyRVFFMHVab0JFV2UtaHpZODRDS1RJQTdHYlNZZDlKbFl1Z21YSGlETGx4MzdDT2dEXzhaa0EwLUJUaExjd0lkdU9CYk5ielNTWnFRamQwOFNjUVpn0gGoAUFVX3lxTFByc0xsSDZRQWpDQWFnSXJxZlRkWndXQ2p0YUJkMVowSGM2d2Z3RGYwOVh4azFsbDRvUDA1QnRFQ0ZNMEFQSllaeXhURWR6WWEyOXdNT0c1eVFWazd6eXJlRVpFSDI1S1M4MFFfVlRrNTZDUTktV1hiRVk4WUMyQkhmakYwSlFDY0hZOWlpTmtfSkhZMXJTLTI4RzhxRDg2ZGR2SF96a0dXMQ?oc=5",
+            "summary": "",
+            "published": "2026-10-18",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Hurricane Trudy lashes Mexico’s Pacific coast with heavy rain and strong winds",
             "safety_tag": "자연재해"
           }
         ],
@@ -3913,14 +3923,14 @@
             "original_title": "U.S.-Mexico trade talks reportedly stall over auto tariffs, raising concerns for USMCA"
           },
           {
-            "title": "USMCA 회담을 복잡하게 만드는 미국-멕시코 관세 분쟁",
-            "source": "AGDAILY",
-            "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3JHN3ByRTlZMlUwcjI0enhtcXViXzEwa1FTcG5jUnM4cVF2MG1vRk1UWTNVUmtSRVEwQlprbUdDbklRRzN4Rnl1SkNhREY3OE5PNXBGbmxyQ2dRUWNWdGdYdk04Qll6MGdudjNZRE1yODBxTmpoSDhQUS0wNnpBeU5SVEJvQQ?oc=5",
+            "title": "관세는 멕시코의 자동차 산업을 첫 번째 장비로 보냅니다.",
+            "source": "IR Insider",
+            "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWFdHQ3ZRMV9SWHA5dGY2c2RrT0tLbUs4UWpiempWZVNWTGNOekJ2UnM4RE4yLWpCa1p3OWxQSFVLYndlZ2VzcDZqWW42emc5VHNxVlBJd0pEbWJHWk9KS1c3eWZQeTl2Mm9YLVNaSkJrbjEtc05vVmpKQUZQUXVTV2NwWUZZYlU?oc=5",
             "summary": "",
-            "published": "2026-10-19",
+            "published": "2026-10-20",
             "lang": "en",
             "translated": true,
-            "original_title": "U.S.-Mexico tariff dispute complicates USMCA talks"
+            "original_title": "Tariffs Send Mexico’s Auto Industry Into First Gear"
           }
         ],
         "soc": [
@@ -4152,8 +4162,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 135.5,
-        "change_pct": -4.18,
+        "current_rate": 135.6,
+        "change_pct": -4.11,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4484,8 +4494,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 3,
-        "current_rate": 5.123,
-        "change_pct": -0.53,
+        "current_rate": 5.127,
+        "change_pct": -0.46,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4512,7 +4522,7 @@
           5.406,
           5.282,
           5.2,
-          5.123
+          5.127
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/VNDKRW=X",
@@ -4704,7 +4714,7 @@
               "title": "현대차, 베트남 9월 판매 전월比 32.3%↑ '가속페달'…투싼·크레타 '쌍끌이'",
               "desc": "",
               "source": "더구루",
-              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xR2ZXUmtTRVlNOF9VeEhkZzRfbE9uNWpXSk5wdm1GTUtnQTMzUUlsSFRmdXV4b1ZydTBxT0E2UXc2SWl6ZHNOcnRFLVJLX3Q3aWd1OHBkV0NOU0VuLWU3SWZtNA?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zX3hvNjFQSmNSX29ydjhRNEUxN29XSjBsQmhSS19pTTdOX3JMZDdURjNUeHRJTUVtWGliWGpzWm5yazU1MjVYRWpkemFwczJZajlJUlNXd3FpV3ZnQVpnQw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
@@ -4816,8 +4826,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 262.8,
-        "change_pct": -0.21,
+        "current_rate": 263.0,
+        "change_pct": -0.14,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4844,7 +4854,7 @@
           279.8,
           265.3,
           259.6,
-          262.8
+          263.0
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/BRLKRW=X",
@@ -5150,8 +5160,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 353.7,
-        "change_pct": -3.55,
+        "current_rate": 353.9,
+        "change_pct": -3.49,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -5178,7 +5188,7 @@
           378.3,
           376.0,
           370.8,
-          353.7
+          353.9
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/SARKRW=X",
@@ -5484,8 +5494,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 12.73,
-        "change_pct": -3.22,
+        "current_rate": 12.74,
+        "change_pct": -3.15,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -5512,7 +5522,7 @@
           14.01,
           14.01,
           13.09,
-          12.73
+          12.74
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/RSDKRW=X",
@@ -5813,8 +5823,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 134.0,
-        "change_pct": -0.39,
+        "current_rate": 134.5,
+        "change_pct": -0.17,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -5841,11 +5851,11 @@
           148.9,
           143.4,
           135.2,
-          134.0
+          134.5
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/SEKKRW=X",
-        "asof": "2026-10-20",
+        "asof": "2026-10-19",
         "stale": false
       },
       "news": {
@@ -6735,6 +6745,17 @@
           "tag_class": "bg-indigo-100 text-indigo-700",
           "items": [
             {
+              "title": "싱가포르 고용시장 19분기 연속 성장…한국 청년의 해외취업 기회는 어디에 있나",
+              "desc": "",
+              "source": "코리아투데이뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1qaFAxWXd5NGh4WFg0c2x0R3BYbnZuZUdFcUpVQ0x4SC1lSlRRQmZnT2E3ODZYTjRxSVZuUkdZQTdUSFJuLU5R?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-14",
+              "law": false
+            },
+            {
               "title": "싱가포르 전국임금위, 저임금 노동자 6~8% 인상 권고…2021년 이후 최고",
               "desc": "",
               "source": "뉴스웍스",
@@ -6765,17 +6786,6 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-15",
-              "law": false
-            },
-            {
-              "title": "이미지보다 설명이 필요한 싱가포르 카지노 역사 게임 요소",
-              "desc": "",
-              "source": "Calgary Roughnecks",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUNuVWtjZm5rOE9sbTcyNGpET1ZodHJ2NFBfVFU5SmZnamNaRGtVMldYVzVyREFzRTY5RFBiOXZQQXVYdnc0TVo5VVY0UThjN2hjOUFPZ3NXSnFUY1ZDano1WGNrWVE5cGhCOHp1ZmlQQ01zQ2E1cnhvNC1TN1NNS0RfSEVnVU5wcjh2S3djX2UtUFJ3YkZlWEs1RzFHSGNWVkJQRExGOXJDT21NdV9UZW1CcUFYM3pMa2F2d1RB?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-19",
               "law": false
             }
           ]
@@ -6820,8 +6830,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 361.2,
-        "change_pct": -0.55,
+        "current_rate": 361.4,
+        "change_pct": -0.48,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6848,7 +6858,7 @@
           386.9,
           375.1,
           367.8,
-          361.2
+          361.4
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/AEDKRW=X",
@@ -7825,8 +7835,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 29.57,
-        "change_pct": -3.4,
+        "current_rate": 29.59,
+        "change_pct": -3.34,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -7853,7 +7863,7 @@
           32.82,
           31.67,
           31.03,
-          29.57
+          29.59
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/UAHKRW=X",
@@ -8158,7 +8168,7 @@
         "unit_base": 1,
         "decimals": 2,
         "current_rate": 24.42,
-        "change_pct": -1.85,
+        "change_pct": -1.84,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -8434,14 +8444,14 @@
               "law": false
             },
             {
-              "title": "李대통령, ‘국빈 방문’ 이집트 대통령에 국산 자전거 선물",
+              "title": "\"게살 버거 값 또 올랐네\"…웃자고 만든 '스폰지밥 마을'에 들썩인 이집트? [살람! 중동·아프리카]",
               "desc": "",
-              "source": "조선일보",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORF92aVR5NkJGc3dGVTF5dGNEY21EVTJsOFYxUUswNWh6SHJrSlZHNFRXWk9BWHpLTlpqRHpnVTBVTFBuMnpfUEJzN0RXcjVlRjM0RzhvRU9vVEJoUUVpbUNBaUxlcnNWVjNQSUx3dU9lN3Q0LVRWRmlmUEI3dmRRWko5T0k2eTFf?oc=5",
+              "source": "한국일보",
+              "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zeWpzN0kwdEJFZFZiS0tiUUp0dHJJWGxWaS1ZWl8ydDNMUnNXS0JtNnZsd0Z6ZFB3S0JTd1FQOWpsMHpnZDFEZzdSWEVpcEttSl9zY29mSENVa3BBUjdqczhqV2NvZzhmOUNpR3JB0gFzQVVfeXFMTkwzdEQxcXBKVHlfX3VoekNPSnl5NjhlSnFyQ0lBWUhsMWh0QjlRT0syQ3NtMkYyOGl1MVJBYUVnby1NNm8xZ2k4RTBFWlBCRnBJb3ZCZlpPYlBmTTM4Z0I3cXdxbXV6VnpncUJBOFZRWm13Yw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-08",
+              "published": "2026-10-20",
               "law": false
             }
           ]
@@ -9162,8 +9172,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 61.24,
-        "change_pct": -0.53,
+        "current_rate": 61.28,
+        "change_pct": -0.46,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -9190,7 +9200,7 @@
           67.69,
           66.17,
           62.77,
-          61.24
+          61.28
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CZKKRW=X",
@@ -9505,7 +9515,7 @@
         "unit_base": 100,
         "decimals": 1,
         "current_rate": 135.4,
-        "change_pct": -0.64,
+        "change_pct": -0.58,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -9841,8 +9851,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 294.1,
-        "change_pct": -3.44,
+        "current_rate": 294.3,
+        "change_pct": -3.37,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -9869,7 +9879,7 @@
           309.2,
           305.3,
           318.6,
-          294.1
+          294.3
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/KZTKRW=X",
@@ -10510,8 +10520,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 2,
-        "current_rate": 42.02,
-        "change_pct": 0.05,
+        "current_rate": 42.05,
+        "change_pct": 0.12,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -10538,7 +10548,7 @@
           45.5,
           43.02,
           40.51,
-          42.02
+          42.05
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/COPKRW=X",
@@ -11515,8 +11525,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 26.76,
-        "change_pct": -0.63,
+        "current_rate": 26.78,
+        "change_pct": -0.56,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -11543,7 +11553,7 @@
           29.91,
           28.54,
           27.56,
-          26.76
+          26.78
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/TRYKRW=X",
@@ -11630,6 +11640,16 @@
         ],
         "soc": [
           {
+            "title": "세계에서 가장 오래된 것으로 추정되는 난파선이 터키 해안에서 발견됐다.",
+            "source": "ABC News - Breaking News, Latest News and Videos",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZTZLdkNZbHM3UUNndHNFbUJRM3Z1WnZuaVJId1NfVzkzaU9XSVl3ZWd1QWt5ZE96UGdXd29zYWh5RGlnVHZfSjRmYnRzOTJwZVFSVGNNaDRhTmt6M056RjZHTm5SX0FHX0ZpVlBST01oVHBwNXBfVndCUVNRZmRoamFYY3VSblBwOW1NUzVKRDJxUjlrOEJTV0EwdU1JYzZTV2VxaXR0T2J5eUNRVlZMS1B4NNIBuAFBVV95cUxPQzRuSkE2cGx1NDVOUkQyeUh4QzVTOVdPT0hWNVhVOWNpRVJ6bmZZbEl5UHZOYmNqbzhwVE1GOE96SzZJSjNTM1R1dGVpNFlXOVZFaGFKM29zbFp1eVdYRHRsRnQ4NlpsTy15U3hUTUpBQmpYdkp5d3J5UXBVaFN3NmFUdjEteEJWOGNaX1BuTGk3bTN1ZnVQa3p3V1hoN1FfdzFDMlUyQWtqci1GbTRMaEtlR3VFOENo?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Shipwreck believed to be the world's oldest discovered off the coast of Turkey"
+          },
+          {
             "title": "에르도안은 터키가 50개국 이상에서 귈렌과 연계된 학교를 폐쇄하거나 인수했다고 밝혔습니다.",
             "source": "Turkish Minute",
             "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jc3JpcktlejhSRTB6ano1R3dvdzBMeEwyazNvYzgwM1lFaWhWSWpuMW5CMDg3eEZOTzRMSWctZjZONWE4UWg0Ui12RGFZVWlD0gHaAUFVX3lxTE5MVHVTLW5nQXlxRjlORUdGbTBjTURNYlp1WUNSQ3FWaHBwbm0zcHVSRGhjVXZvMzNhLWg2NUE3aWNEVWlybG1JQjA0LTh3bVRBbWp6SGR2WXZBV3dvVVNXRjRiaGNGSTJkRWJsQWhnNVlIa1B2a2IwNkQ1T1U0UVRNUGZnSExrYUpZS1JBZVNUZ0I1RnhNWmNfbndjZGhsZzRkcnQzTVRDY0JwSmhXV2dodFZXOW5nNXQzZUJlZ21GZlRmVm1CUWJmU2cxMXlDaGRaWGMzMFljb1Fn?oc=5",
@@ -11648,16 +11668,6 @@
             "lang": "en",
             "translated": true,
             "original_title": "International report - Shipping attacks threaten Turkey's resolve to keep warships out of Black Sea"
-          },
-          {
-            "title": "이스탄불 쇼핑센터에서 적대적인 폭도들의 표적이 된 이스라엘 여성",
-            "source": "www.israelhayom.com",
-            "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ016TjExZkZua2p0QmR6czJycVdoUmtKMWFJNklRMUkyZmR6eWx5YTg3UFZJQzhiNlNUZ1g3Uk1QLUdtVDJoQ2c3akp2aVhLY1Zzb3R4b2lzbVoxZWVYQmNKd21ic0Z2OXNSRnpXQ2M3bE9fVVZqeTlqanB3ZHgwMTdEWVlnR3RTOE1jOHRMQVlLSlE?oc=5",
-            "summary": "",
-            "published": "2026-10-19",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Israeli woman targeted by hostile mob in Istanbul shopping center"
           }
         ]
       },
@@ -11852,8 +11862,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1326.5,
-        "change_pct": -0.52,
+        "current_rate": 1327.4,
+        "change_pct": -0.45,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -11880,7 +11890,7 @@
           1420.6,
           1377.1,
           1350.5,
-          1326.5
+          1327.4
         ],
         "source": "Yahoo Finance (USD 1:1 고정환율)",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
@@ -12186,8 +12196,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 340.8,
-        "change_pct": -0.54,
+        "current_rate": 341.0,
+        "change_pct": -0.48,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -12214,7 +12224,7 @@
           380.3,
           367.9,
           350.9,
-          340.8
+          341.0
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/PLNKRW=X",
@@ -12987,16 +12997,6 @@
             "original_title": "In test for Australia’s best dishwasher detergent, tablets triumph and powders flounder"
           },
           {
-            "title": "호주 시골에서 의원이 공격한 후의 공포와 불신",
-            "source": "RFI",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEwtQ0U1X1IwRHBfaDFGdXdWU3FYUDBSOXlfa2wxWVZabHE3bUE3Nk9LdjQtVjNnRGZFMGtLOUJrcFVZUXFrdGZKYWtRUG1OeEFMTFY4LWRERzRWQTR2WWJMVU9rWU1xN3NJUTZnNWViWDZtcUx0SE13amlyWDRDbkZsLWUtOWJTVGtaX3NkNzQwaTdtc2RNS0c1aUVpdUFQTzA2WFJTdk5BX3ZCN3p1eFJtZw?oc=5",
-            "summary": "",
-            "published": "2026-10-20",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Horror and disbelief after lawmaker attacked in rural Australia"
-          },
-          {
             "title": "‘러브 아일랜드 오스트레일리아’ 스타는 모닥불에 떨어진 후 3도 화상, 뇌출혈을 겪습니다",
             "source": "Entertainment Weekly",
             "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGpzUlFWRlZLZ2RqTUFBREJNWFhMQW5CbzJ2d0ZDbnJaRENsbWdobDYzaFlWbllOQmlDT3RrX3RSY2otbHo1Zzdtd2JqaGp3MHd1V1FoSDVkdlFNanQ3SExrSVkxSFFKRzdUWjlZNHRjTHNmVnlEN3IwdGRFOXk3QVNReU1nSjB4dVljQzMtQ0plRU5qUHFFZW10VWpkczZhTWVrN19PQlBRaFR0TzQtZw?oc=5",
@@ -13005,6 +13005,16 @@
             "lang": "en",
             "translated": true,
             "original_title": "‘Love Island Australia’ star suffers third-degree burns, brain bleeding after falling into a bonfire"
+          },
+          {
+            "title": "호주 시골에서 의원이 공격한 후의 공포와 불신",
+            "source": "RFI",
+            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEwtQ0U1X1IwRHBfaDFGdXdWU3FYUDBSOXlfa2wxWVZabHE3bUE3Nk9LdjQtVjNnRGZFMGtLOUJrcFVZUXFrdGZKYWtRUG1OeEFMTFY4LWRERzRWQTR2WWJMVU9rWU1xN3NJUTZnNWViWDZtcUx0SE13amlyWDRDbkZsLWUtOWJTVGtaX3NkNzQwaTdtc2RNS0c1aUVpdUFQTzA2WFJTdk5BX3ZCN3p1eFJtZw?oc=5",
+            "summary": "",
+            "published": "2026-10-20",
+            "lang": "en",
+            "translated": true,
+            "original_title": "Horror and disbelief after lawmaker attacked in rural Australia"
           }
         ]
       },
