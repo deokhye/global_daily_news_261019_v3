@@ -373,6 +373,11 @@
       '<a class="ttl sm" href="' + esc(safeUrl(i.link)) + '" target="_blank" rel="noopener noreferrer">' + esc(i.title) + '</a>' +
       '<div class="meta"><span class="src">' + esc(i.source || '') + '</span><span>' + relDate(i.published) + '</span>' + trBadge(i) + '</div></div>';
   }
+  // 오늘의 브리핑에는 최근 기사만: 0 = 오늘만, 1 = 오늘·어제 (보고 있는 날짜 기준)
+  // 수집이 오전 5시 20분이라 '오늘만'으로 하면 자정~새벽 5시 기사만 남아 거의 비게 된다.
+  var BRIEF_MAX_DAYS = 1;
+  function isFresh(i) { var n = daysAgo(i.published); return n !== null && n <= BRIEF_MAX_DAYS; }
+  function freshItems(list) { return list.filter(isFresh); }
   function renderBriefing() {
     var scope = scopeCountries();
     // 국가별로 그날 가장 중요한 1건만: 안전은 심각도 → 최신순, HR은 법·제도 → 최신순
@@ -380,9 +385,9 @@
     var sevRank = function (i) { var k = SAFETY_PRIORITY.indexOf(normTag(i.safety_tag)); return k === -1 ? SAFETY_PRIORITY.length : k; };
     var safetyRows = [], hrRows = [];
     scope.forEach(function (c) {
-      var s = news(c).safe.slice().sort(function (a, b) { return sevRank(a) - sevRank(b) || newer(a, b); })[0];
+      var s = freshItems(news(c).safe).sort(function (a, b) { return sevRank(a) - sevRank(b) || newer(a, b); })[0];
       if (s) safetyRows.push({ item: s, country: c });
-      var r = trend(c, 'HR & LABOR').slice().sort(function (a, b) { return (b.law ? 1 : 0) - (a.law ? 1 : 0) || newer(a, b); })[0];
+      var r = freshItems(trend(c, 'HR & LABOR')).sort(function (a, b) { return (b.law ? 1 : 0) - (a.law ? 1 : 0) || newer(a, b); })[0];
       if (r) hrRows.push({ item: r, country: c });
     });
     var byDate = function (a, b) { return newer(a.item, b.item); };
@@ -390,7 +395,7 @@
     var hr = groupByLink(hrRows).sort(function (a, b) { return (b.item.law ? 1 : 0) - (a.item.law ? 1 : 0) || byDate(a, b); }).slice(0, 12);
 
     var alertCount = {};
-    COUNTRIES.forEach(function (c) { if (news(c).safe.length) alertCount[c.region] = (alertCount[c.region] || 0) + 1; });
+    COUNTRIES.forEach(function (c) { if (freshItems(news(c).safe).length) alertCount[c.region] = (alertCount[c.region] || 0) + 1; });
     var total = Object.keys(alertCount).reduce(function (s, k) { return s + alertCount[k]; }, 0);
     var orgs = [{ key: 'ALL', label: '전체', count: COUNTRIES.length, alerts: total }].concat(
       REGIONS.filter(function (r) { return r.key !== 'ALL'; }).map(function (r) {
@@ -415,20 +420,20 @@
       '현지 안전 동향 <span class="count" style="color:#fff;background:#B91C1C">' + safety.length + '</span></h2>' +
       '<span class="note">국가별 주요 안전 보도</span></div>';
     safetyHtml += safety.length ? safety.map(function (g) { return feedRow(g, safetyBadge(g.item.safety_tag), 'safe'); }).join('')
-      : '<p class="empty">선택한 조직에는 오늘 주요 안전 보도가 없습니다.</p>';
+      : '<p class="empty">선택한 조직에는 ' + (BRIEF_MAX_DAYS ? '오늘·어제' : '오늘') + ' 주요 안전 보도가 없습니다.</p>';
     safetyHtml += '</section>';
     var hrHtml = '<section class="' + cardCls + '" aria-labelledby="hrb-h"><div class="card-head"><h2 id="hrb-h">' +
       '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#3730A3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="8" r="3.5"></circle><path d="M2.5 20a6.5 6.5 0 0 1 13 0M16 4.5a3.5 3.5 0 0 1 0 7M18 14.5a6.5 6.5 0 0 1 3.5 5.5"></path></svg>' +
       'HR·노동 주요 소식 <span class="count b-law">' + hr.length + '</span></h2><span class="note">국가별 주요 HR 이슈</span></div>';
     hrHtml += hr.length ? hr.map(function (g) { return feedRow(g, g.item.law ? '<span class="badge b-law">법·제도</span>' : ''); }).join('')
-      : '<p class="empty">선택한 조직에는 새 HR·노동 소식이 없습니다.</p>';
+      : '<p class="empty">선택한 조직에는 ' + (BRIEF_MAX_DAYS ? '오늘·어제' : '오늘') + ' HR·노동 소식이 없습니다.</p>';
     hrHtml += '</section>';
 
-    var gi = realItems(DASHBOARD.global_industry);
+    var gi = freshItems(realItems(DASHBOARD.global_industry));
     var giHtml = '<section class="card" aria-labelledby="gi-h"><div class="card-head"><h2 id="gi-h"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#C2410C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 17h14M6 17l1.5-5h9L18 17"></path><path d="M7.5 12l1.5-4h6l1.5 4"></path><circle cx="8" cy="17.5" r="1.5"></circle><circle cx="16" cy="17.5" r="1.5"></circle></svg>글로벌 완성차·타이어 동향</h2><span class="note">업계 전반 뉴스 · 경쟁사 동향</span></div>';
     giHtml += gi.length ? '<div class="' + (wide ? 'gi-list' : 'grid-2') + '">' + gi.map(function (i) {
       return articleLink(i, metaLine(i, '<span class="badge b-ind">' + esc(i.tag || '완성차') + '</span>') + '<span class="ttl sm">' + esc(i.title) + '</span>');
-    }).join('') + '</div>' : '<p class="empty">수집된 글로벌 동향이 없습니다.</p>';
+    }).join('') + '</div>' : '<p class="empty">' + (BRIEF_MAX_DAYS ? '오늘·어제' : '오늘') + ' 보도된 글로벌 동향이 없습니다.</p>';
     giHtml += '</section>';
 
     h += wide
