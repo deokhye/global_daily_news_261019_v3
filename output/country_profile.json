@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T10:05:08+09:00",
+  "generated_at": "2026-10-20T14:15:20+09:00",
   "countries": [
     {
       "region": "한국",
@@ -33,7 +33,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -48,7 +48,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -63,7 +63,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -121,7 +121,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -136,7 +136,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -151,7 +151,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -206,7 +206,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -221,7 +221,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -236,7 +236,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -289,7 +289,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -304,7 +304,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -319,7 +319,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -374,7 +374,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -389,7 +389,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -404,7 +404,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -458,7 +458,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -473,7 +473,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -488,7 +488,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -541,7 +541,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -556,7 +556,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -571,7 +571,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 값 없음; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -624,7 +624,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -639,7 +639,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -654,7 +654,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -707,7 +707,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -722,7 +722,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -737,7 +737,7 @@
           "source": "보정 파일(HR 확인)",
           "source_url": "",
           "status": "법정 최저임금 없음 / 검토 필요: 보정 파일 확인일 비어 있음",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": "법정 최저임금 없음 — 단체협약으로 결정"
         },
@@ -790,7 +790,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -805,7 +805,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -820,7 +820,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -873,7 +873,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -888,7 +888,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -903,7 +903,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -956,7 +956,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -971,7 +971,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -986,7 +986,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1039,7 +1039,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1054,7 +1054,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1069,7 +1069,7 @@
           "source": "보정 파일(HR 확인)",
           "source_url": "",
           "status": "법정 최저임금 없음 / 검토 필요: 보정 파일 확인일 비어 있음",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": "법정 최저임금 없음 — 단체협약으로 결정"
         },
@@ -1122,7 +1122,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1137,7 +1137,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1152,7 +1152,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1205,7 +1205,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1220,7 +1220,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1235,7 +1235,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1288,7 +1288,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1303,7 +1303,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1318,7 +1318,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1371,7 +1371,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1386,7 +1386,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1401,7 +1401,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1454,7 +1454,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1469,7 +1469,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1484,7 +1484,7 @@
           "source": "보정 파일(HR 확인)",
           "source_url": "",
           "status": "법정 최저임금 없음 / 검토 필요: 보정 파일 확인일 비어 있음",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": "법정 최저임금 없음 — 단체협약으로 결정"
         },
@@ -1537,7 +1537,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1552,7 +1552,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1567,7 +1567,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1620,7 +1620,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1635,7 +1635,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1650,7 +1650,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1703,7 +1703,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1718,7 +1718,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1733,7 +1733,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1786,7 +1786,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1801,7 +1801,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1816,7 +1816,7 @@
           "source": "Eurostat (earn_mw_cur)",
           "source_url": "https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1869,7 +1869,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1884,7 +1884,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1899,7 +1899,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1952,7 +1952,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1967,7 +1967,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -1982,7 +1982,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2035,7 +2035,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2050,7 +2050,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2065,7 +2065,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2118,7 +2118,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2133,7 +2133,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2148,7 +2148,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2201,7 +2201,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2216,7 +2216,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2231,7 +2231,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2285,7 +2285,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2300,7 +2300,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2315,7 +2315,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2368,7 +2368,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2383,7 +2383,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2398,7 +2398,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2451,7 +2451,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2466,7 +2466,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2481,7 +2481,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2534,7 +2534,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2549,7 +2549,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2564,7 +2564,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2617,7 +2617,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2632,7 +2632,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2647,7 +2647,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2700,7 +2700,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2715,7 +2715,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2730,7 +2730,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2783,7 +2783,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2798,7 +2798,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2813,7 +2813,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2866,7 +2866,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2881,7 +2881,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2896,7 +2896,7 @@
           "source": "보정 파일(HR 확인)",
           "source_url": "",
           "status": "법정 최저임금 없음 / 검토 필요: 보정 파일 확인일 비어 있음",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": "법정 최저임금 없음 — 업종별 점진임금모델(PWM) 적용"
         },
@@ -2949,7 +2949,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2964,7 +2964,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -2979,7 +2979,7 @@
           "source": "보정 파일(HR 확인)",
           "source_url": "",
           "status": "법정 최저임금 없음 / 검토 필요: 보정 파일 확인일 비어 있음",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": "법정 최저임금 없음 — 자국민 대상 기준만 있음"
         },
@@ -3032,7 +3032,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -3047,7 +3047,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -3062,7 +3062,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -3115,7 +3115,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -3130,7 +3130,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -3145,7 +3145,7 @@
           "source": "보정 파일(HR 확인)",
           "source_url": "",
           "status": "법정 최저임금 없음 / 검토 필요: 보정 파일 확인일 비어 있음",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": "법정 최저임금 없음 — 자국민 대상 기준만 있음"
         },
@@ -3198,7 +3198,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/LP@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -3213,7 +3213,7 @@
           "source": "IMF WEO",
           "source_url": "https://www.imf.org/external/datamapper/NGDPD@WEO",
           "status": "정상",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
@@ -3228,7 +3228,7 @@
           "source": "",
           "source_url": "",
           "status": "미갱신 (보정 파일 없음; Eurostat 대상 아님; ILOSTAT 요청 실패: HTTP 400; 직전 값 없음)",
-          "collected_at": "2026-10-20 09:55:55",
+          "collected_at": "2026-10-20 14:14:49",
           "region": "",
           "note": ""
         },
