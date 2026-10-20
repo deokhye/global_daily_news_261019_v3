@@ -211,7 +211,8 @@
   var ARCHIVE_MIN_DATE = "{{ archive_min_date }}";
   var HIERARCHY = ['KR', 'US', 'DE', 'CN', 'HU', 'ID'];
   var TIER = { KR: 'HQ', US: '본부', DE: '본부', CN: '본부', HU: '공장', ID: '공장' };
-  var NEWS_TABS = [{ id: 'pol', label: '정치·경제' }, { id: 'soc', label: '사회·문화' }, { id: 'safe', label: '안전·재난' }];
+  var NEWS_TABS = [{ id: 'safe', label: '안전·재난' }, { id: 'pol', label: '정치·경제' }, { id: 'soc', label: '사회·문화' }];
+  var DEFAULT_TAB = NEWS_TABS[0].id;   // 국가 상세에서 처음 열리는 뉴스 탭
   // 현지 안전 동향 분류 (서로 겹치지 않는 5개). 앞의 3개는 빨강, 뒤의 2개는 주황 배지
   var SAFETY_RED = { '무력충돌·테러': 1, '자연재해': 1, '대형사고': 1 };
   // 과거 데이터의 옛 태그를 새 분류로 변환
@@ -317,7 +318,7 @@
     org: 'ALL',
     code: (byCode('KR') || COUNTRIES[0]).code,
     pickRegion: null,
-    tab: 'pol',
+    tab: DEFAULT_TAB,
     amount: '1',
     pickerOpen: storeGet('ghr.pickerOpen', '1') === '1'
   };
@@ -328,9 +329,10 @@
       if (m[1] && byCode(m[1])) {
         var nc = byCode(m[1]);
         if (state.pickRegion !== 'ALL' && state.pickRegion !== nc.region) state.pickRegion = null;
+        if (m[1] !== state.code) state.amount = '1';   // 국가가 바뀌면 환율 계산기 금액 초기화
         state.code = m[1];
       }
-      state.tab = m[2] || 'pol';
+      state.tab = m[2] || DEFAULT_TAB;
     } else {
       state.view = 'briefing';
     }
@@ -540,7 +542,7 @@
     var mw = minWageText(p.min_wage);
     var sites = (c.hubs && c.hubs.length) ? c.hubs : (c.offices || []);
     var nw = news(c);
-    if (!nw[state.tab]) state.tab = 'pol';
+    if (!nw[state.tab]) state.tab = DEFAULT_TAB;
     var hr = trend(c, 'HR & LABOR').slice().sort(byNewest), auto = trend(c, 'AUTO MARKET').slice().sort(byNewest);
     var official = Array.isArray(c.official_sources) ? c.official_sources : [];
 
