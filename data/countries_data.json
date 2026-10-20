@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T10:24:24.243358+09:00",
-  "generated_at_display": "2026-10-20 10:24 KST",
-  "as_of_display": "2026-10-20 10:24 KST 수집",
+  "generated_at": "2026-10-20T10:27:28.786494+09:00",
+  "generated_at_display": "2026-10-20 10:27 KST",
+  "as_of_display": "2026-10-20 10:27 KST 수집",
   "regions": [
     {
       "key": "ALL",
@@ -105,9 +105,9 @@
           "original_title": ""
         },
         {
-          "title": "프랑스, 일부 도시 통행금지령…총리 “비상사태 선포도 배재 안해”",
+          "title": "합참의장 “북, 적반하장식 전가 용납 못해…추가 도발시 단호히 대응”",
           "source": "한겨레",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcS1iMFl6cDdxR1RXaEc4N3Z1X1B2YzVVdnRSUUV3WVo3RVRrRUlHX1lfYzdDclJrSENBU0FIVXBaaFpzUUtRRnVERURqTG44YmpLdW1zTzM0TjcyeXhIcjUxUWNJZXdHWWowQXhTOVJvQUozaEgxeGl2TVpMaDNPenF3?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FbTVYY0NZN0hCQUxIWDV5cUlBTGxjNy0zQTlPZ0Y2bU9RaTFWN1BxTXJlcGwwS184M3lXWmhER1Body15WEI3Z1Z6Z0s2SlliNWtuT0FDZ3ltbGs2d3hNNmJiYkI4emdfd0FmR1JwZDdLTWt2?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "ko",
@@ -115,9 +115,9 @@
           "original_title": ""
         },
         {
-          "title": "[속보]‘장모 살해·아내 납치’ 피의자 김성우 구속 송치…수사·이혼 관련 ‘보복 범행’ 판단",
-          "source": "경향신문",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PNlRRZ2F3OWhwdFBwMU5aSG1YN3NVdlRaODJJbkpUN0hLX3ZwSkw2azVfQ1FxUnJ2YzdFRTY2YTdsejJwNFFHYzg3dGpURE9sZEZVRk1OSThUZ9IBX0FVX3lxTE9jMTVEQWoyWlcwaDk3VDFBSnQwUjM1eS1kWHNUb19mMzg5Q1I0eVUyY1Vfd2pkaUxnejN6c3BmejByZzUyR2pFRnk2bXQ1UEhEY3BibTRLTXV4bkVEdVIw?oc=5",
+          "title": "\"약탈 시위대에도, 방치한 국가에도 분노\"…프랑스 주민·상인 공분",
+          "source": "연합뉴스TV",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SZ2VhYk81X0lFbUlJbWhPVmwtNUxoQUo3cmpSeWI3Mng0YWVhdV9panZJYWxOcXJpZm1EVHlJalhMZ2Q1cVYzWjB4QzlTT2daX0kwMGlyWGNvbnN6M29qYVVjbkdTNjQ?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "ko",
@@ -189,16 +189,6 @@
               "published": "2026-10-07"
             },
             {
-              "title": "임단협 난항...HD현대중 7시간 파업 19~23일로 확대",
-              "desc": "",
-              "source": "KBC광주방송",
-              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhVksxTDd6bmxLWkZEUVpXUWR5WHFTM0VBUWFqVVVMUE12OHh3aEw4VE9lZUZhUEtINHJtR3NpRzUxYnBGLTAwazlBakNEeWxIOHlQVXVJYW5TSVNReUhjdg?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-18"
-            },
-            {
               "title": "이재용 막아선 삼성전자 동행노조 \"돌아온 것은 침묵과 부상\"",
               "desc": "",
               "source": "연합인포맥스",
@@ -207,6 +197,16 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-16"
+            },
+            {
+              "title": "임단협 난항...HD현대중 7시간 파업 19~23일로 확대",
+              "desc": "",
+              "source": "KBC광주방송",
+              "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhVksxTDd6bmxLWkZEUVpXUWR5WHFTM0VBUWFqVVVMUE12OHh3aEw4VE9lZUZhUEtINHJtR3NpRzUxYnBGLTAwazlBakNEeWxIOHlQVXVJYW5TSVNReUhjdg?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-18"
             },
             {
               "title": "포스코, 실질 임금 3% 인상안 제시...이제 노조 결단만 남았다",
@@ -259,8 +259,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1328.0,
-        "change_pct": -0.41,
+        "current_rate": 1327.2,
+        "change_pct": -0.47,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -287,7 +287,7 @@
           1420.6,
           1377.1,
           1350.5,
-          1328.0
+          1327.2
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
@@ -564,14 +564,14 @@
               "published": "2026-10-13"
             },
             {
-              "title": "“폭스바겐마저 이 지경”…中 저가차에 밀려 독일 공장 4곳 폐쇄 위기",
+              "title": "독일 車부품 '아이콘' 보쉬, 뉘른베르크 공장 절반 축소 '고강도 구조조정'",
               "desc": "",
-              "source": "마켓인",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qcE1MaEhzRlQwTVA3a0o5LW9UTzl6RmRmcS1RXzVja2FYZHg0VmtOekZKUWdDSmNMUnN0eER1Q081Mi1iY1ZXUFI0U1V5UHdvV3F3RldxUFBrUWlZcnE3SWltcUxOenRsLXpFNURfTXNDbFk?oc=5",
+              "source": "더구루",
+              "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EakVsYVRtNWI2Z0pIdE5hQVBiOVZkMUo3V0RmNlhMcEoxdEt0OE1EbGRMTkhoV0N2bjh4UWNtN2VzaEUxYm05VDdmMmhNbWQ1LS1haVNYYnlFX0hQM09NSzJ4aw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-12"
+              "published": "2026-10-06"
             }
           ]
         },
@@ -673,8 +673,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 198.8,
-        "change_pct": -0.25,
+        "current_rate": 198.7,
+        "change_pct": -0.31,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -701,7 +701,7 @@
           210.3,
           204.7,
           201.5,
-          198.8
+          198.7
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CNYKRW=X",
@@ -804,6 +804,16 @@
               "published": "2026-10-15"
             },
             {
+              "title": "이수만 걸그룹 '중국 보아' 모친, 임금체불 사과…\"딸과 무관\" - 머니투데이",
+              "desc": "",
+              "source": "머니투데이",
+              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nQWQ5VTgxNVFQMDhvMlhaQkRSVG1tN3lsOW1RTVFUelFOcE1FNFM1Qk5yR0FfdHNZZXEzNkE1UEZJU0Q0RXB2TVQ4UXlUOEcxTl93SDV0WVI1VnVaVEZwZV9hNE51U1pPN1FYYWVxcWNrNm_SAXhBVV95cUxNTGZndW5jcjh5VVpsRlhhQ0pjTlpObkhaNTlWRTdGWWx4VUpPamFIc3FjRFVGQkx2NjBCaGR4ek93X0lheVBfOGZHYlIwV1g5THRobElUVmJOZFdJMURHWVhvUVQtSGV6SkVwNWNKVFJmTHZ2X202Tk4?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-15"
+            },
+            {
               "title": "[구리 가격] 칠레 광산 파업·중국 수요에 상승…LME 재고 6주 최저",
               "desc": "",
               "source": "산업일보",
@@ -812,16 +822,6 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-12"
-            },
-            {
-              "title": "“굶주린 이에게 헬스장 권하는 소리”…중국 사회보험 가입 독려에 반발 확산",
-              "desc": "",
-              "source": "한겨레",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MZUsweGxhOEtCTmxid2diV0VvLUlxTThrdXRkeDZZOW11a1NYZVF3eHNiVDJOaC1Dc09XZHg0MHU0NmRsMlcwd3B5cTBFWTlpTng3Q2lNeWhDaFl5eTJmR0YwU2NGbUJEdXJ4Vw?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-13"
             },
             {
               "title": "소개 문구에서 놓치기 쉬운 조건, 중국계열 토토 먹튀",
@@ -871,8 +871,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 411.0,
-        "change_pct": -0.36,
+        "current_rate": 410.7,
+        "change_pct": -0.43,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -899,7 +899,7 @@
           452.0,
           437.5,
           417.9,
-          411.0
+          410.7
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/HUFKRW=X",
@@ -948,7 +948,7 @@
               "title": "BYD, 헝가리 이어 프랑스 공장 추진 유럽 현지화 속도낸다",
               "desc": "",
               "source": "쿠쿠쿠뉴스",
-              "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qVDN0Q0FFelRpdFVjaGRtRDJvekZndTYyaGxfYzZMVFlXZ0Q0VE1BWFRjd1JkQnZfWjh4MHd5eGpfTGhDaWRUR1p6djJPa3ZGcUVtQw?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45aUVQclBsLUszZnFjdVAydlMyU3BtcEpKbmR4MEFwOTFUZmR1TG5OeWNvT2tkOWJZRjlGZExaRmdLR0ZCdkJUc0NhczFsTUdZNjZOQjRpbHZEdw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
@@ -1072,8 +1072,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 3,
-        "current_rate": 7.4,
-        "change_pct": 0.24,
+        "current_rate": 7.401,
+        "change_pct": 0.25,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1100,7 +1100,7 @@
           7.871,
           7.757,
           7.525,
-          7.4
+          7.401
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/IDRKRW=X",
@@ -1223,14 +1223,14 @@
               "published": "2026-10-19"
             },
             {
-              "title": "인도네시아, EV 배터리 수출 개시; Prabowo, Tsingshan 및 Huafeng 투자 보장",
+              "title": "인도네시아가 노동 정책을 개혁합니다.",
               "desc": "",
-              "source": "IDNFinancials",
-              "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPY2M0Y2tmakxEam5fNHJiZTlwRk1pc3M1dl80VklWSEpNakhDN2VPRGo4dVRtNUtuY2pKdU5QOHFlaVkyZ1pvS1pzRGJJTnktRURMTVNaX0RiSFA0ZlgyVmxKVzVtVWxhXzdwWFc1S0h3SnF6LU15OUZNUGdLYzJIZ292bWtzOHE2VlhZQnVyemk5Uy1ncEJFOHVVeGp1V0NCMngzQ3d5LTlZRU9zOHNidndiZk9rMFhoNS00dndDdVNKTGFsMFItcnlNME51X3RUNy1UQkxBSGo4cnlZRlBaV095UXk0N3AxOGwyRVUyWEY0T1J2bzRfQ3RmRDFqeElILUQxaHhfNVJucVkxdGhENWZtRmdlY3p0NmtLdjR1TzJOd2xoZVVwZ2gzcjVHRTNVQkhsaS1nc2xkMFo0MkZlSHdsQUo0MjlfVmVFSEtxNFZEQQ?oc=5",
+              "source": "Vietnam.vn",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mQzlINjUxY0N0dFhOVTVKN3gwVVc3bHNrNWdXRUlyWmhlRG9hcTUzaDMzaTlCRkNYaGpaVWJZU3FyTnZGdi1TUXA4XzJxOXlpTXlOMVYydFR0WnZYOTFIcTBlREV5QjRNTXJsRG1ueDNOQQ?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
-              "published": "2026-10-08"
+              "published": "2026-10-14"
             }
           ]
         }
@@ -1465,8 +1465,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 40.78,
-        "change_pct": -0.91,
+        "current_rate": 40.77,
+        "change_pct": -0.92,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1493,7 +1493,7 @@
           43.83,
           43.52,
           42.4,
-          40.78
+          40.77
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/TWDKRW=X",
@@ -1663,8 +1663,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 16.04,
-        "change_pct": -1.75,
+        "current_rate": 16.03,
+        "change_pct": -1.8,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1691,7 +1691,7 @@
           17.82,
           16.18,
           16.13,
-          16.04
+          16.03
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/RUBKRW=X",
@@ -1858,8 +1858,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 279.8,
-        "change_pct": -0.51,
+        "current_rate": 279.6,
+        "change_pct": -0.58,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -1886,7 +1886,7 @@
           312.4,
           303.8,
           290.5,
-          279.8
+          279.6
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/RONKRW=X",
@@ -1905,16 +1905,6 @@
           "original_title": "Romania’s inflation problem: why disinflation is proving so difficult"
         },
         {
-          "title": "루마니아의 전자상거래 이행: 유럽 성장을 위한 전략적 허브",
-          "source": "DHL",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFM5LUJqYzI4ZmpvZDZFN1NGLWQ0NWdYTTIteFdRR2E1SjJiTG5zMHV0a1U4MGRHSGFkVHZEQXFJcHpnb2lSNUxlb3k4NmxjS0JRVEhEWjZXbXliWUtPS0xWdzFjTEoyYkJSa3NFNkFPb0dRRmxua2kwY0VaQUE4WUF4TDgzbHpBR1BCRC1EN0lVdTJVYy1qM0pYUWhDMExuZWY4N1h6NnRvZVljRHNWeG13?oc=5",
-          "summary": "",
-          "published": "2026-10-19",
-          "lang": "en",
-          "translated": true,
-          "original_title": "E-commerce fulfillment in Romania: a strategic hub for European growth"
-        },
-        {
           "title": "루마니아, 목표보다 훨씬 낮은 2040년 국채 3,600만 유로 매도",
           "source": "SeeNews",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1RpMjVscXcweDdkVFB4a3A0a3Ixb3ZlLU5sRktXSWNOamg2eFMzY2NmT0RzRFhXTTljZjFVVHp2bDllRWhkM1ZaMEI3YjZ3OHRvR1E2TFRfUUFoTHlhS2JHS240TmRkX29YUWZrMTdfdV8xZ21SRU1ZXzREYWlsbjNoTFV1bG9BT1Q5N0hvRm5aMHA1a0E4?oc=5",
@@ -1923,6 +1913,16 @@
           "lang": "en",
           "translated": true,
           "original_title": "Romania sells 36 mln euro of 2040 T-bonds, well below target"
+        },
+        {
+          "title": "루마니아는 스토리지 소유자가 수익성 있는 수익을 모색함에 따라 2026년에 663MW의 배터리를 추가합니다.",
+          "source": "Business Review",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWWJnMERqbjlEbGJJSUVaaTgzd3hRT0NZRjIzNU9DM183Z25rbUJqd051VzF2MGZXSFZXVi04cEQzdC1mSTAyLWdqX2Qyc1RfUm9meENmSWk5Q3FQOEZISXVMem4tcF82bjdXS3NqLWJURE9kUC02ZzlQQ2x2ZmRYN21HSUlGNVNLMmVDSFFrdUJTVHZvak5XV1BIV3BBdjJVcGoyeVZYQ3NoNFJjNS13S1N3ZnU5N3ZLM3JVX1h1TGZrLXM?oc=5",
+          "summary": "",
+          "published": "2026-10-19",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Romania Adds 663 MW of Batteries in 2026 as Storage Owners Look for Bankable Revenue"
         }
       ],
       "hr_trends": [
@@ -2057,7 +2057,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 325.3,
-        "change_pct": -0.38,
+        "change_pct": -0.37,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -2093,16 +2093,6 @@
       },
       "headlines": [
         {
-          "title": "국민이전계정: 고령화가 말레이시아 경제를 어떻게 변화시킬 것인가",
-          "source": "Welcome to the United Nations",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyY29DcTFuNGVSbEhqbWU1ai0wWFM0ZW5ZODdJVXFyR01JcmlsOEh3NFZ0YmUyQUpidDdkSlpjWm1DRndWaVJEeTRjZS02UnljSFRGZFp6S0U4YndOQ2c?oc=5",
-          "summary": "",
-          "published": "2026-10-19",
-          "lang": "en",
-          "translated": true,
-          "original_title": "National Transfer Accounts: How Ageing Will Reshape Malaysia's Economy"
-        },
-        {
           "title": "말레이시아: 민간 의료 보험 포기가 급증하자 정부는 저렴한 건강 보험 계획을 준비합니다.",
           "source": "Asia Insurance Review",
           "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNTGpyc2dTaHc3SXNzQUhjR0ZNekJnUDZydjRLY2liSzRjRHFybm5jQ0IzbW1CZGowVTV6Wll1YUtpUlRLaVhTUHNtVEVrcklYWnloLTJ4dVdGclVJdlo4a2ZOa0dnVFVtczV3Smd6bFNJTXYyaEN0SHFZX2R0alY5WXFza3VmRDllM2xUV0JtaHNibEdsaFZlZHZWaURMS2hIcWUtbVRzRHUtZFVwbG9EUUcxMUNwUXB5Umx0c2JrYngzcl9Kc3hUaXVGNGZVZjhuNTJzRVExWWR5LWk3Sm1yQWQ5UGNzb3o2TmppQVhjZGZjVzJDQzJjOU1TbmNUNkhVNUNqNEZUVXBzcjJka19Xb0I5T1RWcS1NZXFGQmJR?oc=5",
@@ -2121,6 +2111,16 @@
           "lang": "en",
           "translated": true,
           "original_title": "Malaysia's Export Growth Likely Slowed in September, WSJ Poll Shows -- Market Talk"
+        },
+        {
+          "title": "아시아 시장 요약(일본 엔화, 인도 주식, Nidec, 말레이시아 AI 수출)",
+          "source": "Gotrade",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb0tsU0FVbUlsN003QVNaUG5aTjJrRllLUmpNXzAxZkhwc3ROanB3RHZYSVNHa3NrOHVITHluVnVsaUZNRkM2SDVNcW5QaVl1NnpXeFV4S204THBHNER3R0xjNFVoSmt5cXdaVmdzZWxCWkFaZ3FVamp5SDlDdksyTWVGWkMtbDQwZE9DU3djenNkb0QtXzRlVUVoTksxdjE4RjNEQWNUeVRvXzA?oc=5",
+          "summary": "",
+          "published": "2026-10-20",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Asia Markets Roundup (Japan Yen, India Equities, Nidec, Malaysia AI Exports)"
         }
       ],
       "hr_trends": [
@@ -2177,6 +2177,16 @@
           "tag_class": "bg-indigo-100 text-indigo-700",
           "items": [
             {
+              "title": "토토 한국 말레이시아 : 실제 경험자들의 조언",
+              "desc": "",
+              "source": "Calgary Roughnecks",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTEpGRV9uV1NMeWg1WlRHa2hndTRRbzJ4aVhjaXJuQnhma2puX3Jac05udU9rMUNnR2JWU01kNk1SMTJuU0JDLURYUEstdzB4UV9Qc1VVcEtHdnlVUjktZUlybTh4eVFEbEZ2UWR1SFZTdWUyaFcxV19SZWlnSVNtcXNVekw2ZWlNYlozblAzVDRUUEpHYkZCN2RGenJxMUV5V1NWeXRYVW9SZk1VZnJmUnlxUFFrV09CTGJucTducWZtUQ?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-20"
+            },
+            {
               "title": "말레이시아가 2022년에 아시아 최고의 코치를 고용하기 위해 매달 15억 VND를 지출한다는 것이 사실인가요?",
               "desc": "",
               "source": "Vietnam.vn",
@@ -2195,16 +2205,6 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-16"
-            },
-            {
-              "title": "선택한 설정을 되돌리는 한국 말레이시아 축구 토토 옵션 안내",
-              "desc": "",
-              "source": "Calgary Roughnecks",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWWV2ZGItRDNfRTVldXNKRG02c3N3X0pCckxmc2dZRDZRckN0aVJGTU9oNlRtb1RqRDhrMm9mUlJ2UjFGVzhEOGcwNUdOeHdQVXJ0X0tLNml5Qk52UmF2SktBRVl4NndTdFEwdUJBR08xcmNEc3djSTJZc256MDJYaHluaVc1NHg2bGJXWldLNA?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-18"
             },
             {
               "title": "영천기업의 새로운 수출길 '태국·말레이시아' 개척",
@@ -2254,8 +2254,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 72.07,
-        "change_pct": -0.33,
+        "current_rate": 72.31,
+        "change_pct": -0.55,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -2282,11 +2282,11 @@
           81.9,
           80.86,
           74.85,
-          72.07
+          72.31
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/MXNKRW=X",
-        "asof": "2026-10-20",
+        "asof": "2026-10-19",
         "stale": false
       },
       "headlines": [
@@ -2452,8 +2452,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 135.7,
-        "change_pct": -4.08,
+        "current_rate": 135.6,
+        "change_pct": -4.14,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -2480,7 +2480,7 @@
           151.4,
           153.1,
           143.9,
-          135.7
+          135.6
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/MADKRW=X",
@@ -2650,8 +2650,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 3,
-        "current_rate": 5.129,
-        "change_pct": -0.42,
+        "current_rate": 5.126,
+        "change_pct": -0.48,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -2678,7 +2678,7 @@
           5.406,
           5.282,
           5.2,
-          5.129
+          5.126
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/VNDKRW=X",
@@ -2848,8 +2848,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 263.5,
-        "change_pct": 0.04,
+        "current_rate": 263.3,
+        "change_pct": -0.01,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -2876,7 +2876,7 @@
           279.8,
           265.3,
           259.6,
-          263.5
+          263.3
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/BRLKRW=X",
@@ -3043,8 +3043,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 353.9,
-        "change_pct": -3.48,
+        "current_rate": 353.7,
+        "change_pct": -3.54,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -3071,7 +3071,7 @@
           378.3,
           376.0,
           370.8,
-          353.9
+          353.7
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/SARKRW=X",
@@ -3433,8 +3433,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 134.0,
-        "change_pct": -0.4,
+        "current_rate": 133.9,
+        "change_pct": -0.47,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -3461,7 +3461,7 @@
           148.9,
           143.4,
           135.2,
-          134.0
+          133.9
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/SEKKRW=X",
@@ -3527,6 +3527,16 @@
               "published": "2026-10-10"
             },
             {
+              "title": "스웨덴 Pyrum 타이어 재활용 프로젝트, 2027년 1분기까지 진전 예상",
+              "desc": "",
+              "source": "Tyre & Rubber Recycling",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcnBLcHlzQzQ0VTBFXzdLVjV0bHBFNkc5QUNtTzFJcXZqVEhHQjdDbnA1X2pMTlhtMFpRT2RnQ25uYTFiYW15OUhGaHN6YnNCOG43aTlVZEZTQ2RpdzdYTzNCXzJJVzRjaGhtU0doTzdTUHVNZFc3Tl9EdVh1dE1ROThXTjBLSVV6QWJSVTFBck4yM2xPRGM2Z2o3YTNZOVU3Ymd5RHZPZW1RWGc5Y1pqMVV4WTdRUV9GS3hUR29KdV9TdTAxUng5TGVWQVU?oc=5",
+              "lang": "en",
+              "translated": true,
+              "original_title": "Pyrum Tyre Recycling Project in Sweden Expected to Advance by Q1 2027",
+              "published": "2026-10-09"
+            },
+            {
               "title": "Pyrum, 스웨덴 폐타이어 열분해 공장 발전",
               "desc": "",
               "source": "European Rubber Journal",
@@ -3535,16 +3545,6 @@
               "translated": true,
               "original_title": "Pyrum advances waste tire pyrolysis plant in Sweden",
               "published": "2026-10-06"
-            },
-            {
-              "title": "Volvo EX60에는 40,000건의 주문이 있지만 스웨덴 도로에는 291건만 있습니다.",
-              "desc": "",
-              "source": "AutoNext.co",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwY3M5eWh5M0lySjNQSTNnNFVhbzJaemRicnE3VVZkZzZvWThYYWRhcXJmalRiUUwzYzlETHQxWGhYNWdsZFVHc2E4Z01VRG9hV3piOFh2djRaTVdsWW1TaTM5SUFQbEpaajRqaTg3b1pEUjB0?oc=5",
-              "lang": "en",
-              "translated": true,
-              "original_title": "Volvo EX60 has 40,000 orders, but only 291 are on Swedish roads",
-              "published": "2026-10-15"
             }
           ]
         },
@@ -3860,6 +3860,16 @@
       },
       "headlines": [
         {
+          "title": "싱가포르, 안개와 관련된 인도네시아 기업에 대한 단속 확대",
+          "source": "Delco Times",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxdzFhY1VvZkZ3bTU0elYtNllFOER5S0d5OHpMbUJ4eXdGZl9DYXZYWnFkMlpYWHoxS3puU29mMHZLSUxjOHFkam42MVJSNk9YZnFXVmVZU0V1b2dTX3JKakVFMi1PWnNUcFJvMkFmTTE?oc=5",
+          "summary": "",
+          "published": "2026-10-20",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Singapore expands crackdown on Indonesian companies linked to haze"
+        },
+        {
           "title": "Listing Singapore는 지역 검색을 촉진하기 위해 비즈니스 디렉토리를 확장합니다.",
           "source": "MarTech Cube",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRUcwRmJWclFmUkJRYkstemRzYzlGZkwyXzRkUnRBSjhPZXhaaUNLeWkxZmxOOUZNN0pRUkc3Z0dEX2tLMkFXQ0NNR0w0TkNLTmhaY2pnTHp4NFZIR0NjV3Jvbmc3bnRlbnI5RjhSY2RWNUFDbnE5THVCS3FkZlkzR2RBS2V3b3RDdjdLVXBJdV9CMHgxXzcydVNhQnMySmc?oc=5",
@@ -3868,16 +3878,6 @@
           "lang": "en",
           "translated": true,
           "original_title": "Listing Singapore Expands Business Directory to Boost Local Discovery"
-        },
-        {
-          "title": "'그들은 조사를 피할 수 있다고 생각할 수도 있다': 싱가포르, 인도네시아 기업 스모그 단속",
-          "source": "Fortune",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FZk5DZEhOc29Wa3VvQjF1R21MWExJNGctSkQ1bW0yYWFwQ2NDamZVcmdtUFFBbEpNYWdOSWliS29heGFCd21GandqaTRNUThaMmlucXhEQlUyZDExdjlqc1RHREJEVE1FRl83ckNJR0dMei1sUkhyVy1ka3ZmS1U?oc=5",
-          "summary": "",
-          "published": "2026-10-20",
-          "lang": "en",
-          "translated": true,
-          "original_title": "'They may think that they can escape scrutiny': Singapore cracks down on Indonesian company smog"
         },
         {
           "title": "모닝랩 | 싱가포르 수출 예측 25%로 상향 조정; 나스닥, AI 기술 회복에 반등",
@@ -4018,8 +4018,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 361.6,
-        "change_pct": -0.43,
+        "current_rate": 361.4,
+        "change_pct": -0.49,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4046,7 +4046,7 @@
           386.9,
           375.1,
           367.8,
-          361.6
+          361.4
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/AEDKRW=X",
@@ -4206,7 +4206,7 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1766.0,
+        "current_rate": 1766.1,
         "change_pct": -0.68,
         "history_labels": [
           "2025년 11월",
@@ -4234,7 +4234,7 @@
           1912.2,
           1864.7,
           1787.6,
-          1766.0
+          1766.1
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/GBPKRW=X",
@@ -4596,8 +4596,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 29.6,
-        "change_pct": -3.3,
+        "current_rate": 29.58,
+        "change_pct": -3.35,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4624,7 +4624,7 @@
           32.82,
           31.67,
           31.03,
-          29.6
+          29.58
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/UAHKRW=X",
@@ -4794,8 +4794,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 24.66,
-        "change_pct": -0.9,
+        "current_rate": 24.64,
+        "change_pct": -0.96,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -4822,7 +4822,7 @@
           27.83,
           27.66,
           25.95,
-          24.66
+          24.64
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/EGPKRW=X",
@@ -5036,16 +5036,6 @@
           "original_title": "Business and politics: how Italy drives the transatlantic trade in the U.S."
         },
         {
-          "title": "이탈리아, 북부와 남부에서 동시 시위에 직면",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pRFJ6Q1VEel9ibE41Y1BVTUV6NkxUeERwdkhPMWZSZHNNbDlfMGFyalQ5cVVLMGJhb3dSY2M2VkVRekZXZnppbkIzcnk3Y2JyVGkxWG5UUkRfMXBLdHZGODlEeEh4bi1pY2ZCOEhhZTdIZElYbE14WTFYOE5FZw?oc=5",
-          "summary": "",
-          "published": "2026-10-20",
-          "lang": "en",
-          "translated": true,
-          "original_title": "Italy Faces Parallel Protests in the North and South"
-        },
-        {
           "title": "정부가 군대 배치를 준비함에 따라 밀라노의 명품 매장은 새로운 불안에 대한 두려움으로 문을 닫습니다.",
           "source": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWNGMGIzTEZwQjVYM1BNU3lmemRQZTk3OGtQTnhXTWM0UXRFNXhqTTg3WFFQYXdQWVZZTUphR3FGZDd3SE5RaGZlTWdWZ1owRklLYnQzSWN5RlotVjY2OEdjMUtsUGpMZ1RxRk5QS1djT3hnbDZwR0lUSmVwZjlYX243eGIyRHpKLV80NkltM3NmZkk2ZEl0WGNGVEpGRHZUei1LRGJYMnRoME0?oc=5",
@@ -5054,6 +5044,16 @@
           "lang": "en",
           "translated": true,
           "original_title": "Milan luxury shops close for fear of new unrest as government prepares to deploy troops"
+        },
+        {
+          "title": "이탈리아, 북부와 남부에서 동시 시위에 직면",
+          "source": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pRFJ6Q1VEel9ibE41Y1BVTUV6NkxUeERwdkhPMWZSZHNNbDlfMGFyalQ5cVVLMGJhb3dSY2M2VkVRekZXZnppbkIzcnk3Y2JyVGkxWG5UUkRfMXBLdHZGODlEeEh4bi1pY2ZCOEhhZTdIZElYbE14WTFYOE5FZw?oc=5",
+          "summary": "",
+          "published": "2026-10-20",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Italy Faces Parallel Protests in the North and South"
         }
       ],
       "hr_trends": [
@@ -5187,8 +5187,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 835.2,
-        "change_pct": -1.16,
+        "current_rate": 835.1,
+        "change_pct": -1.17,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -5215,7 +5215,7 @@
           886.8,
           860.1,
           858.3,
-          835.2
+          835.1
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/JPYKRW=X",
@@ -5382,8 +5382,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 61.26,
-        "change_pct": -0.49,
+        "current_rate": 61.2,
+        "change_pct": -0.59,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -5410,7 +5410,7 @@
           67.69,
           66.17,
           62.77,
-          61.26
+          61.2
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CZKKRW=X",
@@ -5778,8 +5778,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 293.8,
-        "change_pct": -3.53,
+        "current_rate": 293.7,
+        "change_pct": -3.59,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -5806,7 +5806,7 @@
           309.2,
           305.3,
           318.6,
-          293.8
+          293.7
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/KZTKRW=X",
@@ -6174,8 +6174,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 2,
-        "current_rate": 42.07,
-        "change_pct": 0.16,
+        "current_rate": 42.04,
+        "change_pct": 0.1,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6202,7 +6202,7 @@
           45.5,
           43.02,
           40.51,
-          42.07
+          42.04
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/COPKRW=X",
@@ -6212,8 +6212,8 @@
       "headlines": [
         {
           "title": "콜롬비아 판사, 박물관 청소로 인한 시위 촉발 후 역사적 유물 보호 명령",
-          "source": "Bozeman Daily Chronicle",
-          "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOOGtTT09FUTQwTTRCcEx4T3JYUEVkN19YWEpjNzFkcUdJekZ3N1R3OWsxMVhsMXkyaGpNWFJOb2FQU1RLYjdrZFZRaktFVjRDVzJwSUNqUWZDMUUtN294T1BKWUMtbTdJMnl0YndFRkR0M3l6STQzUGFLLWoxVXJLQVkzZVhFN0hndm01NFlXcFRiLUZLR3NtOW1MX0RCNzZIc01jN2NhY1dLQ29SVTZ4YnFtWVZQOGlfVERLTUJSM1FBbEI0WE5idnF5a3Z0X2cxRkhzWlRpdlc1M0NSZzVSQ0VIU2NJazhkSEVBMU42ZFRWcVN2QnA1cWFXZGo2c1FlNjZSeHFvWS1qYm50OUdMTUh0Q0hXU0dGdTVkNndWR3hfX0Qx?oc=5",
+          "source": "WRAL",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWdJY2Y1MmNDNmhXZXNNOFJWc1BSQnpTOVhBZ2NYczV1a3BJS0g4UmdLNndKTm4xWTNzSWNwYVp4d0ZyRXYyWmJteGVORGdwYVM3Q1JEazRlN1JsRXd3bjN3SHBQOElrbEVwY0llOS1ZNkFweEtLejdxRk00ZWt4OHFBUDBKemUyZGZhQnN6V1BERDdIdFFVN3dwWlVUUS1jeTJyMlMtNnE5R2czMUFlSVFJSkVfT2hxaHFvTGFYeXg0WmhRM3c?oc=5",
           "summary": "",
           "published": "2026-10-20",
           "lang": "en",
@@ -6568,7 +6568,7 @@
         "unit_base": 1,
         "decimals": 2,
         "current_rate": 39.53,
-        "change_pct": -0.88,
+        "change_pct": -0.86,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6762,8 +6762,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 26.79,
-        "change_pct": -0.49,
+        "current_rate": 26.78,
+        "change_pct": -0.55,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6790,7 +6790,7 @@
           29.91,
           28.54,
           27.56,
-          26.79
+          26.78
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/TRYKRW=X",
@@ -6960,8 +6960,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1328.0,
-        "change_pct": -0.41,
+        "current_rate": 1327.2,
+        "change_pct": -0.47,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -6988,7 +6988,7 @@
           1420.6,
           1377.1,
           1350.5,
-          1328.0
+          1327.2
         ],
         "source": "Yahoo Finance (USD 1:1 고정환율)",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
@@ -7155,8 +7155,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 341.0,
-        "change_pct": -0.46,
+        "current_rate": 340.8,
+        "change_pct": -0.54,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -7183,7 +7183,7 @@
           380.3,
           367.9,
           350.9,
-          341.0
+          340.8
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/PLNKRW=X",
@@ -7427,21 +7427,11 @@
               "title": "[김훈기 칼럼] 중국車, 유럽의 심장 독일과 프랑스까지 '거침없는 질주'",
               "desc": "",
               "source": "다나와 자동차",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fZ3lOTTIxSFU5b08tOFdLLUp5bG4tMnRGZGJzRmtiWFJmNU5KOENtV3VpVi1GZlZsNXFXY3hoODdyNVdReTFXb1pfTlZSNGdVa3FvQndOOVFFOTZoNkpZTVhzMnpTY3dLTlhZ?oc=5",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyZ0Y1Ym95dVhNdXRyYmdxZ0pQQUhOb0tCd1psczFnVkRJRldtQ1NwWkdHUF92WDU2UWdZMDlmU2VFdlVpVGQwVkczOUJWXzNKb0xyaG5DTzdzQWpNaVlsSnJrV3I0OXYyM2hWOURHdTVEdw?oc=5",
               "lang": "ko",
               "translated": false,
               "original_title": "",
               "published": "2026-10-14"
-            },
-            {
-              "title": "중국 자동차 “어쩌나···프랑스·독일, ‘유럽산’ 빗장",
-              "desc": "",
-              "source": "시사주간",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pbmZzUGgwVHRpMERZcjZfSVRya0UtcFBqOGxSMzZ6Rl8xWWlNcDh4NW8yaDBrcm91ZV96UHdJZWhweG4zRjR2bHdTOUFqT0U0djNIRWRiR2RPNzdQY3JpQ2xCb193TTVaNFZsaw?oc=5",
-              "lang": "ko",
-              "translated": false,
-              "original_title": "",
-              "published": "2026-10-19"
             },
             {
               "title": "독일·프랑스, 내연기관 규제 완화…영국산 차량도 ‘유럽산’ 지원",
@@ -7462,6 +7452,16 @@
               "translated": false,
               "original_title": "",
               "published": "2026-10-18"
+            },
+            {
+              "title": "유럽 판매 주춤한 제네시스…프랑스 매체, GV60 마그마 호평",
+              "desc": "",
+              "source": "KPI뉴스",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iSFNuMXplQzNYVFJGbjZuU3lmLTQ4WTE1MjdrUWNpTHkxazlvMDU5ZkFEZEhmWEdHTC1IQ2RwallzY2FlbWpCZDhtRFk4LVhaTjJodk1BTQ?oc=5",
+              "lang": "ko",
+              "translated": false,
+              "original_title": "",
+              "published": "2026-10-12"
             }
           ]
         },
@@ -7548,8 +7548,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 925.9,
-        "change_pct": -0.4,
+        "current_rate": 926.0,
+        "change_pct": -0.39,
         "history_labels": [
           "2025년 11월",
           "2025년 12월",
@@ -7576,7 +7576,7 @@
           998.1,
           986.1,
           944.2,
-          925.9
+          926.0
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/AUDKRW=X",
