@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T09:54:53.004826+09:00",
-  "generated_at_display": "2026-11-14 09:54 KST",
-  "as_of_display": "2026-11-14 09:54 KST 수집",
+  "generated_at": "2026-11-15T08:57:16.723965+09:00",
+  "generated_at_display": "2026-11-15 08:57 KST",
+  "as_of_display": "2026-11-15 08:57 KST 수집",
   "regions": [
     {
       "key": "ALL",
@@ -410,8 +410,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1333.8,
-        "change_pct": -0.19,
+        "current_rate": 1336.2,
+        "change_pct": 0.18,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -438,11 +438,11 @@
           1377.1,
           1350.5,
           1338.0,
-          1333.8
+          1336.2
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
-        "asof": "2026-11-13",
+        "asof": "2026-11-14",
         "stale": false
       },
       "news": {
@@ -1112,8 +1112,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 200.0,
-        "change_pct": -0.19,
+        "current_rate": 200.6,
+        "change_pct": 0.31,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -1140,11 +1140,11 @@
           204.7,
           201.5,
           200.9,
-          200.0
+          200.6
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CNYKRW=X",
-        "asof": "2026-11-13",
+        "asof": "2026-11-14",
         "stale": false
       },
       "news": {
@@ -1789,8 +1789,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 3,
-        "current_rate": 7.316,
-        "change_pct": -0.95,
+        "current_rate": 7.345,
+        "change_pct": 0.39,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -1817,11 +1817,11 @@
           7.757,
           7.525,
           7.37,
-          7.316
+          7.345
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/IDRKRW=X",
-        "asof": "2026-11-13",
+        "asof": "2026-11-14",
         "stale": false
       },
       "news": {
@@ -3479,7 +3479,7 @@
         "unit_base": 1,
         "decimals": 1,
         "current_rate": 327.0,
-        "change_pct": -0.33,
+        "change_pct": 0.0,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -3510,7 +3510,7 @@
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/MYRKRW=X",
-        "asof": "2026-11-13",
+        "asof": "2026-11-14",
         "stale": false
       },
       "news": {
@@ -3569,16 +3569,6 @@
             "lang": "en",
             "translated": true,
             "original_title": "Malaysia considers tighter chip-trade controls amid Megaspeed checks"
-          },
-          {
-            "title": "엔비디아 스캔들이 말레이시아의 AI 붐을 미국의 십자선에 넣을 수 있을까요?",
-            "source": "South China Morning Post",
-            "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzJmRW5FNTNJbWdCdHBhcnEyc3J3RHpwYk1LcmNRU0lYWDNPYm5MYmVfbHVyRUd3Ql9IUUhoaEVTQlZhaW5tU2N5N1ZtSFVtc2hkS05VRVV2eUEyTWY2dHBqZHZwMFp2THlQbmxzWEtFZ3VYYmx6Zy1zeVZtUjNIQTdUT1ZmR01aUUtNRkMyX2cyZXJ4Z2V0cHdMSzU5UVFYNU96clI3aDNyTWVNM1EtaDhNUdIBswFBVV95cUxOaGc0ZmJpSEo1bDRxajNwSlJnc0RKSEEyTzduUm5OVndhT3dNa25kZ1NVQ0E5Qmt3SmNCbTNfRjZzbVJBMTZyX2gwcW1QRnkzR1lmZ0FCTURaQjBsWWoybTFOZ1dMQ0phSnhoQzN5bnQybU5oWmpKeGVyeEc2Q29XVXdvQVdtWjUtNmFBZjFCRFZVb2dDbnBieFhkMlBKVmhrd2ZSQmhXckMta083d19VTnJ1SQ?oc=5",
-            "summary": "",
-            "published": "2026-11-13",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Could Nvidia scandal put Malaysia’s AI boom in US crosshairs?"
           },
           {
             "title": "말레이시아는 공적 자금을 위험에 빠뜨리지 않고 에어아시아를 지원하는 방법을 고민하고 있다고 전 장관이 말했습니다.",
@@ -3646,14 +3636,14 @@
           "original_title": "Malaysia considers tighter chip-trade controls amid Megaspeed checks"
         },
         {
-          "title": "엔비디아 스캔들이 말레이시아의 AI 붐을 미국의 십자선에 넣을 수 있을까요?",
-          "source": "South China Morning Post",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVzJmRW5FNTNJbWdCdHBhcnEyc3J3RHpwYk1LcmNRU0lYWDNPYm5MYmVfbHVyRUd3Ql9IUUhoaEVTQlZhaW5tU2N5N1ZtSFVtc2hkS05VRVV2eUEyTWY2dHBqZHZwMFp2THlQbmxzWEtFZ3VYYmx6Zy1zeVZtUjNIQTdUT1ZmR01aUUtNRkMyX2cyZXJ4Z2V0cHdMSzU5UVFYNU96clI3aDNyTWVNM1EtaDhNUdIBswFBVV95cUxOaGc0ZmJpSEo1bDRxajNwSlJnc0RKSEEyTzduUm5OVndhT3dNa25kZ1NVQ0E5Qmt3SmNCbTNfRjZzbVJBMTZyX2gwcW1QRnkzR1lmZ0FCTURaQjBsWWoybTFOZ1dMQ0phSnhoQzN5bnQybU5oWmpKeGVyeEc2Q29XVXdvQVdtWjUtNmFBZjFCRFZVb2dDbnBieFhkMlBKVmhrd2ZSQmhXckMta083d19VTnJ1SQ?oc=5",
+          "title": "말레이시아는 공적 자금을 위험에 빠뜨리지 않고 에어아시아를 지원하는 방법을 고민하고 있다고 전 장관이 말했습니다.",
+          "source": "The Japan Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX0RNVzBiUEZCamxCN1FENGZiSVVqQzhwWmtJM3Fob05MWnpBWnAtWnltaHk3elJ3WTZqRWM1VDFZNHVXalhhblZpN1hKUHQxUVAwbU1LRzc1cG1jbE5FaDR4bk43RFJhS0ZUN05xeUFPelRhY1ltN2xDRm1tNWgzSEdfbzZORk0?oc=5",
           "summary": "",
           "published": "2026-11-13",
           "lang": "en",
           "translated": true,
-          "original_title": "Could Nvidia scandal put Malaysia’s AI boom in US crosshairs?"
+          "original_title": "Malaysia weighing how to aid AirAsia without risking public funds, ex-minister says"
         }
       ],
       "official_sources": [
@@ -3924,16 +3914,6 @@
           }
         ],
         "soc": [
-          {
-            "title": "이탈리아에 본사를 둔 Kappa FuturFestival이 이번 주말 멕시코에서 데뷔합니다. 혼잡한 시장에서 그루브를 찾을 수 있을까요?",
-            "source": "Billboard",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcjJlQXpObExhN2M2MG9BdlVSc0U2NE9WVS1hVFBERWFKSWhvWDJBcDJxTEVYR19mU2NVYXZKZGhhdW1VVk4tZWZhSHJuM08yNTVwRmpRQkh4N2xMQTNJUmIyWW5JNjQxYmxPbHAtdnJ1VVUwZF9HOUc5WU5yTS1XMmVPNDJqQjlhSHlJX0tzNFVmS0VXaFgwanJGMnlCVFkxVUN3dFZYM0V6WVdYUFVBcGdlOXA?oc=5",
-            "summary": "",
-            "published": "2026-11-14",
-            "lang": "en",
-            "translated": true,
-            "original_title": "The Italy-Based Kappa FuturFestival Debuts in Mexico This Weekend — Can It Find Its Groove in a Crowded Market?"
-          },
           {
             "title": "미국 대법원, 트럼프 대통령의 미국-멕시코 국경 망명 금지 조치 고려하기로 합의",
             "source": "The Guardian",
@@ -8601,16 +8581,6 @@
         ],
         "soc": [
           {
-            "title": "이탈리아에 본사를 둔 Kappa FuturFestival이 이번 주말 멕시코에서 데뷔합니다. 혼잡한 시장에서 그루브를 찾을 수 있을까요?",
-            "source": "Billboard",
-            "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcjJlQXpObExhN2M2MG9BdlVSc0U2NE9WVS1hVFBERWFKSWhvWDJBcDJxTEVYR19mU2NVYXZKZGhhdW1VVk4tZWZhSHJuM08yNTVwRmpRQkh4N2xMQTNJUmIyWW5JNjQxYmxPbHAtdnJ1VVUwZF9HOUc5WU5yTS1XMmVPNDJqQjlhSHlJX0tzNFVmS0VXaFgwanJGMnlCVFkxVUN3dFZYM0V6WVdYUFVBcGdlOXA?oc=5",
-            "summary": "",
-            "published": "2026-11-14",
-            "lang": "en",
-            "translated": true,
-            "original_title": "The Italy-Based Kappa FuturFestival Debuts in Mexico This Weekend — Can It Find Its Groove in a Crowded Market?"
-          },
-          {
             "title": "이탈리아: 더 나은 미래를 위한 청소년 시위",
             "source": "DW.com",
             "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mS0pJb3Z6VEhkQVJDU2RVcWpuS3FyZThHR1BNU2FsVS0wNjg2MXMyT0RaM3JONUNVc0YtMjVIOV9lNFBmOFRjV0NfekR4ZDh1Uk00MlpKQmpuT2UzcEo2UkJqNThoQzNROEJuUnlobTB2RjhWT1VHTnJB?oc=5",
@@ -11588,16 +11558,6 @@
         ],
         "pol": [
           {
-            "title": "인플레이션이 터키를 사로잡으면서 에르도안은 자금 스캔들을 억제하기 위해 고군분투하고 있습니다.",
-            "source": "Al-Monitor",
-            "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHJxVVNjaDZWZUZKRDlDRnVWa2doNk94TjRzRl9Wcnc1QURNaEZhaGdrXzY4U3JNTnpPMUlhMVRlTW1YY052M2o3Y0FZb0pMSzBDU3dhdDdIMld0ZC00Q2NoWXg2Um5KSGgySjctcUFuaE5MTlZCaWlXTzU0V0FMYjZSNjk1N2hXQjZQbHpXM0dWX01MM2F3ZEpNZFQySWFiTGM2WFBYTUNCUQ?oc=5",
-            "summary": "",
-            "published": "2026-11-14",
-            "lang": "en",
-            "translated": true,
-            "original_title": "As inflation grips Turkey, Erdogan struggles to contain fund scandal"
-          },
-          {
             "title": "사우디아라비아는 이집트가 대화를 요구함에 따라 이란의 무역로와 국경 통과를 차단하도록 파키스탄과 터키를 설득하라는 미국의 압력을 받고 있습니다.",
             "source": "Business Insider Africa",
             "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXpjYnFSbjY2VEFlcGpxWE1DTGpfLWNIcVhFREJvdWNESFBackkzNmRFSUN6WjZZcGhWQkQ2ME1DeDRKVzJBS2FOUGYyVXVUQ1NGOTh4ZHRCblFNX2F6WkRqZXV4Tk8wbFVkS09STzNOd2pzRzMzTkx3dW5lSWlDU1U3YnlaSEpCbGo1dzltMXRrcVI1S1NOZ0xPMU1NSFBYWTJ6bDQtUnVxdlgtTzZoZ1M3VWFiYXBOcXJORU40M2o0UmtQQkQ5RDFyd2htc2hXX08tdmpR?oc=5",
@@ -11663,16 +11623,6 @@
       },
       "headlines": [
         {
-          "title": "인플레이션이 터키를 사로잡으면서 에르도안은 자금 스캔들을 억제하기 위해 고군분투하고 있습니다.",
-          "source": "Al-Monitor",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHJxVVNjaDZWZUZKRDlDRnVWa2doNk94TjRzRl9Wcnc1QURNaEZhaGdrXzY4U3JNTnpPMUlhMVRlTW1YY052M2o3Y0FZb0pMSzBDU3dhdDdIMld0ZC00Q2NoWXg2Um5KSGgySjctcUFuaE5MTlZCaWlXTzU0V0FMYjZSNjk1N2hXQjZQbHpXM0dWX01MM2F3ZEpNZFQySWFiTGM2WFBYTUNCUQ?oc=5",
-          "summary": "",
-          "published": "2026-11-14",
-          "lang": "en",
-          "translated": true,
-          "original_title": "As inflation grips Turkey, Erdogan struggles to contain fund scandal"
-        },
-        {
           "title": "사우디아라비아는 이집트가 대화를 요구함에 따라 이란의 무역로와 국경 통과를 차단하도록 파키스탄과 터키를 설득하라는 미국의 압력을 받고 있습니다.",
           "source": "Business Insider Africa",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXpjYnFSbjY2VEFlcGpxWE1DTGpfLWNIcVhFREJvdWNESFBackkzNmRFSUN6WjZZcGhWQkQ2ME1DeDRKVzJBS2FOUGYyVXVUQ1NGOTh4ZHRCblFNX2F6WkRqZXV4Tk8wbFVkS09STzNOd2pzRzMzTkx3dW5lSWlDU1U3YnlaSEpCbGo1dzltMXRrcVI1S1NOZ0xPMU1NSFBYWTJ6bDQtUnVxdlgtTzZoZ1M3VWFiYXBOcXJORU40M2o0UmtQQkQ5RDFyd2htc2hXX08tdmpR?oc=5",
@@ -11691,6 +11641,16 @@
           "lang": "en",
           "translated": true,
           "original_title": "Turkey, Qatar sign mutual defence agreement, pledge unified stance against attack"
+        },
+        {
+          "title": "터키와 카타르가 상호방위협정을 체결했다.",
+          "source": "Middle East Eye",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTkRadDNHVzVHYmsxT0E1eUU4dEtqeW1fLVN3X3Jmck5sWmJULVFkamlncnYyS1hjcTN0di1mWW9pNndRRzVxUlV5UVNnNHVLWUxkcTNfT2IydGJJVUNldWVpZGVYYWZtTEN1UllMcm4tOW1aS09wOXBKNGlqWWVwTTkzcC01VGhU?oc=5",
+          "summary": "",
+          "published": "2026-11-14",
+          "lang": "en",
+          "translated": true,
+          "original_title": "Turkey and Qatar sign mutual defence agreement"
         }
       ],
       "official_sources": [
@@ -11852,8 +11812,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1333.8,
-        "change_pct": -0.19,
+        "current_rate": 1336.2,
+        "change_pct": 0.18,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -11880,11 +11840,11 @@
           1377.1,
           1350.5,
           1338.0,
-          1333.8
+          1336.2
         ],
         "source": "Yahoo Finance (USD 1:1 고정환율)",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
-        "asof": "2026-11-13",
+        "asof": "2026-11-14",
         "stale": false
       },
       "news": {
