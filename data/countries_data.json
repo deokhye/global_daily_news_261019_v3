@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T12:34:48.665608+09:00",
-  "generated_at_display": "2026-11-25 12:34 KST",
-  "as_of_display": "2026-11-25 12:34 KST 수집",
+  "generated_at": "2026-11-26T11:53:24.653331+09:00",
+  "generated_at_display": "2026-11-26 11:53 KST",
+  "as_of_display": "2026-11-26 11:53 KST 수집",
   "regions": [
     {
       "key": "ALL",
@@ -410,8 +410,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1344.6,
-        "change_pct": 0.27,
+        "current_rate": 1340.5,
+        "change_pct": -0.16,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -438,11 +438,11 @@
           1377.1,
           1350.5,
           1338.0,
-          1344.6
+          1340.5
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -750,8 +750,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1472.0,
-        "change_pct": 0.73,
+        "current_rate": 1469.6,
+        "change_pct": -0.1,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -778,11 +778,11 @@
           1580.0,
           1531.4,
           1495.9,
-          1472.0
+          1469.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -1112,8 +1112,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 201.7,
-        "change_pct": 0.25,
+        "current_rate": 201.1,
+        "change_pct": -0.16,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -1140,11 +1140,11 @@
           204.7,
           201.5,
           200.9,
-          201.7
+          201.1
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CNYKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -1449,8 +1449,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 398.2,
-        "change_pct": 0.23,
+        "current_rate": 395.1,
+        "change_pct": -0.95,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -1477,11 +1477,11 @@
           437.5,
           417.9,
           409.7,
-          398.2
+          395.1
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/HUFKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -1789,8 +1789,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 3,
-        "current_rate": 7.388,
-        "change_pct": 0.22,
+        "current_rate": 7.137,
+        "change_pct": -3.19,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -1817,7 +1817,7 @@
           7.757,
           7.525,
           7.37,
-          7.388
+          7.137
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/IDRKRW=X",
@@ -2123,8 +2123,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1472.0,
-        "change_pct": 0.73,
+        "current_rate": 1469.6,
+        "change_pct": -0.1,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -2151,11 +2151,11 @@
           1580.0,
           1531.4,
           1495.9,
-          1472.0
+          1469.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -2465,8 +2465,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 40.69,
-        "change_pct": -0.28,
+        "current_rate": 40.62,
+        "change_pct": -0.37,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -2493,11 +2493,11 @@
           43.52,
           42.4,
           41.04,
-          40.69
+          40.62
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/TWDKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -2802,8 +2802,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 16.38,
-        "change_pct": 0.04,
+        "current_rate": 16.37,
+        "change_pct": -0.02,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -2830,7 +2830,7 @@
           16.18,
           16.13,
           16.47,
-          16.38
+          16.37
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/RUBKRW=X",
@@ -3136,8 +3136,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 275.7,
-        "change_pct": 0.7,
+        "current_rate": 275.3,
+        "change_pct": -0.18,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -3164,11 +3164,11 @@
           303.8,
           290.5,
           280.8,
-          275.7
+          275.3
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/RONKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -3401,17 +3401,6 @@
               "law": false
             },
             {
-              "title": "러시아: 유럽 연합이 입국 비자 금지 조치를 취하고 있습니다. 루마니아, 유로 U-14 태권도 챔피언에 대한 비자 거부; IIHF의 컴백 영상",
-              "desc": "",
-              "source": "The Sports Examiner",
-              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQW5abV9RSmV1N2RxdDUxN0xOMGo2TFZIODhta0hXVDk1RGs1RG9mb3FmWG5wZzJfV3liUWpoOTl6Q2d1WTRaekhBNjdLQjBVSWs2NnAxNDhETUJETjJMNm96UHRqRDgyZGtfRnNKOFdfV3VpenhGNW12cl9VT20zNUQ2QVJLZC1KdnlURWdUMGEwYUNtUkltMDFadVhTUFNmTmVwbU83dE1aX2kyQ0x3OWpCY3lmSzFLcnhReHNDRVJYYkktLWtZcGhTQ1ppczdBU29ZSWRvcGdyZVgzRUkzV1Bsc18wS0lKcHoxUEt3NnY1UQ?oc=5",
-              "lang": "en",
-              "translated": true,
-              "original_title": "RUSSIA: European Union moving towards entry-visa ban; Romania refuses visas for Euro U-14 taekwondo champs; IIHF’s comeback video",
-              "published": "2026-11-22",
-              "law": false
-            },
-            {
               "title": "루마니아, 정부 이메일 겨냥한 러시아 사이버 공격 중단",
               "desc": "",
               "source": "The Record from Recorded Future News",
@@ -3478,8 +3467,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 326.8,
-        "change_pct": 0.48,
+        "current_rate": 325.7,
+        "change_pct": -0.17,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -3506,11 +3495,11 @@
           342.1,
           330.9,
           329.4,
-          326.8
+          325.7
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/MYRKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -3810,8 +3799,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 69.08,
-        "change_pct": -1.24,
+        "current_rate": 68.42,
+        "change_pct": -0.91,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -3838,11 +3827,11 @@
           80.86,
           74.85,
           70.97,
-          69.08
+          68.42
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/MXNKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -4152,8 +4141,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 134.8,
-        "change_pct": 0.86,
+        "current_rate": 134.1,
+        "change_pct": -3.26,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -4180,11 +4169,11 @@
           153.1,
           143.9,
           136.1,
-          134.8
+          134.1
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/MADKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -4484,8 +4473,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 3,
-        "current_rate": 5.217,
-        "change_pct": 0.27,
+        "current_rate": 5.209,
+        "change_pct": 0.12,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -4512,7 +4501,7 @@
           5.282,
           5.2,
           5.186,
-          5.217
+          5.209
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/VNDKRW=X",
@@ -4816,8 +4805,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 227.8,
-        "change_pct": 0.7,
+        "current_rate": 227.4,
+        "change_pct": 0.53,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -4844,7 +4833,7 @@
           265.3,
           259.6,
           248.5,
-          227.8
+          227.4
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/BRLKRW=X",
@@ -5150,8 +5139,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 358.4,
-        "change_pct": -3.1,
+        "current_rate": 369.6,
+        "change_pct": -0.06,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -5178,7 +5167,7 @@
           376.0,
           370.8,
           367.8,
-          358.4
+          369.6
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/SARKRW=X",
@@ -5484,8 +5473,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 12.49,
-        "change_pct": -3.36,
+        "current_rate": 12.57,
+        "change_pct": 0.61,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -5512,11 +5501,11 @@
           14.01,
           13.09,
           12.79,
-          12.49
+          12.57
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/RSDKRW=X",
-        "asof": "2026-11-24",
+        "asof": "2026-11-25",
         "stale": false
       },
       "news": {
@@ -5813,8 +5802,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 131.1,
-        "change_pct": 0.45,
+        "current_rate": 131.0,
+        "change_pct": -0.07,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -5841,11 +5830,11 @@
           143.4,
           135.2,
           135.9,
-          131.1
+          131.0
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/SEKKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -6147,8 +6136,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1472.0,
-        "change_pct": 0.73,
+        "current_rate": 1469.6,
+        "change_pct": -0.1,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -6175,11 +6164,11 @@
           1580.0,
           1531.4,
           1495.9,
-          1472.0
+          1469.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -6486,8 +6475,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1041.8,
-        "change_pct": 0.33,
+        "current_rate": 1039.2,
+        "change_pct": -0.21,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -6514,11 +6503,11 @@
           1080.4,
           1057.3,
           1044.9,
-          1041.8
+          1039.2
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/SGDKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -6567,16 +6556,6 @@
             "lang": "en",
             "translated": true,
             "original_title": "AI Boost Puts Singapore Economy on Track for Best Performance in Years"
-          },
-          {
-            "title": "트럼프 행정부, 엔비디아 스캔들의 중심에 있는 싱가포르 기업 Megaspeed에 제재 부과",
-            "source": "The New York Times",
-            "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
-            "summary": "",
-            "published": "2026-11-24",
-            "lang": "en",
-            "translated": true,
-            "original_title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal"
           },
           {
             "title": "미국 블랙리스트에 오른 후 엔비디아와 연결된 Megaspeed를 조사하는 싱가포르",
@@ -6644,16 +6623,6 @@
           "original_title": "AI Boost Puts Singapore Economy on Track for Best Performance in Years"
         },
         {
-          "title": "트럼프 행정부, 엔비디아 스캔들의 중심에 있는 싱가포르 기업 Megaspeed에 제재 부과",
-          "source": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
-          "summary": "",
-          "published": "2026-11-24",
-          "lang": "en",
-          "translated": true,
-          "original_title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal"
-        },
-        {
           "title": "미국 블랙리스트에 오른 후 엔비디아와 연결된 Megaspeed를 조사하는 싱가포르",
           "source": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3FSU3Z2eG9hMGxOaUJ3VkptMG9CbEx0cHhoQzZ6RC1uRXV0OWtRa3k1VzYtQkhMRUVBVzE5QlAwSktWS1IzN2o3SFRWalVsQ1UzMkNkYXM0TEdJUzhYMTU2VjNtdVkyWTBpRGVlbUMxREdoS1ZmeUUwbElCcF9CSmxHVDBhdVJNM3FfOGVNU1YwUEpwLUw0MXVBUUdKbDF5VjFHVHY5c0FGcFNxWGZCbQ?oc=5",
@@ -6662,6 +6631,16 @@
           "lang": "en",
           "translated": true,
           "original_title": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting"
+        },
+        {
+          "title": "중국과 싱가포르, 기업에 대한 위안화 자금 조달 확대",
+          "source": "Euronews.com",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHRhbXo1VUFpaE40ZVlkdm95cU56bzRHalVXZ0ZUb1FEUERKWjN6RGhoWDZpZEZSV1YyNU1RVFVyT1Q0ZVNIQ1BUMVpQM2cxR09LbWdXM3ZHX0NoWjBMZmFpOUtkY3ZZcWhMYmZhZjdDX3lOY1hOVWFVUU5hQW9oR0ZrNXB2azlnYU14VS1td1hwODlpSGpVeWJ4Y1JBeUFDU2hUb21xcnFIZmdpLU1XSTRMS2RyZkU?oc=5",
+          "summary": "",
+          "published": "2026-11-24",
+          "lang": "en",
+          "translated": true,
+          "original_title": "China and Singapore expand yuan financing for businesses"
         }
       ],
       "official_sources": [
@@ -6820,8 +6799,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 366.1,
-        "change_pct": 0.24,
+        "current_rate": 365.0,
+        "change_pct": -0.19,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -6848,11 +6827,11 @@
           375.1,
           367.8,
           364.4,
-          366.1
+          365.0
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/AEDKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -7152,8 +7131,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1759.3,
-        "change_pct": 0.67,
+        "current_rate": 1755.8,
+        "change_pct": -0.26,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -7180,11 +7159,11 @@
           1864.7,
           1787.6,
           1789.0,
-          1759.3
+          1755.8
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/GBPKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -7486,8 +7465,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1472.0,
-        "change_pct": 0.73,
+        "current_rate": 1469.6,
+        "change_pct": -0.1,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -7514,11 +7493,11 @@
           1580.0,
           1531.4,
           1495.9,
-          1472.0
+          1469.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -7825,8 +7804,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 29.83,
-        "change_pct": -2.6,
+        "current_rate": 30.54,
+        "change_pct": -0.27,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -7853,7 +7832,7 @@
           31.67,
           31.03,
           30.28,
-          29.83
+          30.54
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/UAHKRW=X",
@@ -8157,8 +8136,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 24.82,
-        "change_pct": 0.34,
+        "current_rate": 24.78,
+        "change_pct": 0.16,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -8185,7 +8164,7 @@
           27.66,
           25.95,
           23.9,
-          24.82
+          24.78
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/EGPKRW=X",
@@ -8486,8 +8465,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1472.0,
-        "change_pct": 0.73,
+        "current_rate": 1469.6,
+        "change_pct": -0.1,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -8514,11 +8493,11 @@
           1580.0,
           1531.4,
           1495.9,
-          1472.0
+          1469.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -8828,8 +8807,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 842.2,
-        "change_pct": -0.12,
+        "current_rate": 840.2,
+        "change_pct": -0.33,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -8856,11 +8835,11 @@
           860.1,
           858.3,
           847.3,
-          842.2
+          840.2
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/JPYKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -9162,8 +9141,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 60.35,
-        "change_pct": 0.71,
+        "current_rate": 60.21,
+        "change_pct": -0.15,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -9190,11 +9169,11 @@
           66.17,
           62.77,
           61.5,
-          60.35
+          60.21
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CZKKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -9504,8 +9483,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 131.9,
-        "change_pct": -2.81,
+        "current_rate": 130.0,
+        "change_pct": -1.45,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -9532,11 +9511,11 @@
           147.8,
           138.8,
           135.4,
-          131.9
+          130.0
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/CLPKRW=X",
-        "asof": "2026-11-24",
+        "asof": "2026-11-25",
         "stale": false
       },
       "news": {
@@ -9841,8 +9820,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 1,
-        "current_rate": 293.0,
-        "change_pct": -3.94,
+        "current_rate": 293.2,
+        "change_pct": -3.02,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -9869,11 +9848,11 @@
           305.3,
           318.6,
           305.6,
-          293.0
+          293.2
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/KZTKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -10173,8 +10152,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 942.4,
-        "change_pct": 0.97,
+        "current_rate": 943.2,
+        "change_pct": 0.27,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -10201,11 +10180,11 @@
           990.8,
           952.0,
           955.9,
-          942.4
+          943.2
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/CADKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -10510,8 +10489,8 @@
         "is_base": false,
         "unit_base": 100,
         "decimals": 2,
-        "current_rate": 37.28,
-        "change_pct": -2.04,
+        "current_rate": 37.08,
+        "change_pct": -2.55,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -10538,7 +10517,7 @@
           43.02,
           40.51,
           42.15,
-          37.28
+          37.08
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/COPKRW=X",
@@ -10844,8 +10823,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1472.0,
-        "change_pct": 0.73,
+        "current_rate": 1469.6,
+        "change_pct": -0.1,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -10872,11 +10851,11 @@
           1580.0,
           1531.4,
           1495.9,
-          1472.0
+          1469.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -11181,8 +11160,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 39.57,
-        "change_pct": 0.29,
+        "current_rate": 39.46,
+        "change_pct": -0.24,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -11209,11 +11188,11 @@
           41.63,
           40.27,
           39.65,
-          39.57
+          39.46
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/THBKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -11515,8 +11494,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 2,
-        "current_rate": 26.54,
-        "change_pct": 0.13,
+        "current_rate": 26.46,
+        "change_pct": -0.17,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -11543,11 +11522,11 @@
           28.54,
           27.56,
           26.79,
-          26.54
+          26.46
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/TRYKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -11852,8 +11831,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1344.6,
-        "change_pct": 0.27,
+        "current_rate": 1340.5,
+        "change_pct": -0.16,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -11880,11 +11859,11 @@
           1377.1,
           1350.5,
           1338.0,
-          1344.6
+          1340.5
         ],
         "source": "Yahoo Finance (USD 1:1 고정환율)",
         "url": "https://finance.yahoo.com/quote/USDKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -12082,16 +12061,6 @@
               "translated": true,
               "original_title": "COP31 endgame + Panama’s environment minister",
               "published": "2026-11-21"
-            },
-            {
-              "title": "파나마 페이퍼스 스캔들이 아이슬란드를 흔들다",
-              "desc": "",
-              "source": "Yeni Safak English",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2S25zZjdCRGZCOXYzUWU1OUZMdTh4bU8tazRfU2NYNjdvWlVpVWR5V2NoLXRQdFdPbG9ZR2dJbnMwMlRZOVV1SGpEeUNDSjlUaTE5ejRaWnBxeklaOU5mYVEySHQ5S1pnZUJ2enRkWndpVlNmcGY1VkxPdVB5RVU?oc=5",
-              "lang": "en",
-              "translated": true,
-              "original_title": "Panama Papers scandal rocks Iceland",
-              "published": "2026-11-22"
             }
           ]
         },
@@ -12186,8 +12155,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 330.1,
-        "change_pct": 0.18,
+        "current_rate": 328.7,
+        "change_pct": -0.4,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -12214,11 +12183,11 @@
           367.9,
           350.9,
           341.1,
-          330.1
+          328.7
         ],
         "source": "Yahoo Finance (USD 교차 환산)",
         "url": "https://finance.yahoo.com/quote/PLNKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -12520,8 +12489,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 1472.0,
-        "change_pct": 0.73,
+        "current_rate": 1469.6,
+        "change_pct": -0.1,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -12548,11 +12517,11 @@
           1580.0,
           1531.4,
           1495.9,
-          1472.0
+          1469.6
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/EURKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
@@ -12862,8 +12831,8 @@
         "is_base": false,
         "unit_base": 1,
         "decimals": 1,
-        "current_rate": 889.3,
-        "change_pct": 0.05,
+        "current_rate": 890.4,
+        "change_pct": -0.03,
         "history_labels": [
           "2025년 12월",
           "2026년 1월",
@@ -12890,11 +12859,11 @@
           986.1,
           944.2,
           939.6,
-          889.3
+          890.4
         ],
         "source": "Yahoo Finance",
         "url": "https://finance.yahoo.com/quote/AUDKRW=X",
-        "asof": "2026-11-25",
+        "asof": "2026-11-26",
         "stale": false
       },
       "news": {
